@@ -4,6 +4,7 @@ languageCode = "en-us"
 title = "Rootstalk"
 theme = "rootstalkzen"
 currentIssue = "volume-v-issue-1"
+build = 1
 
 [menu]
 
