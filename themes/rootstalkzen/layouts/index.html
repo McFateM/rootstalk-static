@@ -30,7 +30,7 @@
   {{ $currentPage := . }}
   <p>{{ with .Params.description }}{{ . | markdownify }} <a style="display:inline-block" href="{{ $currentPage.RelPermalink }}">Read more &rarr;</a>{{ end }}</p>
   </div>
-  
+
   {{ end }}
 
 </div>
