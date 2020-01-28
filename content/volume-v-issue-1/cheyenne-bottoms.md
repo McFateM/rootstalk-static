@@ -1,7 +1,7 @@
 ---
 title: "Cheyenne Bottoms"
 subtitle: "The Indispensible Kansas Wetland You Never Knew About"
-date: 2019-07-11T21:19:12-07:00
+date: 2020-01-28T13:34:45-07:00
 draft: false
 author: "Alicia DeHaan"
 articletype: "Essay"

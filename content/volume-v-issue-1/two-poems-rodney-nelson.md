@@ -1,7 +1,7 @@
 ---
 title: "Two Poems"
 subtitle:
-date: 2019-07-12T16:01:00-07:00
+date: 2020-01-28T13:34:49-07:00
 draft: false
 author: "Rodney Nelson"
 articletype: "Poetry"
@@ -30,7 +30,7 @@ and rode on to one more important site or other
 where they would rally to find a pose in history
 
 {{% figure src="/images/volume-v-issue-1/storm-flint-hills-pronko.jpg" caption="“Storm in the Flint Hills,” Acrylic on canvas, 24 x 30 inches, by Jane Pronko, 1975" %}}
-  
+
 
 ### A June Weather
 

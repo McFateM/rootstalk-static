@@ -90,7 +90,7 @@ header {
 
 #articlegrid_container {
   display: flex;
-  
+
   width: 125%;
   transform: translateX(-120px);
 
@@ -258,7 +258,7 @@ nav.blockmenu {
           text-decoration: none;
           color: inherit;
         }
-        
+
         a.active {
             color: rgb(60, 100, 13);
         }
@@ -323,12 +323,12 @@ nav.blockmenu {
       text-align: left;
       padding-bottom: 0.15em;
       margin-bottom: 0.15em;
-    
+
       a {
         text-decoration: none;
         transition: 0.3s;
       }
-  
+
       a:hover {
         box-shadow: inset 0 -.15em 0 rgba(255, 255, 255, 1), inset 0 -.37em 0 $lightaccent;
       }
@@ -407,4 +407,9 @@ form#menusearch {
   margin-left: auto;
   margin-right: 0;
   display: block;
+}
+
+div.build-info P {
+  text-align: center;
+  font-size: smaller;
 }
