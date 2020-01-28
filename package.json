@@ -1,0 +1,33 @@
+{
+  "name": "rootstalk_summer2019",
+  "version": "1.0.0",
+  "description": "new site for Rootstalk: A Journal of Prairie Studies",
+  "main": "public/index.html",
+  "dependencies": {
+    "conzole": "^0.2.0",
+    "eslint-utils": "^2.0.0",
+    "hugo-lunr": "^0.0.4",
+    "lunr": "^2.3.8",
+    "mixin-deep": "^2.0.1",
+    "parser-front-matter": "^1.6.4",
+    "set-value": "^3.0.1"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "yamljs": "^0.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "index": "hugo-lunr"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jemspar/rootstalk_summer2019.git"
+  },
+  "author": "Jeremy Sparagon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jemspar/rootstalk_summer2019/issues"
+  },
+  "homepage": "https://github.com/jemspar/rootstalk_summer2019#readme"
+}

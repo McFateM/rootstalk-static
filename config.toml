@@ -1,0 +1,49 @@
+# baseURL = "http://rootstalk-2019summer.s3-website-us-east-1.amazonaws.com/"
+baseURL = "https://rootstalk-static.grinnell.edu/"
+languageCode = "en-us"
+title = "Rootstalk"
+theme = "rootstalkzen"
+currentIssue = "volume-v-issue-1"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "volume-v-issue-1"
+    name = "Current Issue"
+    title = "Volume V, Issue 1"
+    url = "/volume-v-issue-1/"
+    weight = "1"
+
+  [[menu.main]]
+    identifier = "past-issues"
+    name = "Past Issues"
+    url = "/past-issues/"
+    weight = "2"
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About us"
+    url = "/about/"
+    weight = "4"
+
+  [[menu.main]]
+    identifier = "topics"
+    name = "Topics"
+    url = "/tags/"
+    weight = "3"
+
+  [[menu.main]]
+    identifier = "submit"
+    name = "Submissions"
+    url = "/submit/"
+    weight = "5"
+
+[params]
+#   sidebar = false
+  jquery = true
+  newnav = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

@@ -1,0 +1,42 @@
+{{ define "title" }}{{ .Site.Title }}{{ end }}
+
+{{ define "meta" }}
+{{- partial "section_meta.html" . -}}
+{{- partial "single_meta.html" . -}}
+{{- partial "opengraph_meta.html" . -}}
+{{ end }}
+
+{{ define "header" }}
+{{- partial "section_json_ld.html" . -}}
+{{ end }}
+
+{{ define "main" -}}
+<main class="main layout__main">
+<article class="{{ with .Section }}section-{{ . | urlize }} {{ end }}single-view">
+
+    <div id="articletitle" style="margin-bottom: 3rem">
+        <h1 class="title">{{ .Title }}</h1>
+    </div>
+
+<div class="content">
+{{ .Content }}
+
+<form method="get" action="">
+    <input id="search" name="q" type="text" />
+    <button type="submit" class="button">Search</button>
+    <a href="/search">Clear</a>
+</form>
+
+    <p id="results_title">Searching...</p>
+    <div id="articlegrid_container" style="width: 100%; transform: none"></div>
+
+  <script type="text/javascript" src="/js/jquery.min.js"></script>
+  <script type="text/javascript" src="/js/vendor/lunr.js"></script>
+  <script type="text/javascript" src="/js/search.js"></script>
+
+
+</div>
+</article>
+</main>
+
+{{ end }}

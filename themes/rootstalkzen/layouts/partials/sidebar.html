@@ -1,0 +1,22 @@
+{{ $currentID := .File.UniqueID }}
+<aside class="sidebar layout__second-sidebar">
+
+{{ if eq .Kind "page" }}
+<h3 class="returnlink">
+  <a href="{{ $.CurrentSection.RelPermalink }}">
+    {{ printf "Return to %s index" $.CurrentSection.Title }}
+  </a>
+</h3>
+{{ end }}
+
+<!-- {{ range $.Site.Home.Sections -}}
+<section>
+<h4 class="menu"><a class="{{ if eq $currentID .UniqueID }}active{{ end }}" href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+<ul class="menu">
+{{ range .Pages -}}
+<li><a class="{{ if eq $currentID .UniqueID }}active{{ end }}" href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+{{ end -}}
+</ul>
+</section>
+{{ end -}} -->
+</aside>
