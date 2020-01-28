@@ -1,7 +1,7 @@
 ---
 title: "A Place to Call Home"
 author: "Bridget Brandt"
-date: 2019-05-30T20:00:00-07:00
+date: 2020-01-28T14:36:30-07:00
 articletype: "Memoir"
 headerimage: "a-place-to-call-home.png"
 headshot: "bridget-brandt.png"

@@ -56,7 +56,7 @@ var lunrIndex,
           if (searchString) {
             $("#results_title").html("Results for \"" + searchString + "\"");
           }
-          
+
 
           if (searchString.length < 2) {
               return;
@@ -66,7 +66,7 @@ var lunrIndex,
           console.log("searched lunr index.");
 
           renderResults(results);
-      
+
   }
 
   /**
@@ -77,7 +77,7 @@ var lunrIndex,
    */
   function search(query) {
       // Find the item in our index corresponding to the lunr one to have more info
-      // Lunr result: 
+      // Lunr result:
       //  {ref: "/section/page1", score: 0.2725657778206127}
       // Our result:
       //  {title:"Page1", href:"/section/page1", ...}
@@ -103,6 +103,7 @@ var lunrIndex,
       // Only show the ten first results
       results.slice(0, 10).forEach(function(result) {
           var $result = $("<div>", { class: "articlegrid_item", style: "width: 100%; flex-basis: 100%" });
+          // console.log(result);
           $result.append($("<h3>", {
               class: "articletype",
               text: result.type
@@ -112,10 +113,12 @@ var lunrIndex,
               href: result.href,
               text: result.title
           })));
-          $result.append($("<p>", {
+          if (result.author) {
+            $result.append($("<p>", {
               class: "author",
               text: "by " + result.author
-          }));
+            }));
+          }
           $results.append($result);
       });
   }
