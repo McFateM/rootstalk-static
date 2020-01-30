@@ -1,6 +1,6 @@
 # Deploying this Site
 
-This site is intended to be deployed using my [docker-bootstrap](https://github.com/McFateM/docker-bootstrap) approach, and the command stream used to launch [the site]( https://rootstalk-static.grinnell.edu/) on Grinnell College's `static.Grinnell.edu` server is:
+This site is intended to be deployed using my [dockerized-server](https://github.com/McFateM/dockerized-server) approach, and the command stream used to launch [the site]( https://rootstalk-static.grinnell.edu/) on Grinnell College's `static.Grinnell.edu` server is:
 
 ```
 NAME=rootstalk
@@ -8,44 +8,32 @@ HOST=rootstalk-static.grinnell.edu
 IMAGE="mcfatem/rootstalk"
 docker container run -d --name ${NAME} \
     --label traefik.backend=${NAME} \
-    --label traefik.docker.network=traefik_webgateway \
+    --label traefik.docker.network=web \
     --label "traefik.frontend.rule=Host:${HOST}" \
     --label traefik.port=80 \
     --label com.centurylinklabs.watchtower.enable=true \
-    --network traefik_webgateway \
+    --network web \
     --restart always \
     ${IMAGE}
 ```
 
-# Example Hugo project
+# Local Development
 
-## Initializing
+It is recommended that you clone (or fork and clone) this repository to an OS X workstation where [Hugo](https://gohugo.io) is installed and running an up-to-date version.
 
-```
-fin init
-```
-
-Will initialize new site, append a test content and compile the site.
-
-Your new site will be instantly available at `http://static.$VIRTUAL_HOST`
-
-## Development
-
-To develop a Hugo project you need Hugo running in a server mode ([Hugo Quickstart guide](https://gohugo.io/getting-started/quick-start/) for more details).
+My typical workflow for local development is:
 
 ```
-fin develop
+cd ~/GitHub/
+git clone https://github.com/McFateM/rootstalk-static
+cd rootstalk-static
+git checkout -b <new-branch-name>
+atom .
+hugo server
 ```
 
-Starts a Hugo server. The server will be available at `http://$VIRTUAL_HOST`.
-Updates as you edit, reload the page to see your changes.
+The `atom .` command opens the project in my [Atom](https://atom.io) editor, and `hugo server` launches a local instance of the site and provides a link to that site if there are no errors.  This local site will respond immediately to any changes made in Atom.
 
-**NOTE:** once started, the Hugo server will run, blocking the console. Kill it with `Ctrl-C`, when you are done.
+# Updating the Production Server
 
-## Compiling static site
-
-```
-fin compile
-```
-
-Will re-compile static site into `public` folder. It is available at `http://static.$VIRTUAL_HOST`
+You can use a `./push-update.sh` command to push your changes into production.  Study the `./push-update.sh` script and corresponding `push-update-Dockerfile` configuration to see all that it does.
