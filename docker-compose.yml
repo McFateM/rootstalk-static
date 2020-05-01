@@ -2,7 +2,7 @@ version: '3'
 
 services:
     rootstalk-static:
-      image: mcfatem/rootstalk-static:latest
+      image: mcfatem/rootstalk:latest
       container_name: rootstalk-static
       restart: unless-stopped
       security_opt:
