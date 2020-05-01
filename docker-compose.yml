@@ -15,10 +15,6 @@ services:
         - ./data:/data
       labels:
         - "traefik.enable=true"
-        - "traefik.http.routers.rootstalk-static.entrypoints=http"
-        - "traefik.http.routers.rootstalk-static.rule=Host(`rootstalk-static.grinnell.edu`)"
-        - "traefik.http.middlewares.rootstalk-static-https-redirect.redirectscheme.scheme=https"
-        - "traefik.http.routers.rootstalk-static.middlewares=rootstalk-static-https-redirect"
         - "traefik.http.routers.rootstalk-static-secure.entrypoints=https"
         - "traefik.http.routers.rootstalk-static-secure.rule=Host(`rootstalk-static.grinnell.edu`)"
         - "traefik.http.routers.rootstalk-static-secure.tls=true"
