@@ -18,11 +18,11 @@ services:
     labels:
       - "traefik.enable=true"
       - "traefik.docker.network=proxy"
-      - "traefik.http.routers.rootstalk-static-secure.entrypoints=https"
-      - "traefik.http.routers.rootstalk-static-secure.rule=Host(`rootstalk-static.grinnell.edu`)"
-      - "traefik.http.routers.rootstalk-static-secure.tls=true"
-      - "traefik.http.routers.rootstalk-static-secure.tls.certresolver=http"
-      - "traefik.http.routers.rootstalk-static-secure.service=rootstalk-static_rootstalk"
+      - "traefik.http.routers.rootstalk.entrypoints=https"
+      - "traefik.http.routers.rootstalk.rule=Host(`rootstalk-static.grinnell.edu`)"
+      - "traefik.http.routers.rootstalk.tls=true"
+      - "traefik.http.routers.rootstalk.tls.certresolver=http"
+      - "traefik.http.routers.rootstalk.service=rootstalk-static_${COMPOSE_PROJECT_NAME}"
       - "com.centurylinklabs.watchtower.enable=true"
 
 networks:
