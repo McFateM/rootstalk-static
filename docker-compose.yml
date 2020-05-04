@@ -20,7 +20,7 @@ services:
         - "traefik.http.routers.rootstalk-static-secure.rule=Host(`rootstalk-static.grinnell.edu`)"
         - "traefik.http.routers.rootstalk-static-secure.tls=true"
         - "traefik.http.routers.rootstalk-static-secure.tls.certresolver=http"
-        - "traefik.http.routers.rootstalk-static-secure.service=rootstalk-static_rootstalk-static"
+        - "traefik.http.routers.rootstalk-static-secure.service=rootstalk-static"
         - "com.centurylinklabs.watchtower.enable=true"
 
 networks:
