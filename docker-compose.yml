@@ -1,9 +1,9 @@
-version: '3'
+version: "3.8"
 
 services:
   rootstalk:
     environment:
-      - COMPOSE_PROJECT_NAME: "rootstalk"
+      - "COMPOSE_PROJECT_NAME=rootstalk"
     image: mcfatem/rootstalk:latest
     container_name: rootstalk
     restart: unless-stopped
