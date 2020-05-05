@@ -1,11 +1,11 @@
 version: '3'
 
 services:
-  rootstalk-static:
+  rootstalk:
     environment:
       COMPOSE_PROJECT_NAME: rootstalk
     image: mcfatem/rootstalk:latest
-    container_name: rootstalk-static
+    container_name: rootstalk
     restart: unless-stopped
     security_opt:
       - no-new-privileges:true
@@ -22,7 +22,7 @@ services:
       - "traefik.http.routers.rootstalk.rule=Host(`rootstalk-static.grinnell.edu`)"
       - "traefik.http.routers.rootstalk.tls=true"
       - "traefik.http.routers.rootstalk.tls.certresolver=http"
-      - "traefik.http.routers.rootstalk.service=rootstalk-static_${COMPOSE_PROJECT_NAME}"
+      - "traefik.http.routers.rootstalk.service=rootstalk_${COMPOSE_PROJECT_NAME}"
       - "com.centurylinklabs.watchtower.enable=true"
 
 networks:
