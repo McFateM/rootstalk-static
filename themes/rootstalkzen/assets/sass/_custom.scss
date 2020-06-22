@@ -413,3 +413,14 @@ div.build-info P {
   text-align: center;
   font-size: smaller;
 }
+
+// Announcement
+
+div.announcement {
+  display: block;
+  border: 4px solid green;
+  border-radius: 5px;
+  text-align: center;
+  padding: 5px;
+  margin: 5px;
+}

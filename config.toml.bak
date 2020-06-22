@@ -15,10 +15,16 @@ currentIssue = "volume-v-issue-1"
     weight = "1"
 
   [[menu.main]]
+      identifier = "rootstalk-archive"
+      name = "Archive: the Old Website"
+      url = "https://rootstalk-archive.grinnell.edu"
+      weight = "2"
+
+  [[menu.main]]
     identifier = "past-issues"
     name = "Past Issues"
     url = "/past-issues/"
-    weight = "2"
+    weight = "3"
 
   [[menu.main]]
     identifier = "about"
@@ -30,19 +36,19 @@ currentIssue = "volume-v-issue-1"
     identifier = "topics"
     name = "Topics"
     url = "/tags/"
-    weight = "3"
+    weight = "5"
 
   [[menu.main]]
     identifier = "submit"
     name = "Submissions"
     url = "/submit/"
-    weight = "5"
+    weight = "6"
 
 [params]
   #sidebar = false
   jquery = true
   newnav = true
-  buildDate = '2020-01-30 10:37'
+  buildDate = '2020-01-30 10:42'
   #copyright = "Rootstalk 2020"
 
 [markup]
