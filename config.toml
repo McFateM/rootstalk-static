@@ -1,5 +1,5 @@
 # baseURL = "http://rootstalk-2019summer.s3-website-us-east-1.amazonaws.com/"
-baseURL = "https://rootstalk-static.grinnell.edu/"
+baseURL = "https://rootstalk.grinnell.edu/"
 languageCode = "en-us"
 title = "Rootstalk"
 theme = "rootstalkzen"
@@ -48,7 +48,7 @@ currentIssue = "volume-v-issue-1"
   #sidebar = false
   jquery = true
   newnav = true
-  buildDate = '2020-06-22 11:13'
+  buildDate = '2020-06-22 11:38'
   #copyright = "Rootstalk 2020"
 
 [markup]
