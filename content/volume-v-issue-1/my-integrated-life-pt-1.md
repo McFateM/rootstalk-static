@@ -1,7 +1,7 @@
 ---
 title: "My Integrated Life"
 subtitle: "Part 1"
-date: 2020-07-13T13:10:50-07:00
+date: 2020-07-13T18:33:00-07:00
 draft: false
 author: "Dartanyan Brown"
 articletype: "Essay"
@@ -89,7 +89,9 @@ significant had occurred. With a gleam in her eye that was still there
 in her 80s, she told me, "The happiest time was getting out for recess
 because you could play with ALL the children on the playground."
 
-{{# figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-1.jpg" caption="Buxton, Iowa, as it was at the turn of the 19th and 20th Centuries. Public-domain image from [Blackpast.org](http://blackpast.org)." #}}
+<!--
+{{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-1.jpg" caption="Buxton, Iowa, as it was at the turn of the 19th and 20th Centuries. Public-domain image from [Blackpast.org](http://blackpast.org)." %}}
+-->
 
 {{% figure src="https://digital.grinnell.edu/islandora/object/grinnell:28269/datastream/OBJ/view" caption="Buxton, Iowa, as it was at the turn of the 19th and 20th Centuries. Public-domain image from [Blackpast.org](http://blackpast.org)." %}}
 
@@ -121,7 +123,9 @@ brothers (Kevan and Don) and me into dad's beloved '55 Dodge and head
 off to Albia, Marshalltown, Perry or somewhere else where the family had
 friends from the Buxton days.
 
-{{# figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-2.jpg" caption="Dartanyan’s  grandmother, Lettie Porter Thompson" #}}
+<!--
+{{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-2.jpg" caption="Dartanyan’s  grandmother, Lettie Porter Thompson" %}}
+-->
 
 {{% figure src="https://digital.grinnell.edu/islandora/object/grinnell:28270/datastream/OBJ/view" caption="Dartanyan’s  grandmother, Lettie Porter Thompson" %}}
 
@@ -200,9 +204,11 @@ father's induction into the Iowa Jazz Hall of Fame, I learned from his
 friends in attendance that he brought musicians to our Walker Street
 house to teach them the Schillinger System.
 
-{{# figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-3.jpg" #}}
+<!--
+{{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-3.jpg" %}}
 
-{{# figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-4.jpg" caption="Dartanyan’s  musical parents, Ellsworth and Mary Alice" #}}
+{{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-4.jpg" caption="Dartanyan’s  musical parents, Ellsworth and Mary Alice" %}}
+-->
 
 {{% figure src="https://digital.grinnell.edu/islandora/object/grinnell:28271/datastream/OBJ/view" %}}
 

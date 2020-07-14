@@ -48,7 +48,7 @@ currentIssue = "volume-v-issue-1"
   #sidebar = false
   jquery = true
   newnav = true
-  buildDate = '2020-07-06 10:51'
+  buildDate = '2020-07-13 15:11'
   #copyright = "Rootstalk 2020"
 
 [markup]
