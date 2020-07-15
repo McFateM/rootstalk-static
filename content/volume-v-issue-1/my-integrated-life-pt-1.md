@@ -1,7 +1,7 @@
 ---
 title: "My Integrated Life"
 subtitle: "Part 1"
-date: 2020-07-13T18:33:00-07:00
+date: 2020-07-14T19:23:16-07:00
 draft: false
 author: "Dartanyan Brown"
 articletype: "Essay"
@@ -943,6 +943,7 @@ band house and now was I going to leave town?
 My band mates, John Rowat, Michael Schomers, Frank Tribble and Bill
 Jacobs, were more supportive of me moving up than they were disappointed
 at losing a renter, so I was off to Chicago to begin what would be
-life-changing circumstances.
+life-changing circumstances.  
+{{% leaf-bug %}}
 
 {{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-12.jpg" caption="Dartanyan onstage with Bill Chase" %}}

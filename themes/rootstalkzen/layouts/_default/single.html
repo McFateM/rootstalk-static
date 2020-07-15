@@ -8,6 +8,7 @@
 {{ end }}
 
 {{ define "main" -}}
+{{ .Scratch.Set "leaf-bug" "false" }}
 <div id="articletitle"><h1 class="{{ if $.Param "submitted" | default false }}title-submitted{{ end }}">{{ $.Title | markdownify }}</h1>
   {{ with .Params.subtitle }}
   <h2 class="subtitle">
@@ -31,7 +32,10 @@
 <div class="content">
 {{ .Content }}
 
-<img class="leaf" src="/images/rootstalk_leaf.svg" />
+{{ if not (.HasShortcode "leaf-bug") }}
+  <img class="leaf" src="/images/rootstalk_leaf.svg" />
+{{ end }}
+
 {{ if ne .Lastmod .Date }}{{ partial "dates.html" . }}{{ end -}}
 </div>
 <!-- for author bio -->
