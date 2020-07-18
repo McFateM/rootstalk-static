@@ -1,0 +1,7 @@
+{{ $num := .Get 0 }}
+{{ $text := .Get 1 }}
+<a id="endnote{{- $num -}}">
+  <p class="endnote" id='{{- $num -}}'>
+    <a href="#footnote{{- $num -}}"><sup>{{- $num }}</sup></a> {{ $text | markdownify -}}
+  </p>
+</a>

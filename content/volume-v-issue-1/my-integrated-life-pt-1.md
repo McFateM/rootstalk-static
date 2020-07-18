@@ -1,7 +1,7 @@
 ---
 title: "My Integrated Life"
 subtitle: "Part 1"
-date: 2020-07-14T19:23:16-07:00
+date: 2020-07-18T09:24:41-07:00
 draft: false
 author: "Dartanyan Brown"
 articletype: "Essay"
@@ -32,7 +32,7 @@ story. Part II will appear in the Spring 2019 issue.*
 My name is Dartanyan Brown. I'm an African-American conceived in
 California and born in 1949 in Des Moines, Iowa.
 
-I'm also a former *Des Moines Register^1^* reporter, as well as a
+I'm also a former *Des Moines Register*{{% footnote 1 %}} reporter, as well as a
 third-generation musician with deep roots in American Jazz, Folk, Rock
 'n Roll and Electronic music traditions. I've also been an educational
 technology enthusiast, though I label myself an artist-educator, having
@@ -49,7 +49,7 @@ journey that I like to describe as My Integrated Life.
 
 To begin, let's travel back in time 122 years ago to a coal seam in
 Monroe County, Iowa, owned by the Consolidation Coal Co. of Chicago. The
-town that grew up around the mine, Buxton^2^ (near present day Albia),
+town that grew up around the mine, Buxton{{% footnote 2 %}} (near present day Albia),
 was named eponymously for its manager, Ben C. Buxton. That was where my
 great-grandparents, Ross and Blanche Johnson, arrived from Virginia in
 1895. Why did they travel so far?
@@ -947,3 +947,7 @@ life-changing circumstances.
 {{% leaf-bug %}}
 
 {{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-12.jpg" caption="Dartanyan onstage with Bill Chase" %}}
+
+{{% endnotes %}}
+{{% endnote 1 "https://www.desmoinesregister.com" %}}
+{{% endnote 2 "https://blackpast.org/aah/buxton-iowa-1895-1927" %}}
