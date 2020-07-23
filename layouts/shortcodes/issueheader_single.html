@@ -1,0 +1,29 @@
+<!-- {/{ $issuename := .Get "issue" }/}
+{/{ $issue := .Get "issue" | .Page.GetPage }/} -->
+
+<!-- default .Page.CurrentSection -->
+
+{{ $string := .Get "issue" }}
+{{ $issue := .Page.GetPage $string }}
+
+{{ with $issue }}
+  <a href="{{ .RelPermalink }}">
+    <div id="current_issue_img" style="--coverurl: url('{{.RelPermalink}}cover.png') ;">
+      <div id="current_issue_text">
+        <p class="issue">{{ .Title }}</p>
+        <p class="season">{{ .Params.description | markdownify }}</p>
+      </div>
+    </div>
+  </a>
+{{ end }}
+
+<div id="download_link_container">
+  {{ with .Get "printPDF" }}
+    <div class="download_link"><a href="https://digital.grinnell.edu/islandora/object/{{.}}/datastream/OBJ/download" download="{{ $issue.Title }}.pdf">Download print PDF</a></div>
+  {{ end }}
+  {{ with .Get "interactivePDF" }}
+    <div class="download_link"><a href="https://digital.grinnell.edu/islandora/object/{{.}}/datastream/OBJ/download">Download interactive PDF</a></div>
+  {{ end }}
+</div>
+
+<hr>

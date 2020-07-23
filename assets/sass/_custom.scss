@@ -413,3 +413,28 @@ div.build-info P {
   text-align: center;
   font-size: smaller;
 }
+
+// Announcement
+
+div.announcement {
+  display: block;
+  border: 4px solid green;
+  border-radius: 5px;
+  text-align: center;
+  padding: 5px;
+  margin: 5px;
+}
+
+// MENU block adjustment
+
+nav.blockmenu #label {
+  margin: 0 1.5vw 0 1.5vw;
+}
+
+// Endnotes block
+
+div.endnotes {
+  display: block;
+  background-color: #a7ba93;
+  padding: 5px 5px 15px 10px;
+}

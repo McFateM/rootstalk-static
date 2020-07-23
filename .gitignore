@@ -1,6 +1,7 @@
 # generated site #
 public/*
 public/
+resources/_gen/*
 
 # OS generated files #
 ######################

@@ -1,7 +1,7 @@
 ---
 title: "My Integrated Life"
 subtitle: "Part 1"
-date: 2019-07-11T19:58:21-07:00
+date: 2020-07-18T12:11:03-07:00
 draft: false
 author: "Dartanyan Brown"
 articletype: "Essay"
@@ -32,7 +32,7 @@ story. Part II will appear in the Spring 2019 issue.*
 My name is Dartanyan Brown. I'm an African-American conceived in
 California and born in 1949 in Des Moines, Iowa.
 
-I'm also a former *Des Moines Register^1^* reporter, as well as a
+I'm also a former *Des Moines Register*{{% ref 1 %}} reporter, as well as a
 third-generation musician with deep roots in American Jazz, Folk, Rock
 'n Roll and Electronic music traditions. I've also been an educational
 technology enthusiast, though I label myself an artist-educator, having
@@ -49,7 +49,7 @@ journey that I like to describe as My Integrated Life.
 
 To begin, let's travel back in time 122 years ago to a coal seam in
 Monroe County, Iowa, owned by the Consolidation Coal Co. of Chicago. The
-town that grew up around the mine, Buxton^2^ (near present day Albia),
+town that grew up around the mine, Buxton{{% ref 2 %}} (near present day Albia),
 was named eponymously for its manager, Ben C. Buxton. That was where my
 great-grandparents, Ross and Blanche Johnson, arrived from Virginia in
 1895. Why did they travel so far?
@@ -89,7 +89,11 @@ significant had occurred. With a gleam in her eye that was still there
 in her 80s, she told me, "The happiest time was getting out for recess
 because you could play with ALL the children on the playground."
 
+<!--
 {{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-1.jpg" caption="Buxton, Iowa, as it was at the turn of the 19th and 20th Centuries. Public-domain image from [Blackpast.org](http://blackpast.org)." %}}
+-->
+
+{{% figure src="https://digital.grinnell.edu/islandora/object/grinnell:28269/datastream/OBJ/view" caption="Buxton, Iowa, as it was at the turn of the 19th and 20th Centuries. Public-domain image from [Blackpast.org](http://blackpast.org)." %}}
 
 Over the years, my grandmother described Buxton as generally a very good
 place to grow up. "I don't like this one, I don't like that one...can't
@@ -119,9 +123,13 @@ brothers (Kevan and Don) and me into dad's beloved '55 Dodge and head
 off to Albia, Marshalltown, Perry or somewhere else where the family had
 friends from the Buxton days.
 
+<!--
 {{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-2.jpg" caption="Dartanyan’s  grandmother, Lettie Porter Thompson" %}}
+-->
 
-I remember hearing about The Buxton Club^3^, a social circle of mainly
+{{% figure src="https://digital.grinnell.edu/islandora/object/grinnell:28270/datastream/OBJ/view" caption="Dartanyan’s  grandmother, Lettie Porter Thompson" %}}
+
+I remember hearing about The Buxton Club{{% ref 3 %}}, a social circle of mainly
 women whose families had roots in Buxton/Monroe County. In the summer of
 2018, I was happy to find out that the Buxton Club still sustains the
 memory of the place. It's amazing that over a century later, the
@@ -153,22 +161,22 @@ Latino and European-American neighbors.
 
 In the mid-50s the Walker Street house was a hub for rehearsals, jam
 sessions, and music lessons for students like 16-year-old Frank
-Perowsky^4^ who left Des Moines to forge an incredible career as an
+Perowsky{{% ref 4 %}} who left Des Moines to forge an incredible career as an
 arranger, instrumentalist, studio musician and recording artist in New
 York City. Dad even had a system you could use to press your own
-recordings^5^ from blank vinyl discs. (Don't ask me how that worked!!)
+recordings{{% ref 5 %}} from blank vinyl discs. (Don't ask me how that worked!!)
 
-Ernest "Speck" Redd^6^---originally from Hannibal, Missouri---while
+Ernest "Speck" Redd{{% ref 6 %}}---originally from Hannibal, Missouri---while
 certainly not the only good piano player, was the most respected African
 American jazz piano player of the 50s and 60s in Des Moines. Because he
 lived three blocks down Walker Street from us, there were frequent music
-sessions involving him and my father. Charlie Parker^7^ was the reigning
+sessions involving him and my father. Charlie Parker{{% ref 7 %}} was the reigning
 king of Jazz at that time, and I remember spirited discussions between
 the musicians about how to interpret Bird's musical innovations. Speck
 was posthumously inducted into the Des Moines Community Jazz Center
-(CJC) Jazz Hall of Fame^8^ in 2005. My dad's induction came in 2010.
+(CJC) Jazz Hall of Fame{{% ref 8 %}} in 2005. My dad's induction came in 2010.
 
-Dad was a bebopper (bebop^9^ being a kind of jazz introduced during the
+Dad was a bebopper (bebop{{% ref 9 %}} being a kind of jazz introduced during the
 1940s by innovators like Charlie Parker); Mom loved Rhumba, Merengue,
 and European Classical music of all kinds. I was immersed in these
 sounds, almost inundated with them, from the time I was born. I would
@@ -191,27 +199,33 @@ My father was familiar with both the social and the mathematical
 contexts for integration. Ellsworth had been one of the few Black radio
 officers in the Merchant Marine during WWII. Dad integrated his aptitude
 for mathematics into his love of music, and this led him to the
-Schillinger System of Musical Composition^10^. Years later, at my
+Schillinger System of Musical Composition{{% ref 10 %}}. Years later, at my
 father's induction into the Iowa Jazz Hall of Fame, I learned from his
 friends in attendance that he brought musicians to our Walker Street
 house to teach them the Schillinger System.
 
+<!--
 {{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-3.jpg" %}}
 
 {{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-4.jpg" caption="Dartanyan’s  musical parents, Ellsworth and Mary Alice" %}}
+-->
+
+{{% figure src="https://digital.grinnell.edu/islandora/object/grinnell:28271/datastream/OBJ/view" %}}
+
+{{% figure src="https://digital.grinnell.edu/islandora/object/grinnell:28272/datastream/OBJ/view" caption="Dartanyan’s  musical parents, Ellsworth and Mary Alice" %}}
 
 Music, mathematics and technology were completely integrated in my
 father's mind. In my 20s, when I encountered the writings of R.
-Buckminster Fuller^11^, I found someone who could clearly articulate
+Buckminster Fuller{{% ref 11 %}}, I found someone who could clearly articulate
 complicated ideas in the same way my father could. Bucky's *Operating
-Manual for Spaceship Earth*^12^ was an inspiration, and it remains an
+Manual for Spaceship Earth*{{% ref 12 %}} was an inspiration, and it remains an
 inspiration to this day.
 
 Dad also collected radios, and the pieces in his collection were objects
 of fascination for me. I remember a small room in our house that was
 filled with scopes and electronic parts. As a youngster watching
 television (we baby boomers were the first TV generation) I was awed by
-science fiction serials of the day (Captain Video^13^ anyone?). The
+science fiction serials of the day (Captain Video{{% ref 13 %}} anyone?). The
 radios on Dad's worktable had these things called "tubes" inside, and to
 me they looked like little spaceships. I delighted in removing them from
 the back of old radios and zooming them around the room flying my
@@ -253,9 +267,9 @@ generation was heading, George introduced me to memorable jazz and rock
 music experiences long before I considered actually performing myself.
 
 He introduced me to a local Jazz Festival at the First Unitarian Church
-and took me to the KRNT Theater to see Illinois Speed Press^14^ and
-Chicago Transit Authority (later Chicago^15^), as well as Veterans
-Auditorium to hear Cream^16^ (god, Eric Clapton played LOUD!!). He
+and took me to the KRNT Theater to see Illinois Speed Press{{% ref 14 %}} and
+Chicago Transit Authority (later Chicago{{% ref 15 %}}), as well as Veterans
+Auditorium to hear Cream{{% ref 16 %}} (god, Eric Clapton played LOUD!!). He
 started taking me to his bands' rehearsals and asked the bassist to show
 me how to play a blues bass line.
 
@@ -263,14 +277,14 @@ After a lot of practicing in the basement, I was playing bass myself,
 and in the winter of 1968 I went with a group of friends to the Drake
 Fieldhouse for a concert by a band from Chicago.
 
-It was the Paul Butterfield Blues Band^17^ featuring the legendary
+It was the Paul Butterfield Blues Band{{% ref 17 %}} featuring the legendary
 harmonica player and singer. He introduced 17-year-old Buzz Feiten on
 guitar to us. Also on board were Phillip Wilson on drums, Tenor
 saxophone player/vocalist and songwriter Brother Gene Dinwiddie, and I
 think David Sanborn was in there, too, on alto saxophone.
 
 I had never heard of this band before, but after the concert I went out
-and bought their new album ("The Resurrection of Pigboy Crabshaw^18^")
+and bought their new album ("The Resurrection of Pigboy Crabshaw{{% ref 18 %}}")
 and lost the rest of my mind while playing it.
 
 Everything about this music confirmed that something big was missing
@@ -304,7 +318,7 @@ After the Butterfield Concert, with friends Rick Arbuckle, Paul Micich,
 Frank Tribble, and Sylvester Strother, I started the Black and Blues
 Band as a kind of serious hobby. I was really glad I learned to play the
 blues on bass and guitar, because I was ready to fit right in to the
-Blues Revival that followed in the wake of the British Invasion^19^.
+Blues Revival that followed in the wake of the British Invasion{{% ref 19 %}}.
 
 I feel it important here to mention that Blues music---that
 quintessential African-American music form native to the USA---was being
@@ -327,7 +341,7 @@ pretty menial gig, and while I was sweeping there was lots of time to
 think about what I really wanted to do with my life. I was already
 taking journalism classes at North High School with Mr. Barnett, and I
 was already Sports Editor for the *North High Oracle*. Importantly, I
-had also written some articles for the *Iowa Bystander*^20^, the state's
+had also written some articles for the *Iowa Bystander*{{% ref 20 %}}, the state's
 most established newspaper for the African American community.
 *Bystander* editor Allen Ashby was my first mentor. He was a wise,
 knowledgeable man who prepared me well to go forward. So during the late
@@ -359,12 +373,12 @@ somewhere in Iowa was covering someone playing football somewhere in
 Iowa.
 
 Sports Editor Leighton Housh was patrolling the writers' desks where
-Bill Bryson Sr.^21^, Buck Turnbull, Jim Moackler, and Ron Maly were
+Bill Bryson Sr.{{% ref 21 %}}, Buck Turnbull, Jim Moackler, and Ron Maly were
 racing toward their personal deadlines, pounding out stories on
 typewriters that emitted the 'chik' 'chik-chik' 'chik'- sound of those
 old metal key-action Smith-Coronas.
 
-Meanwhile, Bill Dwyre^22^, Ron's Maly's brother Phil, Larry "Laddy" Paul
+Meanwhile, Bill Dwyre{{% ref 22 %}}, Ron's Maly's brother Phil, Larry "Laddy" Paul
 and Copy Chief Howard Kluender were at the editor's ring, heads down,
 pencils slashing through sloppy copy, replacing it with elegant, brief
 sentences, designed to be read over coffee in the morning edition.
@@ -442,7 +456,7 @@ need to navigate a new world for which there were few road maps.
 
 Looking back on it, I think the best thing about my time at the *Des
 Moines Register* was acquiring great research skills. The esteemed Iowa
-author Bill Bryson^23^ and I both began working for the *Des Moines
+author Bill Bryson{{% ref 23 %}} and I both began working for the *Des Moines
 Register* while still in high school. His father, Bill Bryson Sr. was
 one of the nation's great sports writers. Bill Jr. and I were high
 school-age copy runners and cub reporters learning the ropes, but we
@@ -456,8 +470,8 @@ The investigative reporter is the original Google. They never rest, and
 they never stop turning over rocks to find the truth. Learning where to
 look, whom to ask, and whom to "socially engineer" have always been the
 hallmarks of those who went out and got the story, and got it right.
-Pulitzer-Prize-winning writers like Nathan 'Nick' Kotz^24^ and the
-*Register's* own Clark Mollenhoff^25^ were the kind of reporters that we
+Pulitzer-Prize-winning writers like Nathan 'Nick' Kotz{{% ref 24 %}} and the
+*Register's* own Clark Mollenhoff{{% ref 25 %}} were the kind of reporters that we
 need vastly more of today.
 
 {{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-7.jpg" caption="Anti-racism protest at Drake University in 1968" %}}
@@ -466,7 +480,7 @@ Then, in 1968, my journalistic worlds became a little too well
 integrated. Let me explain:
 
 During my sophomore year at Drake, I was the sports editor of the
-University's student paper, the *Times-Delphic*^26^, while at the same
+University's student paper, the *Times-Delphic*{{% ref 26 %}}, while at the same
 time I was now a Police Beat reporter for the *Register*. As an
 18-year-old, I was doing pretty well. I was getting lots of
 opportunities, and like a hungry kid at a banquet I was grabbing
@@ -513,7 +527,7 @@ questions about my absent father. Like that annoying small stone in your
 shoe, it wasn't long before---one way or another---I was going to have
 to stop along the path to deal with it.
 
-The tragedy of the Kent State Massacre^27^ in May of 1970 triggered deep
+The tragedy of the Kent State Massacre{{% ref 27 %}} in May of 1970 triggered deep
 evaluation for me: Who was I, really? What was I doing here? Where else
 should I be? Why couldn't I ever relax, and how could I regain
 equilibrium?
@@ -527,7 +541,7 @@ ever before.
 At the time when a young man most needs the closest guidance to navigate
 the path into manhood, I was without my captain. Adding to the chaos, we
 were forced to move out of our house because of something called Urban
-Renewal^28^. I learned that urban renewal was actually short hand for
+Renewal{{% ref 28 %}}. I learned that urban renewal was actually short hand for
 "build a big new freeway---over land formerly known as the Black
 neighborhood."
 
@@ -704,7 +718,7 @@ the most expressive blues guitar players I had ever heard. The touch,
 timing and fire that distinguished his playing rivaled anything I'd ever
 heard from anyone short of Jimi Hendrix. Craig Horner, our keyboardist
 and trumpet player, was also a fine musician who spent long hours
-practicing and listening to everyone from John Coltrane^29^ to Jimi
+practicing and listening to everyone from John Coltrane{{% ref 29 %}} to Jimi
 Hendrix. Importantly, I discovered that culture isn't just about famous
 individuals. It's what my friend, University of Indiana music professor
 David Baker, described as the Inner Circles vs. the Outer Circles. The
@@ -720,7 +734,7 @@ Wisconsin, Illinois and Minnesota.
 It was in Wisconsin that a new chapter was getting ready to begin for
 me, but I sure didn't recognize it at the time.
 
-The first time I heard Bill Chase^30^ was when Wheatstraw was booked at
+The first time I heard Bill Chase{{% ref 30 %}} was when Wheatstraw was booked at
 Judy's Gin Mill (!), a beer bar in Fond du Lac Wisconsin. It was a
 Friday afternoon and David, Ronnie and I were sitting around our hotel
 room doing basically nothing. Things were calm until Craig literally
@@ -734,7 +748,7 @@ And with that, we heard the first track of Chase's first album entitled
 
 Once I peeled my brain off the ceiling, I researched Bill Chase and
 discovered he'd been a star trumpet soloist for big bands of the 60s,
-including Maynard Ferguson^31^, Woody Herman^32^ and Stan Kenton^33^.
+including Maynard Ferguson{{% ref 31 %}}, Woody Herman{{% ref 32 %}} and Stan Kenton{{% ref 33 %}}.
 Bill was a monster trumpet player and now he was a band leader whose
 first single ("Get It On") would become an international hit song.
 
@@ -752,12 +766,12 @@ quartet featuring members Phil Aaberg on piano, Rod Chaffee on guitar,
 Tom Gordon on drums, and yours truly on bass guitar. A band of writers,
 we played bluesy-jazzy roots music that morphed from one style to
 another with great relish. Our influences were as wide ranging as John
-Coltrane, Paul Butterfield, John Cage^34^, the group Tree (an Iowa City
-Free Jazz collective), Donny Hathaway^35^ and the Sons of Champlin^36^.
+Coltrane, Paul Butterfield, John Cage{{% ref 34 %}}, the group Tree (an Iowa City
+Free Jazz collective), Donny Hathaway{{% ref 35 %}} and the Sons of Champlin{{% ref 36 %}}.
 
 Dynamite was a fun band with talent to burn, but unfortunately for us
 (though fortunately for my future), through a connection to the Kansas
-band The Fabulous Flippers^37^, our drummer, Tommy Gordon was called up
+band The Fabulous Flippers{{% ref 37 %}}, our drummer, Tommy Gordon was called up
 to the "big time" to play with...Bill Chase!! (Chase's second album,
 "Ennea," had been released a few months earlier). Tommy was a great
 drummer who rightly jumped at the chance to play with Bill. Of course,
@@ -781,7 +795,7 @@ edge-of-town bar which even the local police didn't mess with too much
 because it was that rough.
 
 Over the years, we saw lots of different groups there. Funky horn groups
-like the previously mentioned Flippers, singer Marvin Spencer^38^, and
+like the previously mentioned Flippers, singer Marvin Spencer{{% ref 38 %}}, and
 lots of groups from Kansas, Florida, Louisiana and elsewhere. The list
 of bands that toured the roadhouse circuit to carve out a career is
 long. I was at home next door to the club when one day the phone
@@ -805,7 +819,7 @@ another two or three minutes to realize that something special was
 happening on the stage---and this was just rehearsal.
 
 The group rehearsing for the evening's show was Wayne Cochran and his
-band, the CC Riders^39^. For those of you unfamiliar with the tradition,
+band, the CC Riders{{% ref 39 %}}. For those of you unfamiliar with the tradition,
 Wayne Cochran was a White soul singer in the tradition of James Brown.
 The cool thing about Cochran was that he, like Brown, was the real deal.
 He was a loud, signifyin', funkified White boy who could drive an
@@ -817,9 +831,9 @@ Cochran's energy emanated as much from his band as from his own nasty
 soul. The band's engine was being stoked by a tall skinny kid on bass
 who they called Jaco.
 
-"Jaco" was Jaco Pastorius^40^, later bass player for Weather Report^41^,
-which---alongside Miles Davis's^42^ electric bands, the Mahavishnu
-Orchestra^43^, Return to Forever^44^, and Headhunters^45^---was one of
+"Jaco" was Jaco Pastorius{{% ref 40 %}}, later bass player for Weather Report{{% ref 41 %}},
+which---alongside Miles Davis's{{% ref 42 %}} electric bands, the Mahavishnu
+Orchestra{{% ref 43 %}}, Return to Forever{{% ref 44 %}}, and Headhunters{{% ref 45 %}}---was one of
 the most important jazz fusion bands of the 70s and 80s. When I saw him
 at the Five, though, Jaco was the heart of Wayne Cochran and the CC
 Riders' rhythm section, which also included guitarist Charlie Brent. (As
@@ -844,7 +858,7 @@ to offer. I have never met a more honest, caring, sensitive and talented
 individual than Jaco Pastorius in 1972.
 
 While Jaco was a natural musician whose father played drums, he'd also
-studied with Ira Sullivan^46^ at the University of Miami^47^. His mom
+studied with Ira Sullivan{{% ref 46 %}} at the University of Miami{{% ref 47 %}}. His mom
 Greta was someone he was totally devoted to. Jaco already had a young
 family then, and it was his single-minded goal to support his family by
 convincing everyone that he was the world's greatest bass player!
@@ -852,16 +866,16 @@ convincing everyone that he was the world's greatest bass player!
 He was convinced of that fact (I certainly wasn't going to disagree,
 based on what I had heard) and he told me of his plans to leave the
 Cochran band soon and travel to Boston to join up with a new friend
-named Pat Metheny^48^. Metheny, he said, offered him an opportunity to
-teach at Berklee College of Music^49^ in Boston. In 1976, Metheny---who
+named Pat Metheny{{% ref 48 %}}. Metheny, he said, offered him an opportunity to
+teach at Berklee College of Music{{% ref 49 %}} in Boston. In 1976, Metheny---who
 was then only 21---would make his seminal debut recording "Bright Size
-Life"^50^ on ECM with Jaco. Later in 1974, Pastorius and Metheny joined
+Life"{{% ref 50 %}} on ECM with Jaco. Later in 1974, Pastorius and Metheny joined
 pianist Paul Bley and drummer Bruce Ditmas to record an album on Bley's
-Improvising Artists^51^ label).
+Improvising Artists{{% ref 51 %}} label).
 
 Anyway, the three days spent with Jaco could only be termed as a meeting
 of kindred spirits. The next time I saw him was 1976 at the Newport Jazz
-Festival^52^. By then he was with Weather Report and a true star. The
+Festival{{% ref 52 %}}. By then he was with Weather Report and a true star. The
 best thing was, when I saw him again, he actually spotted me at the back
 of a large auditorium (Alice Tully Hall, I think) as I was walking in
 for Weather Report's sound check.
@@ -917,7 +931,7 @@ from listening, but that was it. He said, "No matter, we've got all the
 charts."
 
 I just said a little prayer of thanks that I was playing in the Drake
-University Jazz band with Bob Weast^53^. Taking two semesters of Jazz
+University Jazz band with Bob Weast{{% ref 53 %}}. Taking two semesters of Jazz
 Band had given me exactly the foundation I needed to read the charts I
 lived with for the next 17 months.
 
@@ -929,6 +943,62 @@ band house and now was I going to leave town?
 My band mates, John Rowat, Michael Schomers, Frank Tribble and Bill
 Jacobs, were more supportive of me moving up than they were disappointed
 at losing a renter, so I was off to Chicago to begin what would be
-life-changing circumstances.
+life-changing circumstances.  
+{{% leaf-bug %}}
 
 {{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-12.jpg" caption="Dartanyan onstage with Bill Chase" %}}
+
+{{% endnotes %}}
+{{% endnote 1 "https://www.desmoinesregister.com" %}}
+{{% endnote 2 "https://blackpast.org/aah/buxton-iowa-1895-1927" %}}
+{{% endnote 3 "https://www.facebook.com/The-Original-Buxton-Iowa-Club-INC-276779099055023" %}}
+{{% endnote 4 "https://www.allmusic.com/artist/frank-perowsky-mn0000174141" %}}
+{{% endnote 5 "https://reverb.com/item/6878309-wilcox-gay-recordio-model-6a1ou-record-lathe-vintage-antiqueturntable-cutter" %}}
+{{% endnote 6 "http://cibs.org/events-programs/iowa-blues-hall-of-fame/speck-redd" %}}
+{{% endnote 7 "https://en.wikipedia.org/wiki/Charlie_Parker" %}}
+{{% endnote 8 "http://dmcommunityjazzcenter.org/HallofFame.aspx" %}}
+{{% endnote 9 "https://en.wikipedia.org/wiki/Bebop" %}}
+{{% endnote 10 "https://en.wikipedia.org/wiki/Schillinger_System" %}}
+{{% endnote 11 "https://en.wikipedia.org/wiki/Buckminster_Fuller" %}}
+{{% endnote 12 "https://en.wikipedia.org/wiki/Operating_Manual_for_Spaceship_Earth" %}}
+{{% endnote 13 "https://en.wikipedia.org/wiki/Captain_Video_and_His_Video_Rangers" %}}
+{{% endnote 14 "https://en.wikipedia.org/wiki/Illinois_Speed_Press" %}}
+{{% endnote 15 "https://en.wikipedia.org/wiki/Chicago_(band)" %}}
+{{% endnote 16 "https://en.wikipedia.org/wiki/Cream_(band)" %}}
+{{% endnote 17 "https://en.wikipedia.org/wiki/Paul_Butterfield" %}}
+{{% endnote 18 "https://en.wikipedia.org/wiki/The_Resurrection_of_Pigboy_Crabshaw" %}}
+{{% endnote 19 "https://en.wikipedia.org/wiki/British_Invasion" %}}
+{{% endnote 20 "https://en.wikipedia.org/wiki/Iowa_Bystander" %}}
+{{% endnote 21 "https://en.wikipedia.org/wiki/Bill_Bryson_Sr" %}}
+{{% endnote 22 "https://en.wikipedia.org/wiki/Bill_Dwyre" %}}
+{{% endnote 23 "https://en.wikipedia.org/wiki/Bill_Bryson" %}}
+{{% endnote 24 "https://en.wikipedia.org/wiki/Nick_Kotz" %}}
+{{% endnote 25 "https://en.wikipedia.org/wiki/Clark_R._Mollenhoff" %}}
+{{% endnote 26 "http://timesdelphic.com" %}}
+{{% endnote 27 "https://en.wikipedia.org/wiki/Kent_State_shootings" %}}
+{{% endnote 28 "https://en.wikipedia.org/wiki/Urban_renewal" %}}
+{{% endnote 29 "https://en.wikipedia.org/wiki/John_Coltrane" %}}
+{{% endnote 30 "https://en.wikipedia.org/wiki/Bill_Chase" %}}
+{{% endnote 31 "https://en.wikipedia.org/wiki/Maynard_Ferguson" %}}
+{{% endnote 32 "https://en.wikipedia.org/wiki/Woody_Herman" %}}
+{{% endnote 33 "https://en.wikipedia.org/wiki/Stan_Kenton" %}}
+{{% endnote 34 "https://en.wikipedia.org/wiki/John_Cage" %}}
+{{% endnote 35 "https://en.wikipedia.org/wiki/Donny_Hathaway" %}}
+{{% endnote 36 "http://www.sonsofchamplin.com" %}}
+{{% endnote 37 "http://www.nebrocks.org/flippers.htm" %}}
+{{% endnote 38 "https://wcfcourier.com/entertainment/local_entertainment/marvin-spencer-had-golden-voice-personality/article_d361cf5b-d1ce-59ae-b110-bc8c4790b71c.html" %}}
+{{% endnote 39 "https://en.wikipedia.org/wiki/Wayne_Cochran" %}}
+{{% endnote 40 "http://jacopastorius.com" %}}
+{{% endnote 41 "https://en.wikipedia.org/wiki/Weather_Report" %}}
+{{% endnote 42 "https://en.wikipedia.org/wiki/Miles_Davis" %}}
+{{% endnote 43 "https://en.wikipedia.org/wiki/Mahavishnu_Orchestra" %}}
+{{% endnote 44 "https://en.wikipedia.org/wiki/Return_to_Forever" %}}
+{{% endnote 45 "https://en.wikipedia.org/wiki/The_Headhunters" %}}
+{{% endnote 46 "https://en.wikipedia.org/wiki/Ira_Sullivan" %}}
+{{% endnote 47 "https://miami.edu" %}}
+{{% endnote 48 "http://www.patmetheny.com" %}}
+{{% endnote 49 "https://www.berklee.edu" %}}
+{{% endnote 50 "https://en.wikipedia.org/wiki/Bright_Size_Life" %}}
+{{% endnote 51 "http://www.improvart.com" %}}
+{{% endnote 52 "http://www.newportjazz.org" %}}
+{{% endnote 53 "http://dmcommunityjazzcenter.org/HallofFame/tabid/86/articleType/ArticleView/articleId/27/Robert-Bob-Weast-2007-Inductee.aspx" %}}
