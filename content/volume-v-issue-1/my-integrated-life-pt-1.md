@@ -1,7 +1,7 @@
 ---
 title: "My Integrated Life"
 subtitle: "Part 1"
-date: 2020-07-18T12:11:03-07:00
+date: 2020-07-29T14:57:37-07:00
 draft: false
 author: "Dartanyan Brown"
 articletype: "Essay"
@@ -91,9 +91,11 @@ because you could play with ALL the children on the playground."
 
 <!--
 {{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-1.jpg" caption="Buxton, Iowa, as it was at the turn of the 19th and 20th Centuries. Public-domain image from [Blackpast.org](http://blackpast.org)." %}}
--->
 
 {{% figure src="https://digital.grinnell.edu/islandora/object/grinnell:28269/datastream/OBJ/view" caption="Buxton, Iowa, as it was at the turn of the 19th and 20th Centuries. Public-domain image from [Blackpast.org](http://blackpast.org)." %}}
+-->
+
+{{% figure_dg pid="28269" caption="Buxton, Iowa, as it was at the turn of the 19th and 20th Centuries. Public-domain image from [Blackpast.org](http://blackpast.org)." %}}
 
 Over the years, my grandmother described Buxton as generally a very good
 place to grow up. "I don't like this one, I don't like that one...can't
@@ -125,9 +127,11 @@ friends from the Buxton days.
 
 <!--
 {{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-2.jpg" caption="Dartanyan’s  grandmother, Lettie Porter Thompson" %}}
--->
 
 {{% figure src="https://digital.grinnell.edu/islandora/object/grinnell:28270/datastream/OBJ/view" caption="Dartanyan’s  grandmother, Lettie Porter Thompson" %}}
+-->
+
+{{% figure_dg pid="28270" caption="Dartanyan's grandmother, Lettie Porter Thompson" %}}
 
 I remember hearing about The Buxton Club{{% ref 3 %}}, a social circle of mainly
 women whose families had roots in Buxton/Monroe County. In the summer of
