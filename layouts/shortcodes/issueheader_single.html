@@ -18,9 +18,11 @@
 {{ end }}
 
 <div id="download_link_container">
+  <!--  MM 31-Jul-2020 Decision made to provide only interactive PDFs in the new site
   {{ with .Get "printPDF" }}
     <div class="download_link"><a href="https://digital.grinnell.edu/islandora/object/{{.}}/datastream/OBJ/download" download="{{ $issue.Title }}.pdf">Download print PDF</a></div>
   {{ end }}
+  -->
   {{ with .Get "interactivePDF" }}
     <div class="download_link"><a href="https://digital.grinnell.edu/islandora/object/{{.}}/datastream/OBJ/download">Download interactive PDF</a></div>
   {{ end }}
