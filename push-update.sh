@@ -19,6 +19,6 @@ docker image build -f push-update-Dockerfile --no-cache -t rootstalk-update .
 echo "...docker image build is complete."
 
 # Tag the new image and push it to Docker Hub
-docker login
+cat ~/mcfatem-docker-login.txt | /usr/local/bin/docker login -u mcfatem --password-stdin
 docker tag rootstalk-update mcfatem/rootstalk:latest
 docker push mcfatem/rootstalk:latest
