@@ -14,11 +14,11 @@
 <main class="main layout__main">
 <article class="{{ with .Section }}section-{{ . | urlize }} {{ end }}single-view">
 <div class="content">
-
+<script>console.log('past issue list.');</script>
     
 {{ .Content }}
 
-    {{ range (.Page.Sections.ByParam "issueIndex").Reverse }}
+{{ range (.Page.Sections.ByParam "issueIndex").Reverse }}
 
 <a href="{{ .RelPermalink }}" id="current_issue_img" style="--coverurl: url('{{.RelPermalink}}cover.png') ;">
   
