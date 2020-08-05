@@ -1,7 +1,7 @@
 ---
 title: "Extraction, Roots, Energy, and The Plains"
 subtitle:
-date: 2020-08-04T20:07:58-07:00
+date: 2020-08-05T13:44:29-07:00
 draft: false
 author: "Sebastian Braun"
 articletype: "Essay"
@@ -27,7 +27,7 @@ usually a short emotion, as I realized that my mind had played tricks.
 Those were not mountains, could not be mountains. They were clouds that
 had swept me away toward home, mirroring a more familiar landscape.
 
-{{% figure src="/images/volume-v-issue-1/extraction-roots-energy-plains/extraction-01.jpg" caption="All photos courtesy Sebastian Braun" %}}
+{{% figure_dg pid="28366" caption="All photos courtesy Sebastian Braun" %}}
 
 Living on the Great Plains costs a lot of energy. The sky overhead is
 endless, and the people are exposed to that sky as if on a plate.
@@ -102,7 +102,7 @@ Slowly spreading toward Poplar and the Missouri River, the only solution
 for this catastrophe has been to try and pump it to the surface again,
 and then to inject it deeper.
 
-{{% figure src="/images/volume-v-issue-1/extraction-roots-energy-plains/extraction-02.jpg" %}}
+{{% figure_dg pid="28367" %}}
 
 The pulse of this network has become constant beneath the soil, and in
 some places, it has become so strong that it regularly causes small
@@ -193,7 +193,7 @@ public, to allow people onto the land, not in small, enclosed parcels,
 but in continuous flows, traveled in days, experienced close at hand.
 Observed, listened to, smelled, and tasted.
 
-{{% figure src="/images/volume-v-issue-1/extraction-roots-energy-plains/extraction-03.jpg" %}}
+{{% figure_dg pid="28368" %}}
 
 Ironically---or perhaps not at all---those landscapes would also provide
 us with material energy. The energy returned over energy invested ratio
@@ -239,4 +239,4 @@ learning, then we will be able to harvest their true energy.
 
 {{% leaf-bug %}}
 
-{{% figure src="/images/volume-v-issue-1/extraction-roots-energy-plains/extraction-04.jpg" %}}
+{{% figure_dg pid="28369" %}}

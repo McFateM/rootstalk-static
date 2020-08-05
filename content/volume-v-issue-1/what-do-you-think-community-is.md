@@ -1,6 +1,6 @@
 ---
 title: "What Do You Think Community Is?"
-date: 2019-06-15T20:27:01-07:00
+date: 2020-08-05T14:10:09-07:00
 draft: false
 author: "Kaitie Hess"
 articletype: "Photo essay"
@@ -26,7 +26,7 @@ Using images of the students’ work and quotes from their commentary on communi
 
 ### "The roots in the mural show that we live together and we work together."
 
-{{% figure_dg caption="Kaitie Hess \"What Do You Think Community Is?\" 02" src="28352" %}}
+{{% figure_dg caption="Kaitie Hess \"What Do You Think Community Is?\" 02" pid="28352" %}}
 
 ### "Community makes me think about my family."
 

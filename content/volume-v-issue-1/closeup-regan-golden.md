@@ -1,7 +1,7 @@
 ---
 title: "Regan Golden"
 subtitle:
-date: 2020-08-04T20:07:58-07:00
+date: 2020-08-05T14:07:08-07:00
 draft: false
 author:
 articletype: "Closeup"
@@ -20,7 +20,7 @@ description: "To depict ecological change in the American landscape, this artist
 tags: ["arts"]
 ---
 
-{{% figure src="/images/volume-v-issue-1/closeup-regan-golden/regan-golden-01.jpg" caption="\"Prairie Constructs #35 & #36,\" Archival Inkjet Print, each image 36 x 54 inches, by Regan Golden, 2015" %}}
+{{% figure_dg pid="28361" caption="\"Prairie Constructs #35 & #36,\" Archival Inkjet Print, each image 36 x 54 inches, by Regan Golden, 2015" %}}
 
 For the past decade my artwork and research has focused on 'edgelands,'
 from a forest in Massachusetts bordering a subdivision to a ragged
@@ -70,6 +70,6 @@ images.
 
 {{% leaf-bug %}}
 
-{{% figure src="/images/volume-v-issue-1/closeup-regan-golden/regan-golden-02.jpg" caption="\"Prairie Construct #41,\" Archival Inkjet Print,  36 x 54 inches, by Regan Golden, 2015" %}}
+{{% figure_dg pid="28362" caption="\"Prairie Construct #41,\" Archival Inkjet Print,  36 x 54 inches, by Regan Golden, 2015" %}}
 
-{{% figure src="/images/volume-v-issue-1/closeup-regan-golden/regan-golden-03.jpg" caption="Clockwise from top left, \"Prairie Construct #23, #5, #37 & #18,\" Archival Inkjet Print, each image 36 x 54 inches, by Regan Golden, 2015" %}}
+{{% figure_dg pid="28363" caption="Clockwise from top left, \"Prairie Construct #23, #5, #37 & #18,\" Archival Inkjet Print, each image 36 x 54 inches, by Regan Golden, 2015" %}}

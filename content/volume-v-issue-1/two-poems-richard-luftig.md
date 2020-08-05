@@ -1,7 +1,7 @@
 ---
 title: "Two Poems"
 subtitle:
-date: 2020-08-04T20:07:58-07:00
+date: 2020-08-05T14:02:04-07:00
 draft: false
 author: "Richard Luftig"
 articletype: "Poetry"
@@ -68,7 +68,7 @@ the sky and watch for the chevron flight
 of Canada Geese and listen as they leave faint,
 distant cries of their wish to make it all the way home.
 
-{{% figure src="/images/volume-v-issue-1/two-poems-richard-luftig/luftig-voss.jpg" caption="Photograph by Leina’ala Voss" %}}
+{{% figure_dg pid="28400" caption="Photograph by Leina’ala Voss" %}}
 
 ### Winter Games
 
@@ -119,4 +119,4 @@ to stoke their own winter fires.
 
 {{% leaf-bug %}}
 
-{{% figure_dg pid="28328" caption="“Sanctuary,” Oil on canvas, 24 x 36 inches,  by Jane Pronko, 1998" %}}
+{{% figure_dg pid="28399" caption="“Sanctuary,” Oil on canvas, 24 x 36 inches,  by Jane Pronko, 1998" %}}
