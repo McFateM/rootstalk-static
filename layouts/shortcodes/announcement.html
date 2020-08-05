@@ -1,0 +1,7 @@
+{{ $file := .Get "file" }}
+{{ if (fileExists $file) -}}
+  <div class="announcement">
+    {{ $file | readFile | markdownify }}
+    {{/* (print $file "\n") | markdownify */}}
+  </div>
+{{- end }}

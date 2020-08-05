@@ -20,13 +20,13 @@ Interestingly,  the two classes’ differing concept of community was reflected 
 
 Using images of the students’ work and quotes from their commentary on community as  they worked, I’ve traced this project from its beginnings through the finished project.
 
-{{% figure caption="Kaitie Hess \"What Do You Think Community Is?\" 01" src="/images/volume-v-issue-1/what-do-you-think-community-is/kaitie-hess-01.jpg" %}}
+{{% figure_dg caption="Kaitie Hess \"What Do You Think Community Is?\" 01" pid="28351" %}}
 
 ### "Community means working together to make something."
 
 ### "The roots in the mural show that we live together and we work together."
 
-{{% figure caption="Kaitie Hess \"What Do You Think Community Is?\" 02" src="/images/volume-v-issue-1/what-do-you-think-community-is/kaitie-hess-02.jpg" %}}
+{{% figure_dg caption="Kaitie Hess \"What Do You Think Community Is?\" 02" src="28352" %}}
 
 ### "Community makes me think about my family."
 
@@ -34,7 +34,7 @@ Using images of the students’ work and quotes from their commentary on communi
 
 ### "We have an outer community---school, the town, people I see at the supermarket---and an inner community [the speaker hugs her friend]."
 
-{{% figure caption="Kaitie Hess \"What Do You Think Community Is?\" 03" src="/images/volume-v-issue-1/what-do-you-think-community-is/kaitie-hess-03.jpg" %}}
+{{% figure_dg caption="Kaitie Hess \"What Do You Think Community Is?\" 03" pid="28353" %}}
 
 ### "We help each other in a community. Community is people---firefighters, police officers, and other people who work together to help."
 

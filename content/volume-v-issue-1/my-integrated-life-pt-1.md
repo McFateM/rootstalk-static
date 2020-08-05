@@ -93,9 +93,11 @@ because you could play with ALL the children on the playground."
 {{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-1.jpg" caption="Buxton, Iowa, as it was at the turn of the 19th and 20th Centuries. Public-domain image from [Blackpast.org](http://blackpast.org)." %}}
 
 {{% figure src="https://digital.grinnell.edu/islandora/object/grinnell:28269/datastream/OBJ/view" caption="Buxton, Iowa, as it was at the turn of the 19th and 20th Centuries. Public-domain image from [Blackpast.org](http://blackpast.org)." %}}
--->
 
 {{% figure_dg pid="28269" caption="Buxton, Iowa, as it was at the turn of the 19th and 20th Centuries. Public-domain image from [Blackpast.org](http://blackpast.org)." %}}
+-->
+
+{{% figure_dg pid="28318" caption="Buxton, Iowa, as it was at the turn of the 19th and 20th Centuries. Public-domain image from [Blackpast.org](http://blackpast.org)." %}}
 
 Over the years, my grandmother described Buxton as generally a very good
 place to grow up. "I don't like this one, I don't like that one...can't
@@ -947,7 +949,7 @@ band house and now was I going to leave town?
 My band mates, John Rowat, Michael Schomers, Frank Tribble and Bill
 Jacobs, were more supportive of me moving up than they were disappointed
 at losing a renter, so I was off to Chicago to begin what would be
-life-changing circumstances.  
+life-changing circumstances.
 {{% leaf-bug %}}
 
 {{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-12.jpg" caption="Dartanyan onstage with Bill Chase" %}}

@@ -80,7 +80,7 @@ many reasons why the industrial food system is already beginning to
 it collapses. It is imperative, he argues, that we explore an
 alternative food system and begin building it.
 
-{{% figure src="/images/volume-v-issue-1/agricultural-city/building-the-agricultural-city-01.jpg" caption="Book cover for *Building the Agricultural City: A Handbook for Rural Renewal* by Robert Wolf." %}}
+{{% figure_dg pid="28322" caption="Book cover for *Building the Agricultural City: A Handbook for Rural Renewal* by Robert Wolf." %}}
 
 Of course, one of the many drivers of the Green Revolution model---as
 well as our enthusiasm surrounding it---was our collective assumption
@@ -146,7 +146,7 @@ Chesapeake Bay to the Carolinas and Georgia." Returning to that kind of
 regional self-reliance can play a central role in deconstructing the
 highly problematic political economy in which we live.
 
-{{% figure src="/images/volume-v-issue-1/agricultural-city/building-the-agricultural-city-02.jpg" caption="Photo by Jon Andelson" %}}
+{{% figure_dg pid="28323" caption="Photo by Jon Andelson" %}}
 
 Those still not convinced may want to examine yet another recent
 publication by two of our leading agroecologists, Peter Rosset and
