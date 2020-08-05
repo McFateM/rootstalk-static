@@ -1,7 +1,7 @@
 ---
 title: "Jumping Into the Void"
 subtitle: "Creating a Community Art Center in Oskaloosa, Iowa"
-date: 2020-08-05T13:51:47-07:00
+date: 2019-06-19T15:04:30-07:00
 draft: false
 author: "Matt and  Sarah Kargol"
 articletype: "Interview"
@@ -22,7 +22,6 @@ description: "What does an artist do in a prairie town that doesn't have an arts
 ---
 
 *In July of 2018, Rootstalk Associate Editor Vincent Benlloch spoke with Matt and  Sarah  Kargol, founders of the non-profit Fine Arts and Cultural Events (FACE) of [Mahaska County, Iowa](https://www.faceofmahaska.com), housed at [Oskaloosa’s Art Center and Studios](https://www.facebook.com/oskaloosaartcenter).*
-
 
 ***Rootstalk:*** We'd be curious to hear a little more about what's
 going on in [Oskaloosa](https://www.oskaloosaiowa.org) right now for you,

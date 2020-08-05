@@ -1,6 +1,6 @@
 ---
 title: "What Do You Think Community Is?"
-date: 2020-08-05T14:10:09-07:00
+date: 2019-06-15T20:27:01-07:00
 draft: false
 author: "Kaitie Hess"
 articletype: "Photo essay"

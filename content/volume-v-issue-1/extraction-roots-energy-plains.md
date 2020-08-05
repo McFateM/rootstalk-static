@@ -1,7 +1,7 @@
 ---
 title: "Extraction, Roots, Energy, and The Plains"
 subtitle:
-date: 2020-08-05T13:44:29-07:00
+date: 2019-07-12T16:11:00-07:00
 draft: false
 author: "Sebastian Braun"
 articletype: "Essay"

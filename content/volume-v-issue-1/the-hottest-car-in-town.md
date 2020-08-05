@@ -1,6 +1,6 @@
 ---
 title: "The Hottest Car in Town"
-date: 2020-08-04T20:07:58-07:00
+date: 2019-06-14T14:41:03-07:00
 draft: false
 author: "Allan Moyer"
 articletype: "Memoir"

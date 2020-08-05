@@ -1,7 +1,7 @@
 ---
 title: "Regan Golden"
 subtitle:
-date: 2020-08-05T14:07:08-07:00
+date: 2020-01-28T14:36:30-07:00
 draft: false
 author:
 articletype: "Closeup"

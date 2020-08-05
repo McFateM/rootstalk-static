@@ -1,7 +1,7 @@
 ---
 title: "Two Poems"
 subtitle:
-date: 2020-08-05T14:02:04-07:00
+date: 2019-07-12T15:30:00-07:00
 draft: false
 author: "Richard Luftig"
 articletype: "Poetry"

@@ -1,6 +1,6 @@
 ---
 title: "On the Changing Nature of the Obituary"
-date: 2020-08-05T14:00:26-07:00
+date: 2019-06-17T15:08:46-07:00
 draft: false
 author: "Mary Kay Shanley"
 articletype: "Essay"

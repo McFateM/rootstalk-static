@@ -1,7 +1,7 @@
 ---
 title: "It Takes a Village to Build an Issue"
 subtitle:
-date: 2020-08-04T19:59:13-07:00
+date: 2019-05-28T12:19:29-07:00
 draft: false
 author: "Jon Andelson"
 articletype: "Publisher's note"

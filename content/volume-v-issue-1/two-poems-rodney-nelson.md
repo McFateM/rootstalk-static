@@ -7,7 +7,7 @@ author: "Rodney Nelson"
 articletype: "Poetry"
 headerimage: "two-poems-rodney-nelson.jpg"
 headshot: "rodney-nelson.jpg"
-authorbio: "Rodney Nelson’s work began appearing in mainstream journals long ago. See his page in the *Poets & Writers* directory at
+authorbio: "Rodney Nelson’s work began appearing in mainstream journals long ago. See his page in the *Poets & Writers* directory at  
 http://www.pw.org/content/rodney_nelson. He has lived in various parts of the country, working as a licensed psychiatric technician and copy editor, and now resides in the northern Great Plains. Recently published chapbook and book titles are *Canyon*, *Late & Later*,  [*Metacowboy*](https://cowboypoetrypress.com/2012/07/06/metacowboy-poems-by-rodney-nelson), [*The Western Wide*](https://threwlinebooks.wordpress.com), *Mogollon Picnic* and *Ahead of Evening*, (both from [Red Dashboard Press](http://cms.reddashboard.com)), [Hill of Better Sleep](https://www.redbirdchapbooks.com/content/rodney-nelson), *In Wait* ([Mind Bomb Press](https://www.amazon.com/Wait-Rodney-Nelson/dp/0984084274)), as well as *Felton Prairie*, *Cross Point Road*, *Billy Boy*, *Winter in Fargo*, *Hjemkomst*, *Time Tacit*, and Minded Places (all from [Middle Island Press](https://poeticaplace.wordpress.com/middle-island-press/rodney-nelson))."
 description: "In this poet's work the prairie's weathers have an intimate connection to the landscape's history."
 ---
@@ -30,7 +30,6 @@ and rode on to one more important site or other
 where they would rally to find a pose in history
 
 {{% figure_dg pid="28327" caption="“Storm in the Flint Hills,” Acrylic on canvas, 24 x 30 inches, by Jane Pronko, 1975" %}}
-
 
 ### A June Weather
 

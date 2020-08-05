@@ -1,7 +1,7 @@
 ---
 title: "A Place to Call Home"
 author: "Bridget Brandt"
-date: 2020-08-04T20:05:03-07:00
+date: 2020-01-28T14:36:30-07:00
 articletype: "Memoir"
 headerimage: "a-place-to-call-home.png"
 headshot: "bridget-brandt.png"
@@ -25,6 +25,7 @@ For instance, there was the day when we were walking to Merrill Park, just down 
 This past October my husband and I were in a small church in Cape Breton, in northern Nova Scotia, to attend a Celtic service called ‘The Blessing of the Kilts’. I had just signed the guest book with our names and hometown, when a lady breathlessly approached me and asked, “Are you from Grinnell, Iowa?” When I responded that yes, we were, she took my hand and said that her husband had graduated from Grinnell High School and Grinnell College and had just been in Grinnell the week before to attend the high school homecoming parade celebrating his 50th year class reunion. She was so happy to talk to us and introduce us to her husband. After visiting with them for a while we learned that he had grown up in the house next door to where we live. Whispers of Grinnell  seem to follow you wherever you go.
 
 Our children have let us know that we can never move away from Grinnell, because they always want to come back here. Our daughter’s friends, who are scattered around the country, call Grinnell a ‘rubber band’ community. No matter how far away you go, you always want to come back to Grinnell. To come back home.
+
 
 {{% figure_dg caption="David Brandt, coaching little league. son Josiah (the hatless catcher) and his teammates listen to a pep-talk. Photo courtesy of Bridget Brandt" pid="28297" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: "Community, Commons, and Ecological Restoration at Dancing Rabbit Ecovillage"
 subtitle:
-date: 2020-08-04T20:07:58-07:00
+date: 2019-06-19T11:25:26-07:00
 draft: false
 author: "Joshua Lockyer"
 articletype: "Essay"

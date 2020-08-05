@@ -1,6 +1,6 @@
 ---
 title: "Healing the Smallest Casualty"
-date: 2020-08-05T13:45:38-07:00
+date: 2019-06-15T19:36:45-07:00
 draft: false
 author: "Randall Hotchkin"
 articletype: "Personal essay"

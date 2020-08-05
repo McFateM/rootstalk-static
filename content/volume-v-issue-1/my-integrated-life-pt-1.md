@@ -1,7 +1,7 @@
 ---
 title: "My Integrated Life"
 subtitle: "Part 1"
-date: 2020-08-05T13:58:16-07:00
+date: 2020-07-29T14:57:37-07:00
 draft: false
 author: "Dartanyan Brown"
 articletype: "Essay"
