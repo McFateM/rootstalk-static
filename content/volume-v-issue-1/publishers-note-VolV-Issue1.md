@@ -1,7 +1,7 @@
 ---
 title: "It Takes a Village to Build an Issue"
 subtitle:
-date: 2019-05-28T12:19:29-07:00
+date: 2020-08-04T19:59:13-07:00
 draft: false
 author: "Jon Andelson"
 articletype: "Publisher's note"
@@ -83,5 +83,7 @@ everything in the issue, and we hope that what you see here provokes you
 to frame your own thoughts about what it means to live in concert with
 other humans. Let us hear from you. For guidelines on sending us your
 work, go to the [submit page](/submit/).
+
+{{% leaf-bug %}}
 
 {{% figure_dg pid="28290" caption="The Grinnell community gathers at the College’s [Conard Environmental Research Area](https://www.grinnell.edu/academics/majors-concentrations/biology/cera) to celebrate the National Water Dance in 2016." %}}

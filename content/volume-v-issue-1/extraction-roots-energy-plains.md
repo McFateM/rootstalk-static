@@ -1,7 +1,7 @@
 ---
 title: "Extraction, Roots, Energy, and The Plains"
 subtitle:
-date: 2019-07-12T16:11:00-07:00
+date: 2020-08-04T20:07:58-07:00
 draft: false
 author: "Sebastian Braun"
 articletype: "Essay"
@@ -236,5 +236,7 @@ Ironically, people in exile are experts on roots. What we have learned
 is that roots cannot be forced. Roots need to grow naturally. If we
 allow them to grow, over time, patiently, listening and observing and
 learning, then we will be able to harvest their true energy.
+
+{{% leaf-bug %}}
 
 {{% figure src="/images/volume-v-issue-1/extraction-roots-energy-plains/extraction-04.jpg" %}}

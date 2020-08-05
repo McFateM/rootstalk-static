@@ -3,7 +3,7 @@ title: "Worthless Rocks"
 author: "John C. Whittaker"
 articletype: "Essay"
 headerimage: "arrowheads.jpg"
-date: 2019-05-30T21:57:33-07:00
+date: 2020-08-04T20:04:02-07:00
 draft: false
 tags: ["featured"]
 authorbio: "[John Whittaker](https://www.grinnell.edu/user/whittake) has been teaching [anthropology](https://www.grinnell.edu/academics/majors-concentrations/anthropology) at [Grinnell College](https://www.grinnell.edu) since 1984. He is mostly an archaeologist, but says that all people, living and dead, are of interest to him. About his practice of flintknapping&emdash;the making of stone tools using traditional methods&emdash;John says: \"Experiments with ancient technologies are fun, inexpensive, and tell us a lot about what we want to know about the past. [Flintknapping](https://en.wikipedia.org/wiki/Knapping) allows us to recognize artifacts, interepret their past uses, and examine their place in the ancient world. Flintknapping also happens to be an enjoyable craft, practiced by all our ancestors at one time or another.\""
@@ -64,5 +64,7 @@ It was a long and dreary slog, and she just wouldn’t have any of it. I kept re
 Finally I made my excuses to Selma:. “Gotta get back and get ready for classes. Thanks for showing me your stuff...”
 
 We parted on good terms. Although we really didn’t do much for each other, I like to hope that I left her feeling that academics aren’t too stuck-up to talk to citizens, even if we must be kinda stupid. At the door she closed the episode perfectly.  “I do want my stuff taken care of. Do you think anyone at the [Meskwaki Tribe](https://meskwaki.org) would be interested?”
+
+{{% leaf-bug %}}
 
 {{% figure caption="Three points made by the author, along with river-rolled flints that look like artifacts, and gravel. Photo courtesy of John Whittaker" src="/images/volume-v-issue-1/worthless-rocks/arrowheads3.jpg" %}}

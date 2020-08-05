@@ -1,7 +1,7 @@
 ---
 title: "A Place to Call Home"
 author: "Bridget Brandt"
-date: 2020-01-28T14:36:30-07:00
+date: 2020-08-04T20:05:03-07:00
 articletype: "Memoir"
 headerimage: "a-place-to-call-home.png"
 headshot: "bridget-brandt.png"
@@ -31,5 +31,7 @@ Our children have let us know that we can never move away from Grinnell, because
 Last September our son came home to celebrate his 40th birthday. When we asked him what he would like to do, he said he wanted to get his childhood buddies together and play Home Run Derby down at Merrill Park, where they had played so often when they were kids. We collected several buckets of the baseballs we had carefully stored away in our basement, grabbed a few of the old baseball gloves, and headed to the park. Our son drove down from Cedar Rapids that morning; others came from Ankeny and some from down the road or around the block. They came now with their own sons. For a morning we watched them run and hit and laugh and throw, transported to a more carefree time: being 13 years old on a beautiful blue-sky September day.
 
 For  us, Grinnell  indeed lives up to its slogan, the “Jewel of the Prairie.” How fortunate we’ve been to live in such a special place.
+
+{{% leaf-bug %}}
 
 {{% figure_dg caption="Getting the team back together: Coach David Brandt (far left) is joined (from left to right) by Andrew Carr, Dan Carr, the Brandt brothers Josiah and Nathanael, and Willie Stewart. Photo courtesy of Bridget Brandt" pid="28298" %}}

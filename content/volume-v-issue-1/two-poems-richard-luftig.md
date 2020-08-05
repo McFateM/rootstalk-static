@@ -1,7 +1,7 @@
 ---
 title: "Two Poems"
 subtitle:
-date: 2019-07-12T15:30:00-07:00
+date: 2020-08-04T20:07:58-07:00
 draft: false
 author: "Richard Luftig"
 articletype: "Poetry"
@@ -116,5 +116,7 @@ and take comfort on how
 my neighbors survived
 using my life as kindling
 to stoke their own winter fires.
+
+{{% leaf-bug %}}
 
 {{% figure_dg pid="28328" caption="“Sanctuary,” Oil on canvas, 24 x 36 inches,  by Jane Pronko, 1998" %}}

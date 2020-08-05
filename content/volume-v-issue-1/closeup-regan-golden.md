@@ -1,7 +1,7 @@
 ---
 title: "Regan Golden"
 subtitle:
-date: 2020-01-28T14:36:30-07:00
+date: 2020-08-04T20:07:58-07:00
 draft: false
 author:
 articletype: "Closeup"
@@ -67,6 +67,8 @@ work enables me to be open to the natural world that is around me, even
 in the city. It is this sense of wonder and awareness about the
 persistence of urban nature that I want to pass on to viewers through my
 images.
+
+{{% leaf-bug %}}
 
 {{% figure src="/images/volume-v-issue-1/closeup-regan-golden/regan-golden-02.jpg" caption="\"Prairie Construct #41,\" Archival Inkjet Print,  36 x 54 inches, by Regan Golden, 2015" %}}
 

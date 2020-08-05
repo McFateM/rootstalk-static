@@ -1,7 +1,7 @@
 ---
 title: "Cheyenne Bottoms"
 subtitle: "The Indispensible Kansas Wetland You Never Knew About"
-date: 2020-01-28T13:34:45-07:00
+date: 2020-08-04T20:07:58-07:00
 draft: false
 author: "Alicia DeHaan"
 articletype: "Essay"
@@ -131,5 +131,7 @@ hear the raucous calling of geese, and crane our necks to see flocks of
 thousands wheel in the sky. We can marvel at their migration journey and
 should do what we can to ensure that the waypoint they rely on will
 always be here to welcome them.
+
+{{% leaf-bug %}}
 
 {{% figure_dg pid="28358" caption="Bank swallows at Cheyenne Bottoms." %}}

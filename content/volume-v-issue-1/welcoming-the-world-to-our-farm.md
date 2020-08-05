@@ -1,7 +1,7 @@
 ---
 title: "Pony Rides, Vice-Presidents and Weddings in the Rain"
 subtitle: "Welcoming the World to Our Farm"
-date: 2019-06-14T14:47:40-07:00
+date: 2020-08-04T20:07:58-07:00
 draft: false
 author: "Shirley Moyer"
 articletype: "Memoir"
@@ -53,5 +53,7 @@ Finally, when Al Gore was a presidential hopeful, there was almost a visit to th
 Occasionally we hear from a mom or dad who visited our place as a kindergartner, and they tell us about how their kids also enjoyed a visit to the farm. Many friends, relatives, and neighbors made this all possible and are fondly remembered by all our family. We haven’t had school visits for many years now. Almost all the animals have been sold off, but there is still a donkey and a mule. They just seem a part of the place. And, of course there are always cats milling around and hens in the chicken coop out back.
 
 So many memories return when writing this story....
+
+{{% leaf-bug %}}
 
 {{% figure caption="Kittens in the Hay Mow" src="/images/volume-v-issue-1/welcoming-the-world-to-our-farm/happy-kids.jpg" %}}

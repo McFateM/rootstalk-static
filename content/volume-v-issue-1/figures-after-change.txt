@@ -1,0 +1,69 @@
+a-place-to-call-home.md:{{% figure_dg pid="28296" caption="Katie Brandt (lower right corner, wearing headband), performing at the Iowa State Marching Band Festival in high school. Photo courtesy of Bridget Brandt" %}}
+a-place-to-call-home.md:{{% figure_dg caption="David Brandt, coaching little league. son Josiah (the hatless catcher) and his teammates listen to a pep-talk. Photo courtesy of Bridget Brandt" pid="28297" %}}
+a-place-to-call-home.md:{{% figure_dg caption="Getting the team back together: Coach David Brandt (far left) is joined (from left to right) by Andrew Carr, Dan Carr, the Brandt brothers Josiah and Nathanael, and Willie Stewart. Photo courtesy of Bridget Brandt" pid="28298" %}}
+american-mink.md:{{% figure_dg caption="Photo courtesy of Ken Saunders II, taken March 18, 2016, at Otter Creek Marsh Wildlife Management Area in Tama County, Iowa" pid="28309" %}}
+building-the-agricultural-city.md:{{% figure_dg pid="28322" caption="Book cover for *Building the Agricultural City: A Handbook for Rural Renewal* by Robert Wolf." %}}
+building-the-agricultural-city.md:{{% figure_dg pid="28323" caption="Photo by Jon Andelson" %}}
+cheyenne-bottoms.md:{{% figure_dg pid="28357" caption="American white pelicans, cormorants, gulls and assorted other waterfowl gather on a spit at Cheyenne Bottoms. photos by Kaleb Kroeker unless otherwise noted" %}}
+cheyenne-bottoms.md:{{% figure_dg pid="28356" caption="A black-necked stilt working the shallows at Cheyenne Bottoms." %}}
+cheyenne-bottoms.md:{{% figure_dg pid="28358" caption="Bank swallows at Cheyenne Bottoms." %}}
+closeup-regan-golden.md:{{% figure src="/images/volume-v-issue-1/closeup-regan-golden/regan-golden-01.jpg" caption="\"Prairie Constructs #35 & #36,\" Archival Inkjet Print, each image 36 x 54 inches, by Regan Golden, 2015" %}}
+closeup-regan-golden.md:{{% figure src="/images/volume-v-issue-1/closeup-regan-golden/regan-golden-02.jpg" caption="\"Prairie Construct #41,\" Archival Inkjet Print,  36 x 54 inches, by Regan Golden, 2015" %}}
+closeup-regan-golden.md:{{% figure src="/images/volume-v-issue-1/closeup-regan-golden/regan-golden-03.jpg" caption="Clockwise from top left, \"Prairie Construct #23, #5, #37 & #18,\" Archival Inkjet Print, each image 36 x 54 inches, by Regan Golden, 2015" %}}
+community-commons-ecological-restoration.md:{{% figure_dg caption="Figure 1: Dancing Rabbit Ecovillage location map in northeastern Missouri. Map by Zach Rubin" pid="28338" %}}
+community-commons-ecological-restoration.md:{{% figure_dg caption="Figure 2: Dancing Rabbit Ecovillage group photo. those in the picture include community members, people in the process of joining the community, and others who were present as part of Dancing Rabbit’s education and outreach programs. They’re posing in front of the cars that community members share as part of the Dancing Rabbit Ecovillage Vehicle Cooperative. Photo courtesy of Dancing Rabbit" pid="28339" %}}
+community-commons-ecological-restoration.md:{{% figure_dg caption="Figure 3: Dancing Rabbit’s land in a satellite image from 1995. Image by Emily Beahm with Google Earth imagery and based on an original version by Dancing Rabbit Ecovillage" pid="28340" %}}
+community-commons-ecological-restoration.md:{{% figure_dg caption="Figure 4: Dancing Rabbit Ecovillage land use planning map, showing a portion of their 280-acre parcel and including land designated for current and future urban and agricultural development. Image by Emily Beahm with Google Earth imagery and based on an original version by Dancing Rabbit Ecovillage" pid="28341" %}}
+community-commons-ecological-restoration.md:{{% figure_dg caption="Figure 5: Residential building named “Lobelia” at Dancing Rabbit.  Photo courtesy of Dancing Rabbit Ecovillage" pid="28342" %}}
+community-commons-ecological-restoration.md:{{% figure_dg caption="Figure 6: Satellite image from 2015 showing Dancing Rabbit’s current urban area. Currently occupied leaseholds are outlined in light blue and purple. Available residential leaseholds are outlined in red. Residential garden leaseholds are outlined in dark blue. Image by Emily Beahm with Google Earth imagery and based on an original version by Dancing Rabbit Ecovillage" pid="28343" %}}
+community-commons-ecological-restoration.md:{{% figure_dg caption="Figure 7: Residential garden leasehold, situated near residence at Dancing Rabbit. Photo courtesy of Joshua Lockyer" pid="28344" %}}
+community-commons-ecological-restoration.md:{{% figure_dg caption="Figure 8: Commercial agricultrual leasehold at Dancing Rabbit with hoop house and vineyards in the background. Photo courtesy of Joshua Lockyer" pid="28345" %}}
+community-commons-ecological-restoration.md:{{% figure_dg caption="Figure 9: Small scale, rotational animal agriculture at Dancing Rabbit Ecovillage. Photo courtesy of Dancing Rabbit." pid="28346" %}}
+community-commons-ecological-restoration.md:{{% figure_dg caption="Figure 10: Dancing Rabbit children, headed for the swimming pond. Photo courtesy of Dancing Rabbit." pid="28347" %}}
+extraction-roots-energy-plains.md:{{% figure src="/images/volume-v-issue-1/extraction-roots-energy-plains/extraction-01.jpg" caption="All photos courtesy Sebastian Braun" %}}
+extraction-roots-energy-plains.md:{{% figure src="/images/volume-v-issue-1/extraction-roots-energy-plains/extraction-02.jpg" %}}
+extraction-roots-energy-plains.md:{{% figure src="/images/volume-v-issue-1/extraction-roots-energy-plains/extraction-03.jpg" %}}
+extraction-roots-energy-plains.md:{{% figure src="/images/volume-v-issue-1/extraction-roots-energy-plains/extraction-04.jpg" %}}
+healing-the-smallest-casualty.md:{{% figure caption="Photo courtesy of Randall Hotchkin" src="/images/rjs-barbershop.jpg" %}}
+jumping-into-the-void.md:{{% figure caption="Evening at the Oskaloosa Art Center and Studios in the town’s historic downtown district. Photos by Briana Bartlett unless otherwise noted" src="/images/volume-v-issue-1/jumping-into-the-void/oskaloosa-art-01.jpg" %}}
+jumping-into-the-void.md:{{% figure caption="A gallery show at the Oskaloosa Art Center and Studios. Photo by Sarah Kargol" src="/images/volume-v-issue-1/jumping-into-the-void/oskaloosa-art-02.jpg" %}}
+jumping-into-the-void.md:{{% figure caption="Anywhere but Here,” by Nathan S. Pierce" src="/images/volume-v-issue-1/jumping-into-the-void/oskaloosa-art-03.jpg" %}}
+jumping-into-the-void.md:{{% figure caption="\"Cultural Pedestrians,\" by Sue Quinlan" src="/images/volume-v-issue-1/jumping-into-the-void/oskaloosa-art-04.jpg" %}}
+jumping-into-the-void.md:{{% figure caption="\"Angles, Shadows, Reaching,\" by Bill McGrath" src="/images/volume-v-issue-1/jumping-into-the-void/oskaloosa-art-06.jpg" %}}
+jumping-into-the-void.md:{{% figure caption="\"Angele,\" by Chris Wubbena" src="/images/volume-v-issue-1/jumping-into-the-void/oskaloosa-art-07.jpg" %}}
+jumping-into-the-void.md:{{% figure caption="\"Where We Goin',\" by Jacob McGinn" src="/images/volume-v-issue-1/jumping-into-the-void/oskaloosa-art-08.jpg" %}}
+my-integrated-life-pt-1.md:{{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-1.jpg" caption="Buxton, Iowa, as it was at the turn of the 19th and 20th Centuries. Public-domain image from [Blackpast.org](http://blackpast.org)." %}}
+my-integrated-life-pt-1.md:{{% figure src="https://digital.grinnell.edu/islandora/object/grinnell:28269/datastream/OBJ/view" caption="Buxton, Iowa, as it was at the turn of the 19th and 20th Centuries. Public-domain image from [Blackpast.org](http://blackpast.org)." %}}
+my-integrated-life-pt-1.md:{{% figure_dg pid="28269" caption="Buxton, Iowa, as it was at the turn of the 19th and 20th Centuries. Public-domain image from [Blackpast.org](http://blackpast.org)." %}}
+my-integrated-life-pt-1.md:{{% figure_dg pid="28318" caption="Buxton, Iowa, as it was at the turn of the 19th and 20th Centuries. Public-domain image from [Blackpast.org](http://blackpast.org)." %}}
+my-integrated-life-pt-1.md:{{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-2.jpg" caption="Dartanyan’s  grandmother, Lettie Porter Thompson" %}}
+my-integrated-life-pt-1.md:{{% figure src="https://digital.grinnell.edu/islandora/object/grinnell:28270/datastream/OBJ/view" caption="Dartanyan’s  grandmother, Lettie Porter Thompson" %}}
+my-integrated-life-pt-1.md:{{% figure_dg pid="28270" caption="Dartanyan's grandmother, Lettie Porter Thompson" %}}
+my-integrated-life-pt-1.md:{{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-3.jpg" %}}
+my-integrated-life-pt-1.md:{{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-4.jpg" caption="Dartanyan’s  musical parents, Ellsworth and Mary Alice" %}}
+my-integrated-life-pt-1.md:{{% figure src="https://digital.grinnell.edu/islandora/object/grinnell:28271/datastream/OBJ/view" %}}
+my-integrated-life-pt-1.md:{{% figure src="https://digital.grinnell.edu/islandora/object/grinnell:28272/datastream/OBJ/view" caption="Dartanyan’s  musical parents, Ellsworth and Mary Alice" %}}
+my-integrated-life-pt-1.md:{{% figure caption="A portrait of the artist as a young journalist. Dartanyan at the offices of the Drake Times Delphic" src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-5.jpg" %}}
+my-integrated-life-pt-1.md:{{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-6.jpg" caption="Protest against the Vietnam war in 1968, at Drake University" %}}
+my-integrated-life-pt-1.md:{{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-7.jpg" caption="Anti-racism protest at Drake University in 1968" %}}
+my-integrated-life-pt-1.md:{{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-8.jpg" caption="Wheatstraw on stage in Greenwood Park in Des Moines: Ron Dewitte (guitar), Dartanyan (bass) and David Bernstein (on drums). Photo by Bill Plymat" %}}
+my-integrated-life-pt-1.md:{{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-9.jpg" caption="A symphony in brown crushed velvet: Dartanyan in Six the Hard Way after it morphed from Wheatstraw" %}}
+my-integrated-life-pt-1.md:{{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-10.jpg" caption="Chase’s second album “Ennea” came out not long before Bill Chase called Dartanyan up to the big-time" %}}
+my-integrated-life-pt-1.md:{{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-11.jpg" caption="Dartanyan sailing on stage when he was a member of Chase" %}}
+my-integrated-life-pt-1.md:{{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-12.jpg" caption="Dartanyan onstage with Bill Chase" %}}
+on-the-changing-nature-of-the-obituary.md:{{% figure caption="Photo by Emily Mamrak" src="/images/changing-nature-obituary.jpg" %}}
+publishers-note-VolV-Issue1.md:{{% figure_dg pid="28290" caption="The Grinnell community gathers at the College’s [Conard Environmental Research Area](https://www.grinnell.edu/academics/majors-concentrations/biology/cera) to celebrate the National Water Dance in 2016." %}}
+the-hottest-car-in-town.md:{{% figure_dg caption="A 1932 Model B Ford. Photo courtesy of WheelsAge.org" pid="28302" %}}
+two-poems-richard-luftig.md:{{% figure src="/images/volume-v-issue-1/two-poems-richard-luftig/luftig-voss.jpg" caption="Photograph by Leina’ala Voss" %}}
+two-poems-richard-luftig.md:{{% figure_dg pid="28328" caption="“Sanctuary,” Oil on canvas, 24 x 36 inches,  by Jane Pronko, 1998" %}}
+two-poems-rodney-nelson.md:{{% figure_dg pid="28327" caption="“Storm in the Flint Hills,” Acrylic on canvas, 24 x 30 inches, by Jane Pronko, 1975" %}}
+virginia-opossum.md:{{% figure_dg pid="28311" caption="Photo courtesy of Ken Saunders II, taken November 28, 2008, at Rock Creek Lake State Park in Jasper County, Iowa." %}}
+welcoming-the-world-to-our-farm.md:{{% figure caption="Chick-hatching time at the Moyers’ farm always meant there was shredded paper for visiting kids to jump in" src="/images/volume-v-issue-1/welcoming-the-world-to-our-farm/playing-in-paper.jpg" %}}
+welcoming-the-world-to-our-farm.md:{{% figure caption="Kittens in the Hay Mow" src="/images/volume-v-issue-1/welcoming-the-world-to-our-farm/happy-kids.jpg" %}}
+what-do-you-think-community-is.md:{{% figure_dg caption="Kaitie Hess \"What Do You Think Community Is?\" 01" pid="28351" %}}
+what-do-you-think-community-is.md:{{% figure_dg caption="Kaitie Hess \"What Do You Think Community Is?\" 02" src="28352" %}}
+what-do-you-think-community-is.md:{{% figure_dg caption="Kaitie Hess \"What Do You Think Community Is?\" 03" pid="28353" %}}
+white-tailed-deer.md:{{% figure_dg pid="28310" caption="Photo courtesy of Bruce Leventhal, taken on November 5, 2016, at Fort Snelling State Park, (St. Paul, Minnesota) adjacent to the Upper Mississippi River Valley Wildlife and Fish refuge" %}}
+worthless-rocks.md:{{% figure caption="Arrowheads made by the author from a variety of stones, using ancient techniques. Photo courtesy of John Whittaker" src="/images/volume-v-issue-1/worthless-rocks/arrowheads1.jpg" %}}
+worthless-rocks.md:{{% figure caption="Old “Arrowheads” from the College’s former Parker Natural History Museum, along with river-rolled flints that look like artifacts. Photo courtesy of John Whittaker" src="/images/volume-v-issue-1/worthless-rocks/arrowheads2.jpg" %}}
+worthless-rocks.md:{{% figure caption="Three points made by the author, along with river-rolled flints that look like artifacts, and gravel. Photo courtesy of John Whittaker" src="/images/volume-v-issue-1/worthless-rocks/arrowheads3.jpg" %}}

@@ -1,6 +1,6 @@
 ---
 title: "The Hottest Car in Town"
-date: 2019-06-14T14:41:03-07:00
+date: 2020-08-04T20:07:58-07:00
 draft: false
 author: "Allan Moyer"
 articletype: "Memoir"
@@ -42,5 +42,7 @@ Back in the day,  we’d race out in Newton where they had a fifth-of-a-mile tra
 My mom took my car to go visit a friend once.  Since those ‘hot cars’ had manual brakes, you had to use your head and know what’s ahead of you. It didn’t have no hydraulic pressure, so it was almost as good as just dragging your foot to stop. You’d burn rubber taking off, but you couldn’t really stop it. Well, she backed out of the driveway, and before she knew it she was halfway across the railroad tracks! She never asked to borrow my car again after that. The engine was also pretty loud. You’d take the muffler off and stick a straight pipe on it, but the cops didn’t like that---kinda like my pickup sounds now---I always talk about fixing it, but my wife likes the sound.
 
 My grandson used to pull up beside us sometimes in town and we’d race as best we could. I didn’t lose many of those either, even when I was racing him with my pickup. Fortunately, I don’t get it by the police at all now. Don’t think they ever got any trouble with me.
+
+{{% leaf-bug %}}
 
 {{% figure_dg caption="A 1932 Model B Ford. Photo courtesy of WheelsAge.org" pid="28302" %}}

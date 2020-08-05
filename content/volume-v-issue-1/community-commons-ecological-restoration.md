@@ -1,7 +1,7 @@
 ---
 title: "Community, Commons, and Ecological Restoration at Dancing Rabbit Ecovillage"
 subtitle:
-date: 2019-06-19T11:25:26-07:00
+date: 2020-08-04T20:07:58-07:00
 draft: false
 author: "Joshua Lockyer"
 articletype: "Essay"
@@ -126,5 +126,7 @@ I’d like to close with a quotation from [Wendell Berry](https://en.wikipedia.o
 > Wendell Berry 1990: 166.
 
 Dancing Rabbit is only in the beginning stages of creating its local commons. The community’s acts of commoning involve developing knowledge, respect, and affection for its place and its landscape so that it may be lived in “well and lovingly used” across the generations. Conducting research at Dancing Rabbit over the last ten years, I have seen this creation emerging in the way community members spend time deliberately observing, interacting with, learning from, and stewarding both their landscape and their community. I see it in the fact that they often name their buildings after native prairie species that may disappear if their habitats are not restored. But perhaps the best measure of their success or failure in creating a local commons will only be revealed in the actions and choices of the younger generation currently being raised in this community and on its common land.
+
+{{% leaf-bug %}}
 
 {{% figure_dg caption="Figure 10: Dancing Rabbit children, headed for the swimming pond. Photo courtesy of Dancing Rabbit." pid="28347" %}}
