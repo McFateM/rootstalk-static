@@ -84,4 +84,6 @@ to frame your own thoughts about what it means to live in concert with
 other humans. Let us hear from you. For guidelines on sending us your
 work, go to the [submit page](/submit/).
 
-{{% figure src="/images/volume-v-issue-1/publishers-note.jpg" caption="The Grinnell community gathers at the College’s [Conard Environmental Research Area](https://www.grinnell.edu/academics/majors-concentrations/biology/cera) to celebrate the National Water Dance in 2016." %}}
+{{% leaf-bug %}}
+
+{{% figure_dg pid="28290" caption="The Grinnell community gathers at the College’s [Conard Environmental Research Area](https://www.grinnell.edu/academics/majors-concentrations/biology/cera) to celebrate the National Water Dance in 2016." %}}

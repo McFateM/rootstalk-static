@@ -20,7 +20,7 @@ description: "To depict ecological change in the American landscape, this artist
 tags: ["arts"]
 ---
 
-{{% figure src="/images/volume-v-issue-1/closeup-regan-golden/regan-golden-01.jpg" caption="\"Prairie Constructs #35 & #36,\" Archival Inkjet Print, each image 36 x 54 inches, by Regan Golden, 2015" %}}
+{{% figure_dg pid="28361" caption="\"Prairie Constructs #35 & #36,\" Archival Inkjet Print, each image 36 x 54 inches, by Regan Golden, 2015" %}}
 
 For the past decade my artwork and research has focused on 'edgelands,'
 from a forest in Massachusetts bordering a subdivision to a ragged
@@ -68,6 +68,8 @@ in the city. It is this sense of wonder and awareness about the
 persistence of urban nature that I want to pass on to viewers through my
 images.
 
-{{% figure src="/images/volume-v-issue-1/closeup-regan-golden/regan-golden-02.jpg" caption="\"Prairie Construct #41,\" Archival Inkjet Print,  36 x 54 inches, by Regan Golden, 2015" %}}
+{{% leaf-bug %}}
 
-{{% figure src="/images/volume-v-issue-1/closeup-regan-golden/regan-golden-03.jpg" caption="Clockwise from top left, \"Prairie Construct #23, #5, #37 & #18,\" Archival Inkjet Print, each image 36 x 54 inches, by Regan Golden, 2015" %}}
+{{% figure_dg pid="28362" caption="\"Prairie Construct #41,\" Archival Inkjet Print,  36 x 54 inches, by Regan Golden, 2015" %}}
+
+{{% figure_dg pid="28363" caption="Clockwise from top left, \"Prairie Construct #23, #5, #37 & #18,\" Archival Inkjet Print, each image 36 x 54 inches, by Regan Golden, 2015" %}}

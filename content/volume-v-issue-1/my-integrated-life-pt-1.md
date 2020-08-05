@@ -93,9 +93,11 @@ because you could play with ALL the children on the playground."
 {{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-1.jpg" caption="Buxton, Iowa, as it was at the turn of the 19th and 20th Centuries. Public-domain image from [Blackpast.org](http://blackpast.org)." %}}
 
 {{% figure src="https://digital.grinnell.edu/islandora/object/grinnell:28269/datastream/OBJ/view" caption="Buxton, Iowa, as it was at the turn of the 19th and 20th Centuries. Public-domain image from [Blackpast.org](http://blackpast.org)." %}}
--->
 
 {{% figure_dg pid="28269" caption="Buxton, Iowa, as it was at the turn of the 19th and 20th Centuries. Public-domain image from [Blackpast.org](http://blackpast.org)." %}}
+-->
+
+{{% figure_dg pid="28318" caption="Buxton, Iowa, as it was at the turn of the 19th and 20th Centuries. Public-domain image from [Blackpast.org](http://blackpast.org)." %}}
 
 Over the years, my grandmother described Buxton as generally a very good
 place to grow up. "I don't like this one, I don't like that one...can't
@@ -131,7 +133,7 @@ friends from the Buxton days.
 {{% figure src="https://digital.grinnell.edu/islandora/object/grinnell:28270/datastream/OBJ/view" caption="Dartanyan’s  grandmother, Lettie Porter Thompson" %}}
 -->
 
-{{% figure_dg pid="28270" caption="Dartanyan's grandmother, Lettie Porter Thompson" %}}
+{{% figure_dg pid="28383" caption="Dartanyan's grandmother, Lettie Porter Thompson" %}}
 
 I remember hearing about The Buxton Club{{% ref 3 %}}, a social circle of mainly
 women whose families had roots in Buxton/Monroe County. In the summer of
@@ -214,9 +216,9 @@ house to teach them the Schillinger System.
 {{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-4.jpg" caption="Dartanyan’s  musical parents, Ellsworth and Mary Alice" %}}
 -->
 
-{{% figure src="https://digital.grinnell.edu/islandora/object/grinnell:28271/datastream/OBJ/view" %}}
+{{% figure_dg pid="28384" %}}
 
-{{% figure src="https://digital.grinnell.edu/islandora/object/grinnell:28272/datastream/OBJ/view" caption="Dartanyan’s  musical parents, Ellsworth and Mary Alice" %}}
+{{% figure_dg pid="28385" caption="Dartanyan’s  musical parents, Ellsworth and Mary Alice" %}}
 
 Music, mathematics and technology were completely integrated in my
 father's mind. In my 20s, when I encountered the writings of R.
@@ -308,7 +310,7 @@ suppose. What was revealed was a yawning cavern of stuffed pain,
 questioning and longing to understand what, besides my dad, happened to
 be missing from my life.
 
-{{% figure caption="A portrait of the artist as a young journalist. Dartanyan at the offices of the Drake Times Delphic" src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-5.jpg" %}}
+{{% figure_dg caption="A portrait of the artist as a young journalist. Dartanyan at the offices of the Drake Times Delphic" pid="28386" %}}
 
 I struggled to deal with feelings that had nothing to do with striving,
 with achieving, or with caring about social position. I discovered the
@@ -439,7 +441,7 @@ when I was approached by the city editor with a question: Would I be
 able to grab a camera and go to the area of the rioting to take pictures
 and report on what might be happening?
 
-{{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-6.jpg" caption="Protest against the Vietnam war in 1968, at Drake University" %}}
+{{% figure_dg pid="28387" caption="Protest against the Vietnam war in 1968, at Drake University" %}}
 
 Before I knew it, I was stepping over fire hoses in the street, avoiding
 the police who were trying to keep order, and estimating the size of the
@@ -478,7 +480,7 @@ Pulitzer-Prize-winning writers like Nathan 'Nick' Kotz{{% ref 24 %}} and the
 *Register's* own Clark Mollenhoff{{% ref 25 %}} were the kind of reporters that we
 need vastly more of today.
 
-{{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-7.jpg" caption="Anti-racism protest at Drake University in 1968" %}}
+{{% figure_dg pid="28388" caption="Anti-racism protest at Drake University in 1968" %}}
 
 Then, in 1968, my journalistic worlds became a little too well
 integrated. Let me explain:
@@ -602,7 +604,7 @@ changing, as all three of us would try, with varying degrees of success,
 to rebuild a relationship with Ellsworth and to make up for the time
 lost.
 
-{{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-8.jpg" caption="Wheatstraw on stage in Greenwood Park in Des Moines: Ron Dewitte (guitar), Dartanyan (bass) and David Bernstein (on drums). Photo by Bill Plymat" %}}
+{{% figure_dg src="28389" caption="Wheatstraw on stage in Greenwood Park in Des Moines: Ron Dewitte (guitar), Dartanyan (bass) and David Bernstein (on drums). Photo by Bill Plymat" %}}
 
 After the call, I resolved to go to NYC to see dad during my Spring
 break.
@@ -711,7 +713,7 @@ father. With his help, I eventually came to see that leaving college was
 a personal reset that put my life on a more sentient path. It sure beat
 going to Viet Nam to kill (or be killed) by folks I didn't even know.
 
-{{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-9.jpg" caption="A symphony in brown crushed velvet: Dartanyan in Six the Hard Way after it morphed from Wheatstraw" %}}
+{{% figure_dg pid="28390" caption="A symphony in brown crushed velvet: Dartanyan in Six the Hard Way after it morphed from Wheatstraw" %}}
 
 **Last Resort?**
 
@@ -782,7 +784,7 @@ drummer who rightly jumped at the chance to play with Bill. Of course,
 that meant the end of our great little Des Moines band but things were
 far from boring...
 
-{{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-10.jpg" caption="Chase’s second album “Ennea” came out not long before Bill Chase called Dartanyan up to the big-time" %}}
+{{% figure_dg pid="28391" caption="Chase’s second album “Ennea” came out not long before Bill Chase called Dartanyan up to the big-time" %}}
 
 After Tommy left town, I collaborated with John Rowat, Bill Jacobs and
 Michael Schomers to start a band called The Mothership. It was another
@@ -905,7 +907,7 @@ drug and alcohol abuse. Still, I'll always have memories (and the tapes)
 of the Jaco Pastorius I knew, who propelled Wayne Cochran and the CC
 riders in '72. Bless you Jaco.
 
-{{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-11.jpg" caption="Dartanyan sailing on stage when he was a member of Chase" %}}
+{{% figure_dg pid="28392" caption="Dartanyan sailing on stage when he was a member of Chase" %}}
 
 **Back to Bill...**
 
@@ -947,10 +949,11 @@ band house and now was I going to leave town?
 My band mates, John Rowat, Michael Schomers, Frank Tribble and Bill
 Jacobs, were more supportive of me moving up than they were disappointed
 at losing a renter, so I was off to Chicago to begin what would be
-life-changing circumstances.  
+life-changing circumstances.
+
 {{% leaf-bug %}}
 
-{{% figure src="/images/volume-v-issue-1/my-integrated-life-pt-1/my-integrated-life-pt-1-12.jpg" caption="Dartanyan onstage with Bill Chase" %}}
+{{% figure_dg pid="28393" caption="Dartanyan onstage with Bill Chase" %}}
 
 {{% endnotes %}}
 {{% endnote 1 "https://www.desmoinesregister.com" %}}

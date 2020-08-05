@@ -34,7 +34,7 @@ On one occasion in the timber, the neighbor’s bull had appeared on our side of
 
 We typically divided the children into three groups: one rode ponies, one gathered eggs, and the other group fed animals and went to the hay mow in the barn. Pony rides were complete with cowboy music and no lines to wait in, except for the rides. Children would not go play on the big hay bales for fear of missing their ride.
 
-{{% figure caption="Chick-hatching time at the Moyers’ farm always meant there was shredded paper for visiting kids to jump in" src="/images/volume-v-issue-1/welcoming-the-world-to-our-farm/playing-in-paper.jpg" %}}
+{{% figure_dg caption="Chick-hatching time at the Moyers’ farm always meant there was shredded paper for visiting kids to jump in" pid="28404" %}}
 
 Two geese roamed the barnyard. Two grandmothers brought their very little granddaughters to see the animals. They had known my husband for a long time, and they visited as we toured. One of the geese grabbed the littlest girl by the seat of her pants and would not let go! I was frantically trying to reassure her, while the adults were laughing and taking pictures of her. When we see them now, they all still laugh about the goose story.
 
@@ -54,4 +54,6 @@ Occasionally we hear from a mom or dad who visited our place as a kindergartner,
 
 So many memories return when writing this story....
 
-{{% figure caption="Kittens in the Hay Mow" src="/images/volume-v-issue-1/welcoming-the-world-to-our-farm/happy-kids.jpg" %}}
+{{% leaf-bug %}}
+
+{{% figure_dg caption="Kittens in the Hay Mow" pid="28403" %}}

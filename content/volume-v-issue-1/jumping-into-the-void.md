@@ -23,7 +23,6 @@ description: "What does an artist do in a prairie town that doesn't have an arts
 
 *In July of 2018, Rootstalk Associate Editor Vincent Benlloch spoke with Matt and  Sarah  Kargol, founders of the non-profit Fine Arts and Cultural Events (FACE) of [Mahaska County, Iowa](https://www.faceofmahaska.com), housed at [Oskaloosa’s Art Center and Studios](https://www.facebook.com/oskaloosaartcenter).*
 
-
 ***Rootstalk:*** We'd be curious to hear a little more about what's
 going on in [Oskaloosa](https://www.oskaloosaiowa.org) right now for you,
 what programs you're offering, and the trajectory for your work.
@@ -84,7 +83,7 @@ where people can have studio time and just come and create it will be
 pretty unique in Iowa. I don't know if there is another sculpture
 community or sculpture studio in the whole state.
 
-{{% figure caption="A gallery show at the Oskaloosa Art Center and Studios. Photo by Sarah Kargol" src="/images/volume-v-issue-1/jumping-into-the-void/oskaloosa-art-02.jpg" %}}
+{{% figure_dg caption="A gallery show at the Oskaloosa Art Center and Studios. Photo by Sarah Kargol" pid="28376" %}}
 
 **Sarah:** So, that's our trajectory. We have big plans. Probably bigger
 than we can chew off by ourselves, and we know that but I think the
@@ -144,7 +143,7 @@ but you know, we've got to take it in steps and make sure our funding
 sources are secure for what we're doing before we add something else to
 it.
 
-{{% figure caption="Anywhere but Here,” by Nathan S. Pierce" src="/images/volume-v-issue-1/jumping-into-the-void/oskaloosa-art-03.jpg" %}}
+{{% figure_dg caption="Anywhere but Here,” by Nathan S. Pierce" pid="28377" %}}
 
 ***Rootstalk:*** You mentioned there was an art void here. We're
 curious---with the schools and the local education system here, how does
@@ -173,7 +172,7 @@ they liked it or disliked it, but that doesn't really matter. The fact
 is that they were contemplating something that they wouldn't have
 contemplated before and so their world has expanded.
 
-{{% figure caption="\"Cultural Pedestrians,\" by Sue Quinlan" src="/images/volume-v-issue-1/jumping-into-the-void/oskaloosa-art-04.jpg" %}}
+{{% figure_dg caption="\"Cultural Pedestrians,\" by Sue Quinlan" pid="28378" %}}
 
 ***Rootstalk:*** We're curious what each of your individual philosophies
 or approaches to art are both in your practice and in your work in the
@@ -222,7 +221,7 @@ Especially this next generation that's coming up. Maybe \[art is\] not
 going to be this foreign thing. The longer we're here, the more of an
 impact we're going to have. This is a safe space.
 
-{{%figure caption="“Flight,” by Hilde DeBruyne" src="/images/volume-v-issue-1/jumping-into-the-void/oskaloosa-art-05.jpg" %}}
+{{% figure_dg caption="\"Flight,\" by Hilde DeBruyne" pid="28379" %}}
 
 **Matt:** I like to think we've given a home to a lot of kids where they
 can feel comfortable. There's people, not just kids, that go through all
@@ -249,7 +248,7 @@ problem. It wasn't necessarily about me, but it was about....
 **Matt:** I love sculptures, and if I love it, somebody else was going
 to love it.
 
-{{% figure caption="\"Angles, Shadows, Reaching,\" by Bill McGrath" src="/images/volume-v-issue-1/jumping-into-the-void/oskaloosa-art-06.jpg" %}}
+{{% figure_dg caption="\"Angles, Shadows, Reaching,\" by Bill McGrath" pid="28380" %}}
 
 **Sarah:** And people do.
 
@@ -313,7 +312,7 @@ market just bottomed out. We did art full time for three years which
 was... and I tell people this... it was great and at the same time the
 hardest thing I'd ever done.
 
-{{% figure caption="\"Angele,\" by Chris Wubbena" src="/images/volume-v-issue-1/jumping-into-the-void/oskaloosa-art-07.jpg" %}}
+{{% figure_dg caption="\"Angele,\" by Chris Wubbena" pid="28381" %}}
 
 **Matt:** It was the best of times, it was the worst of times....
 
@@ -336,7 +335,7 @@ for them, that's why we went and did art full time. We wanted to say,
 "look, you can follow your dreams, you can be who you want to be or who
 you're made to be in this world," but it wasn't that easy.
 
-{{% figure caption="\"Where We Goin',\" by Jacob McGinn" src="/images/volume-v-issue-1/jumping-into-the-void/oskaloosa-art-08.jpg" %}}
+{{% figure_dg caption="\"Where We Goin',\" by Jacob McGinn" pid="28382" %}}
 
 **Matt:** You know, we're artists. Artists need a community to work from
 and to work around other artists and creative people. It's interesting
@@ -354,5 +353,3 @@ you realize: if someone's going do it, it's going be me.
 
 **Sarah:** Right. See a need, fill a need. There was a definite need
 here, so we jumped in.
-
-

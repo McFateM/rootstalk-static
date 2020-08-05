@@ -27,7 +27,7 @@ survival of many shorebirds. It also brings 60,000 people to the area
 each year, providing an opportunity for both children and adults to
 learn about the importance of wetlands and the animals who live there.
 
-{{% figure src="/images/volume-v-issue-1/cheyenne-bottoms/cheyenne-bottoms-1.jpg" caption="American white pelicans, cormorants, gulls and assorted other waterfowl gather on a spit at Cheyenne Bottoms. photos by Kaleb Kroeker unless otherwise noted" %}}
+{{% figure_dg pid="28357" caption="American white pelicans, cormorants, gulls and assorted other waterfowl gather on a spit at Cheyenne Bottoms. photos by Kaleb Kroeker unless otherwise noted" %}}
 
 Although few would guess it, Kansas contains one of the most crucial
 shorebird stopping places in the western hemisphere. Each spring tiny
@@ -52,7 +52,7 @@ endangered species that visit the marsh are the bald eagle, piping
 plover, and peregrine falcon. The wetlands have been designated as a
 critical habitat for both whooping cranes and the interior least tern.
 
-{{% figure src="/images/volume-v-issue-1/cheyenne-bottoms/cheyenne-bottoms-2.jpg" caption="A black-necked stilt working the shallows at Cheyenne Bottoms." %}}
+{{% figure_dg pid="28356" caption="A black-necked stilt working the shallows at Cheyenne Bottoms." %}}
 
 Before the arrival of Francisco Coronado, only the native Indian tribes,
 such as the Cheyenne, after whom Cheyenne Bottoms is named, knew of this
@@ -132,4 +132,6 @@ thousands wheel in the sky. We can marvel at their migration journey and
 should do what we can to ensure that the waypoint they rely on will
 always be here to welcome them.
 
-{{% figure src="/images/volume-v-issue-1/cheyenne-bottoms/cheyenne-bottoms-4.jpg" caption="Bank swallows at Cheyenne Bottoms." %}}
+{{% leaf-bug %}}
+
+{{% figure_dg pid="28358" caption="Bank swallows at Cheyenne Bottoms." %}}

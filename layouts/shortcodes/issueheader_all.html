@@ -1,3 +1,5 @@
+<!-- MM.  I think this shortcode can be safely removed now.  July 2020 -->
+
 {{ range (.Page.Sections.ByParam "issueIndex").Reverse }}
 
 <a href="{{ .RelPermalink }}" id="current_issue_img" style="--coverurl: url('{{.RelPermalink}}cover.png') ;">

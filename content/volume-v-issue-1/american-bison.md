@@ -22,11 +22,7 @@ less than 550 animals by 1889. Strenuous conservation efforts brought
 the bison back from the brink, and the population has rebounded to
 roughly a half-million animals.
 
-**Vocalization**: According to the [National Park Service](https://www.nps.gov/articles/bison-bellows-6-23-16.htm), bison make a
-variety of sounds. These sounds include anything from the low rumblings
-of male bellows sheard during mating season to the high-pitched bleats
-of a calf looking for its mother. Other common sounds consist of
-"snorts," "coughs," "roars," and "grunts."
+**Vocalization**: According to the [National Park Service](https://www.nps.gov/articles/bison-bellows-6-23-16.htm), bison make a variety of sounds. These sounds include anything from the low rumblings of male bellows sheard during mating season to the high-pitched bleats of a calf looking for its mother. Other common sounds consist of "snorts," "coughs," "roars," and "grunts."
 
 **To hear an audio recording of a bison's roar as captured by May
 Castelberry, visit [YouTube](https://www.youtube.com/watch?v=LgBZR3UGzds)
