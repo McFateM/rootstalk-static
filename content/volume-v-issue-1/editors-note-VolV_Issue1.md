@@ -4,7 +4,7 @@ author: "Mark Baechtel"
 articletype: "Editor's Note"
 headerimage: "meskwaki_powow.jpg"
 headerimage_dg: "grinnell:28414"
-date: 2020-08-06T18:35:42+00:00
+date: 2020-08-06T18:59:50+00:00
 draft: false
 tags: ["featured"]
 description: "In a community writing workshop, Rootstalk's Editor discovered a small town's true diversity."
@@ -26,4 +26,4 @@ Once in a while, if I'm lucky, I receive a kick-in-the-pants reminder of this tr
 
 In Whitman's "Song of Myself," he told us: I am large. I contain multitudes. It is salutary to be reminded that this is true, not just for poets, but for all of us. I need to remember who’s selling me coffee, who’s cutting my hair, who’s teaching my children, who’s caring for my town’s afflicted, who’s growing my food, and making sure the police get paid and the water that flows from my tap is clean. The people who do all these jobs are “just” my neighbors, but their lives are as rich, complicated, intense and urgent—as big—as mine or anyone else’s, no matter the size of the town or the city or acreage they call home.
 
-It’s quiet out here on the prairie, but that quiet is deceptive. We are large. We contain multitudes.
+It’s quiet out here on the prairie, but that quiet is deceptive. *We are large. We contain multitudes.*
