@@ -1,13 +1,14 @@
 ---
 title: "Regan Golden"
 subtitle:
-date: 2020-08-05T21:59:31-07:00
+date: 2020-08-06T08:54:23-07:00
 draft: false
 author:
 articletype: "Closeup"
 headerimage: "regan-golden.jpg"
 headerimage_dg: "grinnell:28405"
 headshot: "regan-golden.jpg"
+headshot_dg: "grinnell:28440"
 authorbio: "[Regan Golden](https://regangolden.com/home.html) depicts ecological change in the American landscape using drawing materials and altered photographs. Golden’s images have been exhibited in solo and group shows both nationally and internationally, including Harvard University’s [Fisher Forestry Museum](https://harvardforest.fas.harvard.edu/fisher-museum), [The Cue Art Foundation](http://cueartfoundation.org) in New York City and the [Museum of Contemporary Photography](http://www.mocp.org) in Chicago.
 
 Recently, Golden has exhibited works from her series, “The Prairie Constructs,” which comprises over 140 mixed-media images which draw heavily on the Tallgrass Midwest for inspiration. Golden has exhibited  works from the series at [Soo Visual Art Center](https://www.soovac.org) in Minneapolis, Residuals at the [Architecture Library of the University of Minnesota](https://www.continuum.umn.edu/2017/07/residuals-regan-golden-maura-rockcastle) and Unearth at the [Painting Center](https://www.thepaintingcenter.org/unearth) in New York City. We have chosen a number of images from the series to feature in this issue of Rootstalk.

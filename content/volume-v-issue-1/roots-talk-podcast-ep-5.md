@@ -2,12 +2,12 @@
 title: "Roots Talk! Podcast Episode 5"
 subtitle: "What Local Foods
 Really Cost"
-date: 2020-08-05T22:07:18-07:00
+date: 2020-08-06T08:46:54-07:00
 draft: false
 author: "Eva Gemrich & Dru Greenwood"
 articletype: "Podcast"
-headerimage: "podcast-header.jpg"
-headerimage_dg: "Missing!"
+headerimage_dg: "grinnell:28436"
+pdf_dg: "grinnell:28435"
 headshot:
 authorbio:
 description: "In Rootstalk's fifth podcast, our audio producers talk with Prof. Brandi Janssen about the complexities of sustainaable agriculture."
