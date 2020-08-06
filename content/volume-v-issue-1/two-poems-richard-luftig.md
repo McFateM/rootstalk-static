@@ -1,13 +1,14 @@
 ---
 title: "Two Poems"
 subtitle:
-date: 2020-08-05T22:09:43-07:00
+date: 2020-08-06T08:59:41-07:00
 draft: false
 author: "Richard Luftig"
 articletype: "Poetry"
 headerimage: "two-poems-richard-luftig.jpg"
 headerimage_dg: "grinnell:28411"
 headshot: "richard-luftig.jpg"
+headshot_dg: "grinnell:28444"
 authorbio: "Richard Luftig is a former professor of educational psychology and special education at [Miami University in Ohio](https://www.miami.miamioh.edu) now residing in California. He is a recipient of the Cincinnati Post-Corbett Foundation Award for Literature. His poems have appeared in numerous literary journals in the U.S. and internationally in Canada, Australia, Europe, and Asia. Two of his poems recently appeared in [*Realms of the Mothers: the First Decade of Dos Madres Press*](https://www.dosmadres.com/shop/realms-of-the-mothers-the-first-decade-of-dos-madres-press), and *Rootstalk* published three of his poems in its [Fall 2017 issue](https://rootstalk.grinnell.edu/article/three-poems)."
 description: "Richard Luftig's second appearance on our pages features an imagined road trip, and the solace of endurance in winter."
 ---
