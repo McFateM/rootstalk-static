@@ -1,12 +1,12 @@
 ---
 title: "Two Poems"
 subtitle:
-date: 2020-08-06T08:59:41-07:00
+date: 2020-08-06T09:33:19-07:00
 draft: false
 author: "Rodney Nelson"
 articletype: "Poetry"
 headerimage: "two-poems-rodney-nelson.jpg"
-headerimage_dg: "Missing!"
+headerimage_dg: "grinnell:28452"
 headshot: "rodney-nelson.jpg"
 headshot_dg: "grinnell:28438"
 authorbio: "Rodney Nelson’s work began appearing in mainstream journals long ago. See his page in the *Poets & Writers* directory at  
