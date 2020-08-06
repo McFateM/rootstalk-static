@@ -1,10 +1,11 @@
 ---
 title: "What Do You Think Community Is?"
-date: 2019-06-15T20:27:01-07:00
+date: 2020-08-05T21:54:45-07:00
 draft: false
 author: "Kaitie Hess"
 articletype: "Photo essay"
 headerimage: "community-is.jpg"
+headerimage_dg: "grinnell:28425"
 headshot: "kaitie-hess.png"
 authorbio: "Kaitie Hess is a fourth year student at Grinnell College studying anthropology with a concentration in global development studies. She is really interested by the concept of community, especially in regards to youth working together to make community change. Kaitie worked at the Grinnell Area Arts Council from spring 2016 to spring 2017, where this photo essay takes place."
 description: "What's the best way to find out how \"community\" is defined where you live? Ask the local kids to make a mural."

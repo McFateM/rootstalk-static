@@ -1,11 +1,12 @@
 ---
 title: "Two Poems"
 subtitle:
-date: 2020-01-28T13:34:49-07:00
+date: 2020-08-05T22:10:04-07:00
 draft: false
 author: "Rodney Nelson"
 articletype: "Poetry"
 headerimage: "two-poems-rodney-nelson.jpg"
+headerimage_dg: "Missing!"
 headshot: "rodney-nelson.jpg"
 authorbio: "Rodney Nelson’s work began appearing in mainstream journals long ago. See his page in the *Poets & Writers* directory at  
 http://www.pw.org/content/rodney_nelson. He has lived in various parts of the country, working as a licensed psychiatric technician and copy editor, and now resides in the northern Great Plains. Recently published chapbook and book titles are *Canyon*, *Late & Later*,  [*Metacowboy*](https://cowboypoetrypress.com/2012/07/06/metacowboy-poems-by-rodney-nelson), [*The Western Wide*](https://threwlinebooks.wordpress.com), *Mogollon Picnic* and *Ahead of Evening*, (both from [Red Dashboard Press](http://cms.reddashboard.com)), [Hill of Better Sleep](https://www.redbirdchapbooks.com/content/rodney-nelson), *In Wait* ([Mind Bomb Press](https://www.amazon.com/Wait-Rodney-Nelson/dp/0984084274)), as well as *Felton Prairie*, *Cross Point Road*, *Billy Boy*, *Winter in Fargo*, *Hjemkomst*, *Time Tacit*, and Minded Places (all from [Middle Island Press](https://poeticaplace.wordpress.com/middle-island-press/rodney-nelson))."

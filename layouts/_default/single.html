@@ -1,0 +1,55 @@
+{{ define "meta" }}
+{{- partial "single_meta.html" . -}}
+{{- partial "opengraph_meta.html" . -}}
+{{ end }}
+
+{{ define "header" }}
+{{- partial "single_json_ld.html" . -}}
+{{ end }}
+
+{{ define "main" -}}
+{{ .Scratch.Set "leaf-bug" "false" }}
+<div id="articletitle"><h1 class="{{ if $.Param "submitted" | default false }}title-submitted{{ end }}">{{ $.Title | markdownify }}</h1>
+  {{ with .Params.subtitle }}
+  <h2 class="subtitle">
+    &mdash; {{ . | markdownify }}
+  </h2>
+  {{ end }}
+  <header>
+  <h2 class="byline">{{ with $.Params.author }}{{ printf "by %s" . }}{{ end }}</h2>
+  <h3 class="articletype">{{ .Params.articletype }}</h3>
+  {{ with .Params.headerimage_dg }}
+    <img width="100%" src={{ printf "https://digital.grinnell.edu/islandora/object/%s/datastream/OBJ/view" . }}>
+  {{ end }}
+  {{ if $.Param "submitted" | default false }}{{ partial "submitted.html" . }}{{ end -}}
+  {{ if .Params.tags }}{{ partial "tags.html" . }}{{ end -}}
+  </header>
+</div>
+
+<main class="main layout__main">
+<article class="{{ with .Section }}section-{{ . | urlize }} {{ end }}single-view">
+
+<div class="content">
+{{ .Content }}
+
+{{ if not (.HasShortcode "leaf-bug") }}
+  <img class="leaf" src="/images/rootstalk_leaf.svg" />
+{{ end }}
+
+{{ if ne .Lastmod .Date }}{{ partial "dates.html" . }}{{ end -}}
+</div>
+<!-- for author bio -->
+{{ with .Params.authorbio }}
+  <div class="authorbio">
+      <div id="biotitle">About the Author</div>
+      {{ with $.Page.Params.headshot }}
+        <img id="headshot" src="/images/headshots/{{ . }}" />
+      {{ end }}
+
+    {{ . | markdownify }}
+  </div>
+
+{{ end }}
+</article>
+</main>
+{{ end }}

@@ -1,11 +1,12 @@
 ---
 title: "My Integrated Life"
 subtitle: "Part 1"
-date: 2020-07-29T14:57:37-07:00
+date: 2020-08-05T22:05:14-07:00
 draft: false
 author: "Dartanyan Brown"
 articletype: "Essay"
 headerimage: "my-integrated-life-pt-1.jpg"
+headerimage_dg: "grinnell:28420"
 headshot:
 authorbio:
 description: "Musician, journalist, educator with a 40-year career in the arts--our contributor has folded together multiple extraordinary lives."

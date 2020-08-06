@@ -1,9 +1,10 @@
 ---
 title: "A Place to Call Home"
 author: "Bridget Brandt"
-date: 2020-01-28T14:36:30-07:00
+date: 2020-08-05T21:50:42-07:00
 articletype: "Memoir"
 headerimage: "a-place-to-call-home.png"
+headerimage_dg: "grinnell:28415"
 headshot: "bridget-brandt.png"
 draft: false
 tags: ["featured", "culture"]

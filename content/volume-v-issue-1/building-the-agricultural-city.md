@@ -1,11 +1,12 @@
 ---
 title: "*Building The Agricultural City*"
 subtitle: "*A Handbook for Rural Renewal* by Robert Wolf"
-date: 2019-07-12T15:43:00-07:00
+date: 2020-08-05T21:56:22-07:00
 draft: false
 author: "Fred Kirschenmann"
 articletype: "Book Review"
 headerimage: "building-the-agricultural-city.jpg"
+headerimage_dg: "grinnell:28421"
 headshot: "fred-kirschenmann.jpg"
 authorbio: "[Frederick L. Kirschenmann](https://www.leopold.iastate.edu/people/frederick-kirschenmann) shares an appointment as Distinguished Fellow for the [Leopold Center](https://www.leopold.iastate.edu) and as President of [Stone Barns Center for Food and Agriculture](https://www.stonebarnscenter.org) in Pocantico Hills, New York. He served as the Leopold Center’s second director from July 2000 to November 2005 and has been recognized widely for his work. He also continues to manage his family’s 1,800-acre certified organic farm in south central North Dakota, where he developed a diverse crop rotation that has enabled him to farm productively without synthetic inputs (fertilizers or pesticides) while simultaneously improving the health of the soil. His farm has been featured in numerous publications including [*National Geographic*](https://www.nationalgeographic.com), [*Business Week*](https://www.bloomberg.com), [*Audubon*](https://www.audubon.org), the [*Los Angeles Times*](https://www.latimes.com) and [*Gourmet magazine*](www.gourmet.com)."
 description: "This contributor, a soil scientist, environmental activist and farmer, reviews a new book offering a vision of rural prairie revival."

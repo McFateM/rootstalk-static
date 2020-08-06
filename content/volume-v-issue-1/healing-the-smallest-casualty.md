@@ -1,10 +1,11 @@
 ---
 title: "Healing the Smallest Casualty"
-date: 2019-06-15T19:36:45-07:00
+date: 2020-08-05T22:03:25-07:00
 draft: false
 author: "Randall Hotchkin"
 articletype: "Personal essay"
 headerimage: "healing-the-smallest-casualty.jpg"
+headerimage_dg: "grinnell:28408"
 headshot: "randall-hotchkin.jpg"
 authorbio: "[Randall Hotchkin](https://www.facebook.com/RJsBarberShoppe) served as an Air Force Medic in Balad, Iraq from August 2004 to January 2005.  He was a Technical Sergeant at the time, but retired as a Master Sergeant in 2013 with a total of 26 years of service, with over 22 of those on active duty."
 description: "It's a long way from Iraq's battlefields to running a small town barbershop. But because of a little boy's smile, maybe not so far at that."

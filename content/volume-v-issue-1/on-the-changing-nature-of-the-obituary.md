@@ -1,10 +1,11 @@
 ---
 title: "On the Changing Nature of the Obituary"
-date: 2019-06-17T15:08:46-07:00
+date: 2020-08-05T22:05:51-07:00
 draft: false
 author: "Mary Kay Shanley"
 articletype: "Essay"
 headerimage: "changing-nature-of-the-obituary.jpg"
+headerimage_dg: "grinnell:28410"
 headshot: "mary-kay-shanley.png"
 authorbio: "[Mary Kay Shanley](http://www.marykayshanley.com) began her career with the <span style=\"font-style:normal\">[Des Moines Register](https://www.desmoinesregister.com)</span> back in the day when you rubbed shoulders with Pulitzer Prize winners. She moved from there to the world of books, including one best-seller. An Iowa Author of the Year, Mary Kay teaches in the University of Iowa’s [Summer Writing Festival](https://iowasummerwritingfestival.org) and is a [Humanities Iowa](https://www.humanitiesiowa.org) presenter. Also, she and Diane Douiyssi co-lead reflective writing
 retreats."
