@@ -1,10 +1,11 @@
 ---
 title: "A Child's First Taste of Freedom"
-date: 2019-06-15T15:20:09-07:00
+date: 2020-08-05T22:02:33-07:00
 draft: false
 author: "Sam Cox"
 articletype: "Memoir"
 headerimage: "first-taste-of-freedom.jpg"
+headerimage_dg: "Missing!"
 headshot: "sam-cox.png"
 authorbio: "Sam Cox is the proprietor of the [Saints Rest Coffee House](https://www.saintsrestcoffee.com), one of the fixtures of daily life in Grinnell, Iowa. An Iowa transplant at a very young age, she was raised in Grinnell and graduated from Grinnell High School. She attended college and returned to Grinnell to raise a family. About the town, she says: “I love this community and all of its colors! It has more depth than people may see and what a great place to raise a family. So here I am.”"
 description: "A costume, a pillow case, a couple of friends, and a whole town to roam in: that was Halloween for this coffee shop owner."

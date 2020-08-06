@@ -3,7 +3,8 @@ title: "We Contain Multitudes"
 author: "Mark Baechtel"
 articletype: "Editor's Note"
 headerimage: "meskwaki_powow.jpg"
-date: 2020-01-28T22:15:38+00:00
+headerimage_dg: "grinnell:28414"
+date: 2020-08-06T05:00:23+00:00
 draft: false
 tags: ["featured"]
 description: "In a community writing workshop, Rootstalk's Editor discovered a small town's true diversity."

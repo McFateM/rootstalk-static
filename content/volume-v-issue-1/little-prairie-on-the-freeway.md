@@ -1,11 +1,12 @@
 ---
 title: "Little Prairie On The Freeway"
 subtitle:
-date: 2019-07-12T15:20:00-07:00
+date: 2020-08-05T22:04:41-07:00
 draft: false
 author: "Cindy Crosby"
 articletype: "Essay"
 headerimage: "little-prairie-on-the-freeway.jpg"
+headerimage_dg: "grinnell:28419"
 headshot:
 authorbio:
 description: "Blake said we can see the universe in a grain of sand; can we see the prairie expanses of the past in a remnant on an Illinois highway?"

@@ -3,7 +3,8 @@ title: "Worthless Rocks"
 author: "John C. Whittaker"
 articletype: "Essay"
 headerimage: "arrowheads.jpg"
-date: 2019-05-30T21:57:33-07:00
+headerimage_dg: "grinnell:28423"
+date: 2020-08-05T22:11:27-07:00
 draft: false
 tags: ["featured"]
 authorbio: "[John Whittaker](https://www.grinnell.edu/user/whittake) has been teaching [anthropology](https://www.grinnell.edu/academics/majors-concentrations/anthropology) at [Grinnell College](https://www.grinnell.edu) since 1984. He is mostly an archaeologist, but says that all people, living and dead, are of interest to him. About his practice of flintknapping&emdash;the making of stone tools using traditional methods&emdash;John says: \"Experiments with ancient technologies are fun, inexpensive, and tell us a lot about what we want to know about the past. [Flintknapping](https://en.wikipedia.org/wiki/Knapping) allows us to recognize artifacts, interepret their past uses, and examine their place in the ancient world. Flintknapping also happens to be an enjoyable craft, practiced by all our ancestors at one time or another.\""

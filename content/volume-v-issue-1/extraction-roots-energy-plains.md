@@ -1,11 +1,12 @@
 ---
 title: "Extraction, Roots, Energy, and The Plains"
 subtitle:
-date: 2019-07-12T16:11:00-07:00
+date: 2020-08-05T22:01:10-07:00
 draft: false
 author: "Sebastian Braun"
 articletype: "Essay"
 headerimage: "extraction-roots-energy-plains.jpg"
+headerimage_dg: "grinnell:28407"
 headshot: "sebastian-braun.jpg"
 authorbio: "[Sebastian Braun](https://amin.las.iastate.edu/directory/sebastian-braun) earned a Master’s degree in ethnology, history, and philosophy from the [University of Basel](https://www.unibas.ch/en.html) and an MA and PhD in anthropology from [Indiana University](https://www.indiana.edu). Prior to becoming Director of [American Indian Studies at Iowa State University](https://amin.las.iastate.edu) in 2015, he taught in the Department of [American Indian Studies at the University of North Dakota](https://arts-sciences.und.edu/academics/american-indian-studies). His research interests are at the intersections of culture, ecology, economics, and politics."
 description: "This scholar of Native American culture meditates on the meaning of roots, and the challenge to them represented by energy extraction."

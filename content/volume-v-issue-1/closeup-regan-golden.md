@@ -1,11 +1,12 @@
 ---
 title: "Regan Golden"
 subtitle:
-date: 2020-01-28T14:36:30-07:00
+date: 2020-08-05T21:59:31-07:00
 draft: false
 author:
 articletype: "Closeup"
 headerimage: "regan-golden.jpg"
+headerimage_dg: "grinnell:28405"
 headshot: "regan-golden.jpg"
 authorbio: "[Regan Golden](https://regangolden.com/home.html) depicts ecological change in the American landscape using drawing materials and altered photographs. Golden’s images have been exhibited in solo and group shows both nationally and internationally, including Harvard University’s [Fisher Forestry Museum](https://harvardforest.fas.harvard.edu/fisher-museum), [The Cue Art Foundation](http://cueartfoundation.org) in New York City and the [Museum of Contemporary Photography](http://www.mocp.org) in Chicago.
 

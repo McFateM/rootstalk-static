@@ -1,11 +1,12 @@
 ---
 title: "Two Poems"
 subtitle:
-date: 2019-07-11T20:24:31-07:00
+date: 2020-08-05T22:08:57-07:00
 draft: false
 author: "John Grey"
 articletype: "Poetry"
 headerimage: "john-grey-two-poems.jpg"
+headerimage_dg: "grinnell:28422"
 headshot:
 authorbio:
 description: "The poet--an Australian transplant--takes on the autumn's changeable weather and its effect on we who move through it."
@@ -49,25 +50,25 @@ all of its promised textures,
 white and overspreading,  
 as lovely, in an ascetic way,   
 as pale cheeks in a mirror.  
-  
+
 But its bitterness   
 plunges daggers,  
 its winds are as brutal   
 as they are predictable.  
 And this standstill is   
 another word for loneliness.  
-  
+
 But there’s the warmth of the fire,  
 a gathering with others  
 that begins as necessity  
 but matures into closeness.  
 I hate to see it leave.  
-  
+
 But spring is  
 like a child in winter’s womb  
 I’m so in thrall to its coming.  
 But what if it’s a monster?  
-   
+
 Each morning, the calendar turns over.  
 The temperature is up or down.  
 The feelings run the gamut.  

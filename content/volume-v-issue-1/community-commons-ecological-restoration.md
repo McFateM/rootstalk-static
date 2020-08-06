@@ -1,11 +1,12 @@
 ---
 title: "Community, Commons, and Ecological Restoration at Dancing Rabbit Ecovillage"
 subtitle:
-date: 2019-06-19T11:25:26-07:00
+date: 2020-08-05T21:59:25-07:00
 draft: false
 author: "Joshua Lockyer"
 articletype: "Essay"
 headerimage: "dancing-rabbit-ecovillage.jpg"
+headerimage_dg: "grinnell:28424"
 headshot:
 authorbio: "[Joshua Lockyer, Ph.D.](mailto:jlockyer@atu.edu) is Associate Professor of Anthropology at [Arkansas Tech University](https://www.atu.edu) and co-editor of <span style=\"font-style:normal\">Environmental Anthropology Engaging Ecotopia: Bioregionalism, Permaculture, and Ecovillages</span>, published as part of the Environmental Anthropology & Ethnobiology series by [Berghahn Books](http://berghahnbooks.com). He is on the Boards of the Center for Sustainable and Cooperative Culture at Dancing Rabbit Ecovillage, the [Communal Studies Association](http://www.communalstudies.org), and the Center for Communal Studies at the [University of Southern Indiana](https://www.usi.edu/liberal-arts/communal-center). He has been studying environmentally-focused intentional communities for almost 20 years, including working with Dancing Rabbit over the last ten years. He is working on a book about the commons at 80-year-old [Celo Community](https://en.wikipedia.org/wiki/Celo_Community) in western North Carolina."
 description: "How do we reverse the degradation of our prairie home by industrial ag? The residents of Dancing Rabbit Ecovillage think they know."

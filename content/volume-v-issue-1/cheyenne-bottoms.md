@@ -1,11 +1,12 @@
 ---
 title: "Cheyenne Bottoms"
 subtitle: "The Indispensible Kansas Wetland You Never Knew About"
-date: 2020-01-28T13:34:45-07:00
+date: 2020-08-05T21:58:10-07:00
 draft: false
 author: "Alicia DeHaan"
 articletype: "Essay"
 headerimage: "cheyenne-bottoms.jpg"
+headerimage_dg: "grinnell:28417"
 headshot:
 authorbio:
 description: "During the yearly migration, an astonishing forty-five percent of all North American shorebirds pass through this Kansas marsh."

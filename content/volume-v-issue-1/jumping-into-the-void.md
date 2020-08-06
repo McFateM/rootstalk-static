@@ -1,11 +1,12 @@
 ---
 title: "Jumping Into the Void"
 subtitle: "Creating a Community Art Center in Oskaloosa, Iowa"
-date: 2019-06-19T15:04:30-07:00
+date: 2020-08-05T22:04:03-07:00
 draft: false
 author: "Matt and  Sarah Kargol"
 articletype: "Interview"
 headerimage: "jumping-into-the-void.jpg"
+headerimage_dg: "grinnell:28409"
 headshot:
 authorbio: "[Matt Kargol](http://www.matthewkargolart.com) is a sculptor and native of Oskaloosa, Iowa, where he teaches Art at the local high school.  
 
