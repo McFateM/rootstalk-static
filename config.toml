@@ -3,15 +3,15 @@ baseURL = "https://rootstalk.grinnell.edu/"
 languageCode = "en-us"
 title = "Rootstalk"
 theme = "rootstalkzen"
-currentIssue = "volume-v-issue-1"
+currentIssue = "volume-vi-issue-1"
 
 [menu]
 
   [[menu.main]]
-    identifier = "volume-v-issue-1"
+    identifier = "volume-vi-issue-1"
     name = "Current Issue"
-    title = "Volume V, Issue 1"
-    url = "/volume-v-issue-1/"
+    title = "Volume VI, Issue 1"
+    url = "/volume-vi-issue-1/"
     weight = "1"
 
   [[menu.main]]
@@ -48,7 +48,7 @@ currentIssue = "volume-v-issue-1"
   #sidebar = false
   jquery = true
   newnav = true
-  buildDate = '2020-08-06 13:59'
+  buildDate = '2020-10-26 13:19'
   #copyright = "Rootstalk 2020"
 
 [markup]
