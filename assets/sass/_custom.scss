@@ -226,8 +226,10 @@ img,svg {
 }
 
 img.leaf {
-  width: 5rem;
-  height: 5rem;
+  width: 1 rem;
+  height: 1 rem;
+  position: absolute;
+  margin-left: 5px;
 }
 
 nav.blockmenu {

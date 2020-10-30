@@ -31,6 +31,6 @@ And then there is Steve King, one of Iowa’s Representatives to the U.S. Congre
 
 After we elected Barack Obama as our first black president in 2008, I remember there was hopeful speculation in some quarters that we had at last entered a “post-racial” America. But as we’ve seen amply illustrated, our reports of racism’s demise were sadly exaggerated. George Floyd died in Minneapolis in 2020. This should be our mantra if ever again we feel tempted to rest on our laurels, and to say we’ve finished the work of securing civil rights for every Midwesterner.  
 
-We need to be as good as we think we are.
+We need to be as good as we think we are. {{% leaf-bug %}}
 
 {{% figure_dg pid="28608" caption="Photo courtesy of the Library of Congress, American Red Cross national Photograph Collection. Tulsa's Greenwood neighborhood is referred to here as 'Little Africa'" %}}
