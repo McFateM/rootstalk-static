@@ -5,10 +5,9 @@ date:
 draft: false
 author: "Mark Baechtel"
 articletype: "Editor's Note"
-headerimage_dg: "grinnell:28415"
+headerimage_dg: "grinnell:28756"
 headshot_dg: "grinnell:28576"
-tags: ["featured", "culture"]
-authorbio: "***___Mark Baechtel___*** received his B.A. in print journalism from [The American University](https://www.american.edu/) in Washington, DC, and his M.F.A. in fiction-writing from the [Iowa Writers’ Workshop](https://writersworkshop.uiowa.edu/), where he was selected as an Iowa Arts Fellow. He has nearly 30 years of publishing experience, and is author of [Shaping the Story](https://www.amazon.com/Shaping-Story-Step-Step-Writing/dp/0205337198#ace-4993291862), a textbook guide to short-story writing (Longman, 2003). He has taught at the University of Iowa, Grinnell College and various art centers, as well as working as a professional book editor. His work has appeared in numerous newspapers, magazines, journals and anthologies, nationally and internationally. He is currently polishing the stories in a collection of short fiction, titled What Moves and What Is Still, and is at work on a novel titled Renovation"
+authorbio: "***Mark Baechtel*** received his B.A. in print journalism from [The American University](https://www.american.edu/) in Washington, DC, and his M.F.A. in fiction-writing from the [Iowa Writers’ Workshop](https://writersworkshop.uiowa.edu/), where he was selected as an Iowa Arts Fellow. He has nearly 30 years of publishing experience, and is author of [Shaping the Story](https://www.amazon.com/Shaping-Story-Step-Step-Writing/dp/0205337198#ace-4993291862), a textbook guide to short-story writing (Longman, 2003). He has taught at the University of Iowa, Grinnell College and various art centers, as well as working as a professional book editor. His work has appeared in numerous newspapers, magazines, journals and anthologies, nationally and internationally. He is currently polishing the stories in a collection of short fiction, titled What Moves and What Is Still, and is at work on a novel titled Renovation"
 ---
 
 George Floyd died in a Midwestern city, smack in the middle of the northern prairie. Stop a moment, and take that in. White Midwesterners who like me live in rural areas might until recently have been able to indulge in the fantasy that we are far in geography and mindset from the hotbeds of racial conflict that became infamous during the civil rights struggles of the 50s, 60s and 70s. We’re not (we’ve told ourselves) Montgomery, or Selma, or Memphis, or Jackson, or any of the other southern cities or towns where freedom rides, lunch-counter sitins and bus-boycotts took place. There’s no Bull Connor here to set his dogs on peaceful demonstrators, or night riders burning crosses on the lawns of our black civic leaders. There are no statues of Confederate generals standing in our public squares. No one has buried workers for social justice in levees here, or left civil rights icons bleeding and dying on motel balconies. That’s not us.  
@@ -31,6 +30,6 @@ And then there is Steve King, one of Iowa’s Representatives to the U.S. Congre
 
 After we elected Barack Obama as our first black president in 2008, I remember there was hopeful speculation in some quarters that we had at last entered a “post-racial” America. But as we’ve seen amply illustrated, our reports of racism’s demise were sadly exaggerated. George Floyd died in Minneapolis in 2020. This should be our mantra if ever again we feel tempted to rest on our laurels, and to say we’ve finished the work of securing civil rights for every Midwesterner.  
 
-We need to be as good as we think we are.
+We need to be as good as we think we are. {{% leaf-bug %}}
 
 {{% figure_dg pid="28608" caption="Photo courtesy of the Library of Congress, American Red Cross national Photograph Collection. Tulsa's Greenwood neighborhood is referred to here as 'Little Africa'" %}}

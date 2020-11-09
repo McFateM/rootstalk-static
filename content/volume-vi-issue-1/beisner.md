@@ -4,9 +4,9 @@ subtitle:
 date: 
 draft: false
 author: "Sarah Beisner"
-articletype: "?"
-headerimage: ""
-headshot_dg: "28589"
+articletype: "Essay"
+headerimage_dg: "grinnell:28751"
+headshot_dg: "grinnell:28589"
 authorbio: "***Sarah Beisner***, who will graduate with Grinnell College’s class of 2022, is a Psychology and Spanish double major from Denton, TX. She has worked at [Mid-Iowa Community Action](https://www.micaonline.org/) (MICA) through the College’s Service Learning Work Study program since August 2018. Beside her work at MICA, Sarah runs Cross Country and Track and is involved in the low-income, first-generation community on campus."
 ---
 

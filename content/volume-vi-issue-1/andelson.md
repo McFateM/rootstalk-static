@@ -5,8 +5,8 @@ date:
 draft: false
 author: "Jon Andelson"
 articletype: "Publisher's Note"
-headerimage: 
-headshot_dg: "28566"
+headerimage_dg: "grinnell:28753"
+headshot_dg: "grinnell:28566"
 authorbio: 
 description:
 ---
@@ -26,4 +26,4 @@ Another parallel between the pandemics of 1918 and 2020 can be found in their de
 
 Farmers today are facing bottlenecks in food supply chains, preventing them from getting meat, milk, and crops to market. This has led, in various parts of the country, to farmers dumping excess milk, burying excess onions, and euthanizing excess hogs --- a painfully ironic tragedy when millions of people face food shortages due to limited supplies or unemployment related to the coronavirus. According to a recent CNBC News analysis, meat shortages are likely to last through the pandemic. It is hard to avoid the conclusion that the structure of our industrialized food system lies at the heart of these problems. Would the impact of the coronavirus have been different if we had a more localized food system, with shorter supply chains and less centralized and concentrated production processes?  
 
-That is one of many questions the pandemic demands we address. Right now, we are in the midst of coping with it. When it subsides, the nation and the world will have an opportunity to rethink how we deliver health care, how we raise food, how we distribute wealth, how we govern ourselves, and how different governments and different levels of government should coordinate with each other. The choices we make will affect not only the severity of the next pandemic (which most experts think will not wait another century to strike us) and how we respond to it, but also the kind of society in which we live. Beyond even that, the choices will indicate our character as a nation. And at the deepest level, the choices the world makes will reveal much about human nature. {{leafbug}}
+That is one of many questions the pandemic demands we address. Right now, we are in the midst of coping with it. When it subsides, the nation and the world will have an opportunity to rethink how we deliver health care, how we raise food, how we distribute wealth, how we govern ourselves, and how different governments and different levels of government should coordinate with each other. The choices we make will affect not only the severity of the next pandemic (which most experts think will not wait another century to strike us) and how we respond to it, but also the kind of society in which we live. Beyond even that, the choices will indicate our character as a nation. And at the deepest level, the choices the world makes will reveal much about human nature. {{% leaf-bug %}}
