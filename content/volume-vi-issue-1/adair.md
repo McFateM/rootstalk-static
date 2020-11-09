@@ -4,9 +4,9 @@ subtitle:
 date:
 draft: false
 author: "Steve Adair"
-articletype: "?"
-headerimage: ""
-headshot_dg: "28597"
+articletype: "Essay"
+headerimage_dg: ""
+headshot_dg: "grinnell:28597"
 authorbio: "***Stephen E. Adair*** Ph.D. is the National Director for Conservation Strategy for [Ducks Unlimited, Inc.](https://www.ducks.org/) Dr. Adair received his  doctorate  in  wildlife  ecology  from  [Utah State University](https://www.usu.edu/), his M.S. in wildlife management from [Texas A&M University](https://www.tamu.edu/) and his B.S. in biology from the [University of Texas at Austin](https://www.utexas.edu/). Before assuming his current national role, he served as the di-rector of operations for DU’s Great Plains Region for 12 years. Dr. Adair has exten-sive experience across North America in conservation program development, im-plementation, and evaluation. Dr. Adair lives in Bismarck, North Dakota with his wife Laura and has two children in college."
 ---
 
