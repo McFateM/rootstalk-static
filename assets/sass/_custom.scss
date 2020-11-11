@@ -135,7 +135,7 @@ header {
 
 h1,
 h2,
-h3{
+h3 {
   a {
     text-decoration: none;
     // border-bottom: 5px lightgreen;
@@ -183,7 +183,7 @@ h3{
       width: 100%;
       text-align: right;
       margin-bottom: .75rem;
-      @include typeface(headings);
+      @include typeface(headings); 
     }
 
     em {
@@ -445,4 +445,10 @@ div.endnotes {
 
 div.tags ul {
   margin: 0;
+}
+
+// Main content...
+
+.layout_main {
+  text-align: center;
 }
