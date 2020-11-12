@@ -46,11 +46,11 @@
 <div id="articlegrid_container">
 {{ range .Pages.ByDate -}}
   <div class="articlegrid_item">
-    {{ if .Page.Params.header_image_dg }}
+    {{ if .Page.Params.headerimage_dg }}
       <a href="{{ .Page.Permalink }}"> <img class="headerimage" src="https://digital.grinnell.edu/islandora/object/{{ .Page.Params.headerimage_dg }}/datastream/OBJ/view" /></a>
     {{ else }}
       <a href="{{ .Page.Permalink }}"> <img class="headerimage" src="/images/headers/{{ .Page.Params.headerimage }}" /></a>
-    {{ end }}  
+    {{ end }}
     <h3 class="articletype">{{ .Page.Params.articletype }}</h3>
     <h2 class="title"><a href="{{ .Page.Permalink }}"> {{ .Title | markdownify }} </a></h2>
     <p class="author">{{ with .Params.author }}by {{ . }}{{ end }}</p>
