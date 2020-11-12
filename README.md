@@ -40,25 +40,11 @@ docker-compose up -d
 ```
 
 ## Local Development
-
-It is recommended that you clone (or fork and clone) this repository to an OS X workstation where [Hugo](https://gohugo.io) is installed and running an up-to-date version.
-
-My typical workflow for local development is:
-
-```
-cd ~/GitHub/
-git clone https://github.com/McFateM/rootstalk-static
-cd rootstalk-static
-git checkout -b <new-branch-name>
-atom .
-hugo server
-```
-
-The `atom .` command opens the project in my [Atom](https://atom.io) editor, and `hugo server` launches a local instance of the site and provides a link to that site if there are no errors.  This local site will respond immediately to any changes made in Atom.
+Everything you need to know about local development -- and it's specific to _Rootstalk_ -- is covered in my blog post, [Collaborating on Hugo Site Development](https://static.grinnell.edu/blogs/McFateM/posts/095-collaborating-on-hugo-site-development/).
 
 # Updating the Production Server
 
-You can use a `./push-update.sh` command to push your changes into production.  Study the `./push-update.sh` script and corresponding `push-update-Dockerfile` configuration to see all that it does.
+You can use a `./push-update.sh` command to push your changes into production, that is IF you have the proper credentials stored on your workstation!  Study the `./push-update.sh` script and corresponding `push-update-Dockerfile` configuration to see all that it does.
 
 # An Even Easier Update
 
