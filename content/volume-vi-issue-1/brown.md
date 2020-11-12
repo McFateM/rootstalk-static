@@ -4,7 +4,7 @@ subtitle:
 date:
 draft: false
 author: "Dartanyan Brown"
-articletype: "Essay"
+articletype: "Memoir"
 headerimage_dg: "grinnell:28752"
 headshot_dg: "grinnell:28542"
 tags: [ "featured", "culture", "essay", "memoir" ]
@@ -151,7 +151,7 @@ When I arrived in San Anselmo, my senses became aware of two things: a steady, g
 
 While all that was fun, I was soon driven by the necessity to look beyond music performance to earn enough to keep body, soul and hungry children together.
 
-**The Mac Garden**
+### The Mac Garden
 
 Thanks to my Iowa tech background, I was prepared to grab a job at The Mac Garden, a computer store located a few blocks from our house in San Rafael. It was one of the first Mac-only retail stores anywhere, and its owner, Chet Zdrowski, was looking for a new sales/ tech support person. I was hired, and now I was holding a mouse instead of a guitar. The mouse was connected to the Mac, which in turn connected me to an insane collection of artists, musicians, programmers, visionaries, charlatans, seers and other digital New Age hippies who gathered in the San Francisco Bay Area between 1989 and 1991.
 
@@ -173,9 +173,9 @@ Unfortunately, though, the advent of the Internet---great for Apple and Microsof
 
 While still at CE in 1991, I met [Henry Norr](https://en.wikipedia.org/wiki/Henry_Norr), the news editor for *[MacWEEK](https://en.wikipedia.org/wiki/MacWEEK)* a Ziff-Davis owned trade publication that functioned almost like an early WikiLeaks, providing hot tips, product news, and sensitive information poached from inside Apple which had some bearing on the nascent Macintosh computer market. Henry hired me away from CE, and the investigative/writing skills I had honed during my time at the Register now served me well during a 17-month assignment as a staff writer and reporter.
 
-One highlight of the job was getting to interview the late [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) while he was in exile from Apple in 1992 at [NeXT Computing](https://en.wikipedia.org/wiki/NeXT_Computer). He didn’t allow me very much time, but as we shared a mordant chuckle regarding Apple, led by then---CEO Michael Spindler, I had a feeling he was plotting his comeback to Apple, and I was right.
-\
-**Back into the classroom**
+One highlight of the job was getting to interview the late [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) while he was in exile from Apple in 1992 at [NeXT Computing](https://en.wikipedia.org/wiki/NeXT_Computer). He didn’t allow me very much time, but as we shared a mordant chuckle regarding Apple, led by then---CEO Michael Spindler, I had a feeling he was plotting his comeback to Apple, and I was right.  
+
+### Back into the Classroom
 
 This was now 1993-94, and as our son Jaimeo was heading into high school, my marriage to Marcia was dissolving. Thankfully, we maintained our relationship as committed co-parents, but I felt a strong need to spend much more time with both our children. My work at that time included long periods away on business which---while good for my career---was not so good for the relationship I needed to maintain with my children at a critical period in their lives.
 
@@ -203,15 +203,16 @@ Changing careers in 1993 was a critically important thing to do when my son and 
 
 {{% figure_dg pid="28539" caption="Chart from 'A little about the Iowa Economy and State Budget' a [presentation](https://slideplayer.com/slide/14845002/) by Jeffrey Gilbert, at the Urban Education Network (UEN) of Iowa Legislative luncheon on November 18, 2015. Chart supplied by [Iowa School Finance Information Services](https://www.iowaschoolfinance.com/)" %}}
 
-**What made My Integrated Life possible?**
-I was able to surmount the challenges and take advantage of the opportunities My Integrated Life presented to me because I was well-prepared. Between the years 1949-80, the Iowa legislature provided adequate funding for the public-school system, making Iowa a national model of how education funding ought to be done. As a result, during my childhood and early life from 1955-67 I benefitted from a solid, universally accepted school curriculum and well-respected (i.e., wellpaid) teachers who were backed up by an administration adept at supporting, not obstructing them. (My parents also made a pact with my teachers to keep close watch on me. No goofing off for me.)
+### What Made My Integrated Life Possible?
+
+I was able to surmount the challenges and take advantage of the opportunities My Integrated Life presented to me because I was well-prepared. Between the years 1949-80, the Iowa legislature provided adequate funding for the public-school system, making Iowa a national model of how education funding ought to be done. As a result, during my childhood and early life from 1955-67 I benefitted from a solid, universally accepted school curriculum and well-respected (i.e., well-paid) teachers who were backed up by an administration adept at supporting, not obstructing them. (My parents also made a pact with my teachers to keep close watch on me. No goofing off for me.)
 
 My family’s experiences since arriving in Iowa from Charlottesville, Virginia, in 1895 constitute the other crucial part of the platform on which I could build. I saw how these experiences manifested themselves in work, in religion, in education, in art, and in love. To the family elders who worked themselves half to death to provide for us, I give ultimate respect and dedicate this writing to their enduring spirit.
 
 When I left Iowa in 1987, as I remember, our public school system from kindergarten to university was ranked very near the pinnacle of public education in the U.S. I returned to find that [this is no longer the case](http://www.sai-iowa.org/news.cfm/Article/News/Iowas-Per-Pupil-Funding-is-Plummeting/2015-1-15), and that politicians---the caretakers of our public education dollars---seem to be at war with the very institutions they’re tasked with protecting.
 
-Since returning to Iowa in 2007, I have witnessed directly what we lose here when bright kids aren’t provided with the parental guidance or community support they need to follow their dreams. In my experience, the most important aspect of learning is exposure---to new ideas, new cultures, new music! The sooner a student learns to acknowledge other cultures, the sooner that student will learn to incorporate the best of what those cultures offer into a personal toolkit for success. If we deny students those opportunities, we waste their potential, and our communities are the poorer for it.
-\
+Since returning to Iowa in 2007, I have witnessed directly what we lose here when bright kids aren’t provided with the parental guidance or community support they need to follow their dreams. In my experience, the most important aspect of learning is exposure---to new ideas, new cultures, new music! The sooner a student learns to acknowledge other cultures, the sooner that student will learn to incorporate the best of what those cultures offer into a personal toolkit for success. If we deny students those opportunities, we waste their potential, and our communities are the poorer for it.  
+
 In Iowa in 2019, [public school teachers](https://www.thegazette.com/subject/news/year-in-review-iowas-collective-bargaining-rights-dwindle-20171231), healthcare workers and [public union workers](https://www.chicagotribune.com/nation-world/ct-iowa-public-union-bill-20170216-story.html) have lost union bargaining rights and respect. They endure attacks by those whose only purpose seems to be sowing division and reaping political gain at the expense of our most vulnerable citizens. Sane civic governance seems to be in freefall, with no one currently able to arrest this sad trend.
 
 All of us---parents, school teachers, students, school administrators, community partners and supporters---share an interest in working more effectively together for the good of the entire system. Convincing Iowans to change legislative direction regarding public education will be hard, and there are challenges, but the landscape is far from bleak. Thanks to progressive grassroots organizations, including [Iowa Citizens for Community Improvement](http://iowacci.org/) (Iowa CCI), I’ve witnessed rural and urban communities finding their voice andbuilding their power to effect change on environmental justice, employment, healthcare, civil and human rights issues.
@@ -240,4 +241,4 @@ We’re Midwesterners. We plant things. My mission (and I have chosen to accept 
 
 {{% figure_dg pid="28579" caption="Dartanyan Brown's parents, Ellsworth T. and Mary Alice Brown (in the middle of the picture), on their wedding day in Los Angeles" %}}
 
-{{% figure_dg pid="28541" caption="The last time the family Mary and Ellsworth created was togehter, in Des Moines, 2010, when Ellsworth was inducted into the Iowa Jazz Hall of Fame. From left to right, Dartanyan Brown, Rev. Mary Alice Brown, Don C. Brown, Ellsworth T. Brown and Kevan L. Brown" %}}
+{{% figure_dg pid="28541" caption="The last time the family Mary and Ellsworth created was together, in Des Moines, 2010, when Ellsworth was inducted into the Iowa Jazz Hall of Fame. From left to right, Dartanyan Brown, Rev. Mary Alice Brown, Don C. Brown, Ellsworth T. Brown and Kevan L. Brown" %}}

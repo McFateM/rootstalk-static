@@ -183,7 +183,7 @@ h3 {
       width: 100%;
       text-align: right;
       margin-bottom: .75rem;
-      @include typeface(headings); 
+      @include typeface(headings);
     }
 
     em {
@@ -388,7 +388,7 @@ figure {
 
 figcaption {
   font-style: italic;
-  padding-right: 15%;
+  padding-right: 2%;
   padding-left: 2%;
 
   em {
@@ -451,4 +451,10 @@ div.tags ul {
 
 .layout_main {
   text-align: center;
+}
+
+// Adjust h3 headings inside articles
+
+h3 {
+  margin-bottom: -1.0rem;
 }
