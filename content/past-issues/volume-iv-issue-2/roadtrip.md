@@ -1,7 +1,7 @@
 ---
 title: "Roadtrip"
 subtitle:
-date: 2020-01-05T00:58:11-08:00
+date: 2020-11-11T15:42:44-08:00
 draft: false
 author: "Tracy Harris"
 articletype: "Essay"

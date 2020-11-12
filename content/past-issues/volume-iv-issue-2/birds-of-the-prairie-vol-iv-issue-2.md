@@ -1,6 +1,6 @@
 ---
 title: "Birds of the Prairie"
-date: 2017-12-04T22:31:24-08:00
+date: 2020-11-11T15:56:53-08:00
 draft: false
 author:
 articletype: "Multimedia"
@@ -35,12 +35,12 @@ visit [Xeno-canto](https://www.xeno-canto.org/182950), or download the
 fully interactive PDF of this issue’s Birds of the Prairie feature by
 using the hyperlink at the bottom of the web page.**
 
-## Baltimore Oriole 
+## Baltimore Oriole
 ### _Icterus galbula_
 
 {{% figure src="/images/volume-iv-issue-2/saunders-oriole.jpg" caption="Photo courtesy of Ken Saunders II, taken May 19, 2013, at Arbor Lake City Park in Grinnell, Iowa" %}}
 
-The rich, whistling song of the **Baltimore Oriole**, echoing from treetops near homes and parks, is a sweet herald of spring in Eastern North America. Look way up to find these singers: the male’s brilliant orange plumage blazes from high branches like a torch. Nearby, you might spot the female weaving her remarkable hanging nest from slender fibers. Fond of fruit and nectar as well as insects, Baltimore Orioles are easily lured to backyard feeders. 
+The rich, whistling song of the **Baltimore Oriole**, echoing from treetops near homes and parks, is a sweet herald of spring in Eastern North America. Look way up to find these singers: the male’s brilliant orange plumage blazes from high branches like a torch. Nearby, you might spot the female weaving her remarkable hanging nest from slender fibers. Fond of fruit and nectar as well as insects, Baltimore Orioles are easily lured to backyard feeders.
 
 **Song:** The pure, liquid, whistling tones of the male Baltimore Oriole are a herald of springtime in eastern North America. His song consists of a short series of paired notes, repeated 2–7 times, lasting 1–2 seconds. The flutelike sound has a full, rich tone. The male sings to establish and defend a breeding territory, so you won’t hear the full song on the wintering grounds. The female Baltimore Oriole also sings. Her shorter songs may be communications with her mate. Occasionally, mated pairs may sing a duet. (Description adapted from [text created by the Cornell Lab of Ornithology](https://www.allaboutbirds.org/guide/baltimore_oriole)).
 

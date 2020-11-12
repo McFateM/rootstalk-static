@@ -7,16 +7,18 @@ author: "Dartanyan Brown"
 articletype: "Essay"
 headerimage_dg: "grinnell:28752"
 headshot_dg: "grinnell:28542"
-tags: [ "featured", "culture" ]
+tags: [ "featured", "culture", "essay", "memoir" ]
 authorbio: "***[Dartanyan Brown](https://www.dartanyan.com/About_Me.html)*** is an Iowa musician, journalist and educator with a 40-year career in the arts. He is an inductee into the [Iowa Blues](http://cibs.org/events-programs/iowa-blues-hall-of-fame/), and [Rock ‘n Roll](https://www.iowarocknroll.com/) Halls Of Fame. Dartanyan and his late father Ellsworth Brown are both inductees of the [Iowa Jazz Hall of Fame](https://www.cjc-dsm.org/HallofFame.aspx). He lives in Des Moines, Iowa with Visual Artist [Paula Egan](http://paulaegan.com/).
 
-Dartanyan Brown began telling his remarkable story in Volume V, Issue 1 of Rootstalk. A native Iowan, born at nearly the exact middle of the 20th Century, he has been front-and-center for many of American culture’s most defining struggles, particularly the Civil Rights movement and the advent of revolutions in music and technology. Where many people content themselves with one career, Brown has had at least four: in journalism, in musical performance, in the tech sector and in education.
+Dartanyan Brown began telling his remarkable story in Volume V, Issue 1 of Rootstalk. A native Iowan, born at nearly the exact middle of the 20th Century, he has been front-and-center for many of American culture’s most defining struggles, particularly the Civil Rights movement and the advent of revolutions in music and technology. Where many people content themselves with one career, Brown has had at least four: in journalism, in musical performance, in the tech sector and in education.  
+
 In [the first excerpt](https://rootstalk-archive.grinnell.edu/index.php/article/my-integrated-life-part-i) of his story, Brown told of his musician parents, his early years as a journalist with the *[Des Moines Register](https://www.desmoinesregister.com/)*, and his adventures in the burgeoning musical—and cultural—scenes of the 60s and 70s, when he began playing Rock-n-Roll, blues and jazz with various Midwestern bands. In the spring of 1973, he hit the big time when he was called to join [Chase](https://en.wikipedia.org/wiki/Chase_(band)), the jazz-fusion band fronted by seminal trumpet player Bill Chase.
 
 In the story’s [second excerpt](https://rootstalk-archive.grinnell.edu/index.php/article/my-integrted-life-part-ii), published in Volume V, Issue 2, Brown described the dramatic arc of his personal history, taking him from Des Moines to Chicago, and then into a grueling schedule of gigs and recording sessions which would last for a single whirlwind year, ending when Bill Chase and two of Brown’s other band-mates died in a plane crash on their way to a concert date in Minnesota. While that was the end of Brown’s adventure in the front ranks of the 70s jazz-fusion scene, it was far from the end of his journey. In typical fashion, he picked up the pieces, returning to Des Moines to begin an entirely new adventure as societal changes reshaped America’s cultural landscape yet again."
 ---
 
-{{% figure_dg pid="28564" caption="Dartanyan Brown and tme members of the Drake University Jazz Band in 1974. He is seated front row center with his bass. Future wif Marcia Miget is at the end of the second row, on the right, holding her saxophone and flute." %}}
+{{% figure_dg pid="28564" caption="Dartanyan Brown and the members of the Drake University Jazz Band in 1974. He is seated front row center with his bass. Future wife Marcia Miget is at the end of the second row, on the right, holding her saxophone and flute." %}}
+
 When I got back to Des Moines in the Fall of 1974, I saw that many things had changed. I returned to [Drake University](https://www.drake.edu/), where I found the jazz band energized by several new young members who had a lot of enthusiasm. Robert Weast, band director and now a good friend, introduced me to a freshman woodwind player named Marcia Miget early in the 1974-75 academic year. Marcia, from Perryville, Missouri, immediately charmed anyone who heard her play either woodwinds or keyboard. We shared an instinctive musical communication, and before long we were playing together. Marcia played in an off-campus band called the Midwest Express. Beside her, the group included Drake student and keyboardist Bobby Parker, Des Moines resident musicians Danny Nicholson (guitar), Terry Condor (bass), John Grgurich (drums) and blues shouter Big Mike Edwards, who rounded out the group. Big Mike brought an intense vocal energy which really made the band a popular force in town. It was great to jam with kick-ass players on the local scene again. No big egos, no high stakes; just play your ass off and have fun.
 
 I’d really wanted to concentrate on finishing up my degree and even, possibly, return to reporting. I’d felt like I’d “been there, done that” as far as music was concerned and I certainly didn’t anticipate having a band as fun or successful as Chase again soon---if ever.
@@ -36,8 +38,8 @@ The year I spent as an “intern” at the *Des Moines Register* upon my return 
 Music---formerly composed or played almost exclusively by human beings who played real instruments---was now increasingly composed and programmed by a new cadre of musicians who could control computer-driven instruments to replace the humans formerly employed as studio musicians.
 
 I might have been happy working at the Register again if it had been like it was in 1967, but those days were gone and 1976 was right up ahead.
-\
-**Crazy fun**
+
+### Crazy Fun
 
 The Midwest Express band was turning out to be crazy fun. With each new rehearsal or show, I lost that jaded feeling I had gotten from life on the road, and frankly the musicians on the local scene were pretty awesome.
 
@@ -128,8 +130,8 @@ In 1986, I was approached about starting a new recording studio in Des Moines. E
 I already had experience with digital audio and the Musical Instrument Digital Interface (MIDI), a protocol that enabled communication between computers and electronic musical instruments, so in mid-1986 we opened Audio Art Recording Studios just over the 9th St. viaduct south of Downtown.
 
 It was an immediate success. Songwriters and small producers who needed high-quality work with faster turnaround than they could get at the bigger, busier studio in town flocked to us. We used cutting-edge digital audio tools for traditional band recording, songwriter demos and corporate video projects, and before long our work was being used in local advertising on radio and television stations in our market. Technology, art, and now commerce were all integrating nicely.
-\
-**The California years**
+
+### The California Years
 
 I was working at Audio Art Studio in early 1987 when I got a call from 2,000 miles to the west. [Teja Bell](https://www.tejabell.com/teja-site/), one of my closest friends and fellow Des Moines native, was on the phone asking me whether I’d consider taking a trip to Northern California. Teja and I had been friends since late middle school. He had been one of the first of us to actually pick up a guitar and learn to play Beatles songs. This was 1964-68. As the civil rights and anti-war movements spun up, we played folk songs from [The New Christy Minstrels](https://en.wikipedia.org/wiki/The_New_Christy_Minstrels) and protest songs by [Pete Seeger](https://en.wikipedia.org/wiki/Pete_Seeger) in the high school’s student center.
 
@@ -192,7 +194,7 @@ Upon Marisha’s acceptance, I was invited to apply for the recently opened posi
 {{% figure_dg pid="28609" caption="'Seeing' music thanks to the computer helped Dartanyan Brown's son Jaimeo to win honors at the science fair" %}}
 
 The next four years were an incredible experience for us at TBS. The fact that Marisha’s academic performance earned her distinction as valedictorian of her graduation class (1999) would have been no surprise, but a source of no little pride, for her ancestors---my father, Ellsworth T. Brown, and my mother, Mary Alice Thompson. My mother learned her lessons in mental preparation from my grandmother, Lettie Thompson of Buxton, Iowa, who received these values from Blanche and Ross Johnson, out of Charlottesville, Virginia. Lettie believed the way to success was through “hard work; hard work and plenty of it.” Her ethos was what enabled my daughter to lead a competitive group of 319 university-bound peers. If Lettie had been there for Marisha’s commencement, she would have said: “See, I told you.”
-\
+
 In 2003, Bob Schleeter, a Des Moines native and a fine guitarist, invited me to join the fine arts faculty at [Marin Academy](https://www.ma.org/) in San Rafael. Bob and I spent the next 10 years designing a performance-oriented music program that made it fun to learn the roots of American music, earning it a reputation as one of the most challenging programs in Northern California. I worked at Marin Academy until I left California to return to Iowa, in 2016.
 
 Becoming a teaching artist in California had reconnected me to my beginnings as a jazz educator back in the 70s. My parents and my Grandmother Lettie had taught me that education was one of the things that could free you, but only if you did the hard work it took to put what you learned into practice. My Integrated Life would not have taken the trajectory it did if I hadn’t been exposed early in life to a variety of experiences, and if my folks hadn’t thought deeply about what kind of life I should be prepared for.
