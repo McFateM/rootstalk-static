@@ -1,6 +1,6 @@
 # generated site #
 public
-resources/_gen/*
+# resources/_gen/*
 
 # out-of-the-way #
 .out-of-the-way
