@@ -1,5 +1,6 @@
+baseURL = "https://rootstalk.grinnell.rocks/"
 # baseURL = "http://rootstalk-2019summer.s3-website-us-east-1.amazonaws.com/"
-baseURL = "https://rootstalk.grinnell.edu/"
+# baseURL = "https://rootstalk.grinnell.edu/"
 languageCode = "en-us"
 title = "Rootstalk"
 theme = "rootstalkzen"
