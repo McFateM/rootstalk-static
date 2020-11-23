@@ -1,6 +1,5 @@
 # generated site #
-public/*
-public/
+public
 resources/_gen/*
 
 # OS generated files #
