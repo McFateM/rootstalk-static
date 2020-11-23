@@ -1,0 +1,28 @@
+version: "3"
+
+services:
+  rootstalk:
+    image: mcfatem/rootstalk:latest
+    container_name: rootstalk
+    restart: unless-stopped
+    security_opt:
+      - no-new-privileges:true
+    networks:
+      - proxy
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+      - ./data:/data
+    labels:
+      - "traefik.enable=true"
+      - "traefik.docker.network=proxy"
+      - "traefik.http.routers.rootstalk.entrypoints=https"
+      - "traefik.http.routers.rootstalk.rule=Host(`rootstalk.grinnell.edu`)"
+      - "traefik.http.routers.rootstalk.tls=true"
+      - "traefik.http.routers.rootstalk.tls.certresolver=http"
+      - "traefik.http.routers.rootstalk.service=rootstalk-static_rootstalk"
+      - "com.centurylinklabs.watchtower.enable=true"
+
+networks:
+  proxy:
+    external: true

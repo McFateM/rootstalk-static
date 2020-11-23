@@ -1,6 +1,8 @@
 # generated site #
 public
-resources/_gen/*
+
+# obsolete #
+.out-of-the-way
 
 # OS generated files #
 ######################

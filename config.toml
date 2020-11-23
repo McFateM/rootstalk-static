@@ -1,10 +1,20 @@
-baseURL = "https://rootstalk.grinnell.rocks/"
+# baseURL = "https://rootstalk.grinnell.rocks/"
 # baseURL = "http://rootstalk-2019summer.s3-website-us-east-1.amazonaws.com/"
-# baseURL = "https://rootstalk.grinnell.edu/"
+baseURL = "https://rootstalk.grinnell.edu/"
 languageCode = "en-us"
 title = "Rootstalk"
 theme = "rootstalkzen"
 currentIssue = "volume-vi-issue-1"
+
+[params]
+  #sidebar = false
+  jquery = true
+  newnav = true
+  buildDate = '2020-11-23 15:37'
+  #copyright = "Rootstalk 2020"
+  currentIssueTitle = "Volume VI, Issue 1"
+  currentIssueURL = "/volume-vi-issue-1/"
+
 
 [menu]
 
@@ -44,13 +54,6 @@ currentIssue = "volume-vi-issue-1"
     name = "Submissions"
     url = "/submit/"
     weight = "6"
-
-[params]
-  #sidebar = false
-  jquery = true
-  newnav = true
-  buildDate = '2020-11-12 14:37'
-  #copyright = "Rootstalk 2020"
 
 [markup]
   [markup.goldmark]
