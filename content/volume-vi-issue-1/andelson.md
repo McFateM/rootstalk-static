@@ -1,14 +1,15 @@
 ---
 title: "Publisher's Note: The Pandemic on the Prairie"
-subtitle: 
-date: 
+subtitle:
+date:
 draft: false
 author: "Jon Andelson"
 articletype: "Publisher's Note"
 headerimage_dg: "grinnell:28753"
 headshot_dg: "grinnell:28566"
-authorbio: 
+authorbio:
 description:
+tags: ["culture", "essay", "publisher's note" ]
 ---
 In response to the pandemic the Iowa Board of Health, like those in the surrounding states, placed the entire state under quarantine. Public gathering places closed, including schools, theaters, and churches. Face masks became part of being dressed appropriately when interacting with others in public spaces, although some, including public officials, resisted wearing them. Businesses slowed down or shuttered. People self-consciously stopped shaking hands. Doctors and nurses felt overwhelmed and often unequipped to deal with the crisis.  
 
