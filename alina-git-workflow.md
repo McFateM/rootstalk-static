@@ -1,6 +1,6 @@
 # Alina's Git Workflow
 
-- Open a terminal into your Ubuntu virtual machine.  
+- Open a terminal into your Ubuntu virtual machine.
 - Navigate to your `rootstalk` source folder, something like `cd rootstalk`.
 - Check your project status with `git`, like so: `git status; git remote -v`
   - `git remote -v` output should be this:
@@ -16,4 +16,9 @@
 - When your edits are complete and tested, commit them and create a `pull request` back to GitHub, like so:
   - `git add .`  This will stage any changes you have made to be committed
   - `git commit -m "brief unique message"`  Commits your changes with an attached message
-  - `git push origin -u feature-name`                           
+  - `git push origin -u feature-name`
+
+# Resources
+
+A nice concise guide to using `git` can be found at [https://rogerdudler.github.io/git-guide/](https://rogerdudler.github.io/git-guide/).
+Mark's blog post, [Collaborating on Hugo Site Development](https://static.grinnell.edu/blogs/McFateM/posts/095-collaborating-on-hugo-site-development/), could also prove helpful.
