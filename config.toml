@@ -4,17 +4,19 @@ baseURL = "https://rootstalk.grinnell.edu/"
 languageCode = "en-us"
 title = "Rootstalk"
 theme = "rootstalkzen"
-currentIssue = "volume-vi-issue-1"
+# currentIssue = "volume-vi-issue-1"   Ok, so I don't think this is used anymore?
 
 [params]
   #sidebar = false
   jquery = true
   newnav = true
-  buildDate = '2020-11-23 16:23'
+  #buildDate = ''
+  buildDate = ''
   #copyright = "Rootstalk 2020"
-  currentIssueTitle = "Volume VI, Issue 1"
-  currentIssueURL = "/volume-vi-issue-1/"
 
+[params.currentIssue]
+  Title = "Volume VI, Issue 1"
+  URL = "/volume-vi-issue-1/"
 
 [menu]
 

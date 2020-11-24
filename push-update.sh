@@ -1,9 +1,11 @@
 #!/bin/bash
 
-# Get the current date and time
-dt=$(date '+%Y-%m-%d %H:%M')
-# Substitute current date/time into config.toml's buildDate parameter.  Works in OSX, may need alteration in Linux?
-sed -i'.bak' -e "s/buildDate = .*/buildDate = '${dt}'/" config.toml
+## This is no longer necessary...
+## the templates now use 'Compiled: {{ now.Format "Jan 2, 2006 at 3:04pm MST" | markdownify }}' instead.
+## Get the current date and time
+#dt=$(date '+%Y-%m-%d %H:%M')
+## Substitute current date/time into config.toml's buildDate parameter.  Works in OSX, may need alteration in Linux?
+#sed -i'.bak' -e "s/buildDate = .*/buildDate = '${dt}'/" config.toml
 
 # Make sure we are using the current Git branch
 current=`git symbolic-ref --short -q HEAD`

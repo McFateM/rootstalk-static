@@ -40,9 +40,9 @@
     </article>
 
     <hr/>
-    {{/* printf "%#v" .Site.Params */}}
+    {{/* printf "%#v" .Site.Params.currentIssue */}}
     <div class="center" style="text-align: center">
-      <h2><a href="{{ .Site.Params.currentIssueURL }}" />Click here for full contents of "{{ .Site.Params.currentIssueTitle }}"</a></h2>
+      <h2><a href="{{ .Site.Params.currentIssue.URL }}" />Click here for full contents of "{{ .Site.Params.currentIssue.Title }}"</a></h2>
     </div>
 
   </main>
