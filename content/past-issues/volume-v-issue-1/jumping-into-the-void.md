@@ -8,22 +8,21 @@ articletype: "Interview"
 headerimage: "jumping-into-the-void.jpg"
 headerimage_dg: "grinnell:28409"
 headshot:
-authorbio: "[Matt Kargol](http://www.matthewkargolart.com) is a sculptor and native of Oskaloosa, Iowa, where he teaches Art at the local high school.
+authorbio: "[Matt Kargol](http://www.matthewkargolart.com) is a sculptor and native of Oskaloosa, Iowa, where he teaches Art at the local high school."
 tags: ["Interview"]
-
-[Sarah Kargol](https://www.facebook.com/art.by.sarah.kargol) was born in Colorado and raised in eastern Iowa. She received her bachelor’s degree in studio art from the University of Northern Iowa in 2000, and is an award-winning mixed media artist with artwork in permanent collections throughout the Midwest and Southeast United States and Canada.
-
-Speaking about her process, she says: “In developing my own voice through art, my love for ephemera and all things dusty, forgotten, vintage, and quirky has grown. I create small pieces and individual parts out of these papers, fabrics, and threads from society’s past treasures and assembling them together. Layering them with other individual pieces and parts opens up new conversations about some of our shared humanity’s weirdest and worst ideas and highlights our beautiful collective movement forward.”
-
-Sarah is co-founder of the Oskaloosa Art Center and Studios and serves as the Director of the center, where she coordinates classes and events. She also serves as a board member of Fine Arts and Cultural Events of Mahaska County (FACE), which aims to “provide exceptional arts education and opportunities in order to make art accessible and exciting to our community.”
-
-The couple met while at [University of Northern Iowa](http://www.uni.edu). After spending three years in the South pursuing their artistic careers, they decided to return to Matt’s hometown to raise their four boys.
-
-Upon arriving, they discovered that their new, rural community in the heart of Mahaska County had a void they felt they could fill. We talked with them on a summer afternoon about how they’ve been trying to do just that over the past two years."
 description: "What does an artist do in a prairie town that doesn't have an arts community? Matt and Sarah Kargol's answer: make one."
 ---
+[Sarah Kargol](https://www.facebook.com/art.by.sarah.kargol) was born in Colorado and raised in eastern Iowa. She received her bachelor's degree in studio art from the University of Northern Iowa in 2000, and is an award-winning mixed media artist with artwork in permanent collections throughout the Midwest and Southeast United States and Canada.
 
-*In July of 2018, Rootstalk Associate Editor Vincent Benlloch spoke with Matt and  Sarah  Kargol, founders of the non-profit Fine Arts and Cultural Events (FACE) of [Mahaska County, Iowa](https://www.faceofmahaska.com), housed at [Oskaloosa’s Art Center and Studios](https://www.facebook.com/oskaloosaartcenter).*
+Speaking about her process, she says: "In developing my own voice through art, my love for ephemera and all things dusty, forgotten, vintage, and quirky has grown. I create small pieces and individual parts out of these papers, fabrics, and threads from society's past treasures and assembling them together. Layering them with other individual pieces and parts opens up new conversations about some of our shared humanity's weirdest and worst ideas and highlights our beautiful collective movement forward.""
+
+Sarah is co-founder of the Oskaloosa Art Center and Studios and serves as the Director of the center, where she coordinates classes and events. She also serves as a board member of Fine Arts and Cultural Events of Mahaska County (FACE), which aims to "provide exceptional arts education and opportunities in order to make art accessible and exciting to our community."
+
+The couple met while at [University of Northern Iowa](http://www.uni.edu). After spending three years in the South pursuing their artistic careers, they decided to return to Matt's hometown to raise their four boys.
+
+Upon arriving, they discovered that their new, rural community in the heart of Mahaska County had a void they felt they could fill. We talked with them on a summer afternoon about how they've been trying to do just that over the past two years."
+
+*In July of 2018, Rootstalk Associate Editor Vincent Benlloch spoke with Matt and  Sarah  Kargol, founders of the non-profit Fine Arts and Cultural Events (FACE) of [Mahaska County, Iowa](https://www.faceofmahaska.com), housed at [Oskaloosa's Art Center and Studios](https://www.facebook.com/oskaloosaartcenter).*
 
 ***Rootstalk:*** We'd be curious to hear a little more about what's
 going on in [Oskaloosa](https://www.oskaloosaiowa.org) right now for you,
@@ -145,7 +144,7 @@ but you know, we've got to take it in steps and make sure our funding
 sources are secure for what we're doing before we add something else to
 it.
 
-{{% figure_dg caption="Anywhere but Here,” by Nathan S. Pierce" pid="28377" %}}
+{{% figure_dg caption="Anywhere but Here," by Nathan S. Pierce" pid="28377" %}}
 
 ***Rootstalk:*** You mentioned there was an art void here. We're
 curious---with the schools and the local education system here, how does
@@ -208,7 +207,7 @@ place to get started. It's fairly cheap to live here, you got a studio
 to work from, and then we're starting to build that community.
 
 {{% pullquote %}}
-There’s artists doing all kinds of wonderful things and if we can bring them here...and they could work through the art center...that just exposes our community to more opportunities and more ways of working...
+There's artists doing all kinds of wonderful things and if we can bring them here...and they could work through the art center...that just exposes our community to more opportunities and more ways of working...
 {{% /pullquote %}}
 
 **Sarah:** My perspective from the art center point of view was a little
@@ -267,7 +266,7 @@ the art center going, this sculpture annex going, the sculpture tour, I
 mean all of it. I want to say we've all worked together to get this
 going and up off the ground but Matt's really been the ignition point.
 
-{{% pullquote %}}There’s artists doing all kinds of wonderful things and if we can bring them here...and they could work through the art center...that just exposes our community to more opportunities and more ways of working...{{% /pullquote %}}
+{{% pullquote %}}There's artists doing all kinds of wonderful things and if we can bring them here...and they could work through the art center...that just exposes our community to more opportunities and more ways of working...{{% /pullquote %}}
 
 **Matt:** Going forward, we want to start a residency program because we
 only can teach so many things to people who are in this community, we
