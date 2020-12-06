@@ -8,7 +8,8 @@ articletype: "Interview"
 headerimage: "jumping-into-the-void.jpg"
 headerimage_dg: "grinnell:28409"
 headshot:
-authorbio: "[Matt Kargol](http://www.matthewkargolart.com) is a sculptor and native of Oskaloosa, Iowa, where he teaches Art at the local high school.  
+authorbio: "[Matt Kargol](http://www.matthewkargolart.com) is a sculptor and native of Oskaloosa, Iowa, where he teaches Art at the local high school.
+tags: ["Interview"]
 
 [Sarah Kargol](https://www.facebook.com/art.by.sarah.kargol) was born in Colorado and raised in eastern Iowa. She received her bachelor’s degree in studio art from the University of Northern Iowa in 2000, and is an award-winning mixed media artist with artwork in permanent collections throughout the Midwest and Southeast United States and Canada.
 

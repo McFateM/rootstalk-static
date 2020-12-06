@@ -10,11 +10,12 @@ headerimage_dg: "grinnell:28419"
 headshot:
 authorbio:
 description: "Blake said we can see the universe in a grain of sand; can we see the prairie expanses of the past in a remnant on an Illinois highway?"
+tags: ["Essay"]
 ---
 
 > *I am only one, but still I am one. I cannot do everything, but still I can do something. And because I cannot do everything, I will not refuse to do the something I can do.*
 
-Edward Everett Hale  
+Edward Everett Hale
 *The Book of Good Cheer*
 
 Strong winds. Gray skies. A cold drizzle. Not an optimal day to go for a

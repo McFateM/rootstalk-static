@@ -6,7 +6,7 @@ headerimage: "meskwaki_powow.jpg"
 headerimage_dg: "grinnell:28414"
 date: 2020-10-26T18:24:01+00:00
 draft: false
-#tags: ["featured"]
+tags: ["Editor's Note"]
 description: "In a community writing workshop, Rootstalk's Editor discovered a small town's true diversity."
 ---
 

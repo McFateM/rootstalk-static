@@ -10,7 +10,7 @@ pdf_dg: "grinnell:28307"
 headshot:
 authorbio:
 description: "In this issue we're publishing a variation on our \"Birds of the Prairie\" feature. This time, it's \"Mammals of the Prairie.\""
-tags: ["science"]
+tags: ["Multimedia"]
 ---
 
 # American Bison
