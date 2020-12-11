@@ -1,7 +1,7 @@
 ---
 title: "Jumping Into the Void"
 subtitle: "Creating a Community Art Center in Oskaloosa, Iowa"
-date: 2020-12-11T12:13:15-07:00
+date: 2020-12-11T15:31:00-07:00
 draft: false
 author: "Matt and  Sarah Kargol"
 articletype: "Interview"
@@ -42,7 +42,7 @@ happen by us and kind of discover that we have an art center and find
 out what kinds of things the art center can offer the community. We have
 lots of classes and activities, and different events for everybody.
 
-{{% figure caption="Evening at the Oskaloosa Art Center and Studios in the town’s historic downtown district. Photos by Briana Bartlett unless otherwise noted" src="/images/volume-v-issue-1/jumping-into-the-void/oskaloosa-art-01.jpg" %}}
+{{% figure_dg caption="Evening at the Oskaloosa Art Center and Studios in the town’s historic downtown district. Photos by Briana Bartlett unless otherwise noted" pid="28375" %}}
 
 **Matt:** We have the gallery shows.
 
