@@ -1,7 +1,7 @@
 ---
 title: "Rescuing A 'Threatened Landform:' the Joseph H. Williams Prairie Preserve"
 subtitle:
-date: 
+date:
 draft: false
 author: "Caleb Forbes"
 articletype: "Interview"
@@ -86,8 +86,7 @@ We got down to 541 plains bison in North America at one point. They were saved b
 
 We sell bulls when they’re six and a half years old, generally. We’ve had some go through the roundup that were nine and a half. But when you sell them, you’re supposed to sell them by truck load, and first of all, we don’t always get all of them when we round them up. We miss a few every year. And then sometimes you just don’t have an even truckload, so you leave a few. Breeding season is pretty amazing. Those bison bulls, when they’re full of testosterone, they roar like a lion on the Serengeti plains. It’s something to see and hear.  
 
-
-{{% figure_dg pid="28590" caption="Evening falls across the tallgrass as the herd ambles across one of the preserve's access roads. Video by Katie" %}}
+{{% video_dg pid="29432" width="800" caption="Evening falls across the tallgrass as the herd ambles across one of the preserve's access roads. Video by Katie." %}}
 
 ***Rootstalk***: And how do you provision the bison? Do you feed them in the winter, or do they forage for food?  
 

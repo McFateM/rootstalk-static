@@ -1,7 +1,7 @@
 ---
 title: "Jumping Into the Void"
 subtitle: "Creating a Community Art Center in Oskaloosa, Iowa"
-date: 2020-08-05T22:04:03-07:00
+date: 2020-12-11T12:13:15-07:00
 draft: false
 author: "Matt and  Sarah Kargol"
 articletype: "Interview"
@@ -144,7 +144,7 @@ but you know, we've got to take it in steps and make sure our funding
 sources are secure for what we're doing before we add something else to
 it.
 
-{{% figure_dg caption="Anywhere but Here," by Nathan S. Pierce" pid="28377" %}}
+{{% figure_dg caption="Anywhere but Here, by Nathan S. Pierce" pid="28377" %}}
 
 ***Rootstalk:*** You mentioned there was an art void here. We're
 curious---with the schools and the local education system here, how does

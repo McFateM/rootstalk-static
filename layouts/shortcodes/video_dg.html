@@ -1,0 +1,39 @@
+{{ $maxwidth := .Site.Params.imageMaxWidth -}}
+
+{{ $pid := .Get "pid" }}
+
+<script>console.log("{{$pid}}");</script>
+
+{{ if and (.Get "width") (.Get "height") -}}
+  {{ $.Scratch.Set "width" (int (.Get "width")) -}}
+  {{ $.Scratch.Set "height" (int (.Get "height")) -}}
+{{ else if (.Get "width") -}}
+  {{ $.Scratch.Set "width" (int (.Get "width")) -}}
+  {{ if lt ($.Scratch.Get "width") ($.Scratch.Get "realwidth") -}}
+    {{ $height := (mul ($.Scratch.Get "realheight") (div (add ($.Scratch.Get "width") 0.0) ($.Scratch.Get "realwidth"))) -}}
+        {{ $.Scratch.Set "height" (math.Round $height) -}}
+  {{ end -}}
+{{ else if (.Get "height") -}}
+  {{ $.Scratch.Set "height" (int (.Get "height")) -}}
+  {{ if lt ($.Scratch.Get "height") ($.Scratch.Get "realheight") -}}
+    {{ $width := (mul ($.Scratch.Get "realwidth") (div (add ($.Scratch.Get "height") 0.0) ($.Scratch.Get "realheight"))) -}}
+    {{ $.Scratch.Set "width" (math.Round $width) -}}
+  {{ end -}}
+{{ else if and $maxwidth (lt $maxwidth ($.Scratch.Get "width")) -}}
+  {{ $.Scratch.Set "width" $maxwidth -}}
+  {{ $height := (mul ($.Scratch.Get "realheight") (div (add ($.Scratch.Get "width") 0.0) ($.Scratch.Get "realwidth"))) -}}
+  {{ $.Scratch.Set "height" (math.Round $height) -}}
+{{ end -}}
+
+<figure class="image {{ .Get "class" | default "" }}">
+  <video {{ with $.Scratch.Get "width" }} width="{{ . }}"{{ end }} {{ with $.Scratch.Get "height" }} height="{{ . }}"{{ end }} controls>
+    <source src="https://digital.grinnell.edu/islandora/object/grinnell:{{ .Get "pid"}}/datastream/OBJ/view" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+  {{ if .Get "caption" -}}
+    <figcaption>
+      {{- .Get "caption" | markdownify -}}
+    </figcaption>
+  {{ end -}}
+</figure>
