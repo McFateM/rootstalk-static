@@ -1,0 +1,10 @@
+<figure class="{{ .Get "class" | default "" }}">
+  <audio controls="" preload="metadata">
+  <source src="https://digital.grinnell.edu/islandora/object/grinnell:{{ .Get "pid"}}/datastream/OBJ/view" type="audio/mpeg">
+  </audio>
+  {{ if .Get "caption" -}}
+    <figcaption>
+      {{- .Get "caption" | markdownify -}}
+    </figcaption>
+  {{ end -}}
+</figure>

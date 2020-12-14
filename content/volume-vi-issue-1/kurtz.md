@@ -1,6 +1,6 @@
 ---
 title: "With a Camera in Nature"
-date: 
+date:
 draft: false
 author: "Carl Kurtz"
 articletype: "Photo Essay"
@@ -35,4 +35,4 @@ About twenty years ago, digital photography opened up a whole range of new oppor
 
 {{% figure_dg pid="28501" caption="A thrteen-lined ground squirrel, a tallgrass prairie resident, April 24, 2019" %}}
 
-{{% figure_dg pid="28501" caption="Compass plants and big bluestem silhouetted at Sunset, June 30, 2018" %}}
+{{% figure_dg pid="28582" caption="Compass plants and big bluestem silhouetted at Sunset, June 30, 2018" %}}

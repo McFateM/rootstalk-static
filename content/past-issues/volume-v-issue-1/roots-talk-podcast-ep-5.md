@@ -1,7 +1,7 @@
 ---
 title: "Roots Talk! Podcast Episode 5"
 subtitle: "What Local Foods Really Cost"
-date: 2020-11-11T17:15:16-07:00
+date: 2020-12-14T10:32:05-07:00
 draft: false
 author: "Eva Gemrich & Dru Greenwood"
 articletype: "Podcast"
@@ -19,4 +19,8 @@ In the fifth *Roots Talk!* podcast, Rootstalk editors Eva Gemrich and Dru Greenw
 {{% audio src="/audio/roots-talk-ep-5.mp3" %}}
 -->
 
+{{% audio_dg pid="28273" caption="Click the play button to hear the audio"%}}
+
+<!--
 {{% audio src="https://digital.grinnell.edu/islandora/object/grinnell:28273/datastream/OBJ/view" %}}
+-->
