@@ -1,0 +1,16 @@
+domains:
+- domain: rootstalk.grinnell.rocks
+  type: PRIMARY
+  zone: grinnell.rocks
+name: rootstalk-static
+region: nyc
+static_sites:
+- build_command: hugo -d public
+  environment_slug: hugo
+  github:
+    branch: volume-vii-issue-1
+    deploy_on_push: true
+    repo: McFateM/rootstalk-static
+  name: rootstalk-static
+  routes:
+  - path: /
