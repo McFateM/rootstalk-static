@@ -1,6 +1,6 @@
-# baseURL = "https://rootstalk.grinnell.rocks/"
+baseURL = "https://rootstalk.grinnell.rocks/"
 # baseURL = "http://rootstalk-2019summer.s3-website-us-east-1.amazonaws.com/"
-baseURL = "https://rootstalk.grinnell.edu/"
+# baseURL = "https://rootstalk.grinnell.edu/"
 languageCode = "en-us"
 title = "Rootstalk"
 theme = "rootstalkzen"
@@ -15,16 +15,16 @@ theme = "rootstalkzen"
   #copyright = "Rootstalk 2020"
 
 [params.currentIssue]
-  Title = "Volume VI, Issue 1"
-  URL = "/volume-vi-issue-1/"
+  Title = "Volume VII, Issue 1"
+  URL = "/volume-vii-issue-1/"
 
 [menu]
 
   [[menu.main]]
-    identifier = "volume-vi-issue-1"
+    identifier = "volume-vii-issue-1"
     name = "Current Issue"
-    title = "Volume VI, Issue 1"
-    url = "/volume-vi-issue-1/"
+    title = "Volume VII, Issue 1"
+    url = "/volume-vii-issue-1/"
     weight = "1"
 
   [[menu.main]]
